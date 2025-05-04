@@ -1,0 +1,263 @@
+[
+    {
+      "id": 1,
+      "question": "'Vulnerable' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "bakım",
+        "B": "farz etmek",
+        "C": "savunmasız",
+        "D": "yardım etmek",
+        "E": "iletkenlik",
+        "F": "gider"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 2,
+      "question": "'Vital' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "düşünce",
+        "B": "verimlilik",
+        "C": "tesadüf",
+        "D": "çok önemli",
+        "E": "aşama aşama",
+        "F": "sonuç çıkarmak"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 3,
+      "question": "'pusula' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Compass",
+        "B": "Precisely",
+        "C": "Expenditure",
+        "D": "Notion",
+        "E": "Progressively",
+        "F": "Deduce"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 4,
+      "question": "'kesinlik' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Prohibit",
+        "B": "Notion",
+        "C": "Assume",
+        "D": "Accuracy",
+        "E": "Vital",
+        "F": "Fertility"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 5,
+      "question": "'Deduce' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "tahliye etmek",
+        "B": "iletkenlik",
+        "C": "pusula",
+        "D": "anlam çıkarmak",
+        "E": "harcama",
+        "F": "kesinlik"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 6,
+      "question": "'hassas' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Prohibit",
+        "B": "Evacuate",
+        "C": "Coincidence",
+        "D": "Vulnerable",
+        "E": "Notion",
+        "F": "Deduce"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 7,
+      "question": "'boşaltmak' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Fertility",
+        "B": "Supplement",
+        "C": "Assume",
+        "D": "Progressively",
+        "E": "Accuracy",
+        "F": "Evacuate"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 8,
+      "question": "'Accuracy' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "hayati",
+        "B": "rastlantı",
+        "C": "anlam çıkarmak",
+        "D": "iletkenlik",
+        "E": "tam olarak",
+        "F": "doğruluk"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 9,
+      "question": "'düşünce' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Progressively",
+        "B": "Cope with",
+        "C": "Notion",
+        "D": "Precisely",
+        "E": "Supplement",
+        "F": "Drawback"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 10,
+      "question": "'iletkenlik' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Accuracy",
+        "B": "Cope with",
+        "C": "Conductivity",
+        "D": "Notion",
+        "E": "Supplement",
+        "F": "Vital"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 11,
+      "question": "'Assume' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "üstesinden gelmek",
+        "B": "hassas",
+        "C": "ek",
+        "D": "kesinlikle",
+        "E": "farz etmek",
+        "F": "sorun"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 12,
+      "question": "'aşama aşama' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Progressively",
+        "B": "Cope with",
+        "C": "Notion",
+        "D": "Evacuate",
+        "E": "Expenditure",
+        "F": "Maintenance"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 13,
+      "question": "'koruma' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Maintenance",
+        "B": "Precisely",
+        "C": "Drawback",
+        "D": "Cope with",
+        "E": "Progressively",
+        "F": "Accuracy"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 14,
+      "question": "'Expenditure' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "hassas",
+        "B": "yasaklamak",
+        "C": "gider",
+        "D": "başa çıkmak",
+        "E": "hayati",
+        "F": "harcama"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 15,
+      "question": "'Deduce' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "harcama",
+        "B": "sonuç çıkarmak",
+        "C": "hayati",
+        "D": "ek",
+        "E": "giderek",
+        "F": "tesadüf"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 16,
+      "question": "'yardım etmek' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Assist",
+        "B": "Progressively",
+        "C": "Fertility",
+        "D": "Drawback",
+        "E": "Supplement",
+        "F": "Precisely"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 17,
+      "question": "'sorun' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Coincidence",
+        "B": "Vulnerable",
+        "C": "Evacuate",
+        "D": "Maintenance",
+        "E": "Drawback",
+        "F": "Expenditure"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 18,
+      "question": "'Fertility' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "kademeli olarak",
+        "B": "verimlilik",
+        "C": "boşaltmak",
+        "D": "farz etmek",
+        "E": "tahliye etmek",
+        "F": "kolay zarar görebilir"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 19,
+      "question": "'Maintenance' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "verimlilik",
+        "B": "kademeli olarak",
+        "C": "anlam çıkarmak",
+        "D": "savunmasız",
+        "E": "bakım",
+        "F": "çok önemli"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 20,
+      "question": "'Maintenance' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "savunmasız",
+        "B": "kolay zarar görebilir",
+        "C": "sürdürme",
+        "D": "engel",
+        "E": "düşünce",
+        "F": "hayati"
+      },
+      "correct": "C"
+    }
+  ]
+  

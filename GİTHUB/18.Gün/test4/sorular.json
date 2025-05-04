@@ -1,0 +1,263 @@
+[
+    {
+      "id": 1,
+      "question": "'fikir' kelimesine karşılık gelen İngilizce ifade hangisidir?",
+      "options": {
+        "A": "Conductivity",
+        "B": "Vital",
+        "C": "Drawback",
+        "D": "Notion",
+        "E": "Cope with",
+        "F": "Compass"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 2,
+      "question": "'varsaymak' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Supplement",
+        "B": "Cope with",
+        "C": "Assume",
+        "D": "Conductivity",
+        "E": "Vital",
+        "F": "Precisely"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 3,
+      "question": "Precisely kelimesiyle ifade edilen kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "yardım etmek",
+        "B": "kademeli olarak",
+        "C": "savunmasız",
+        "D": "verimlilik",
+        "E": "başa çıkmak",
+        "F": "kesinlikle"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 4,
+      "question": "'Deduce' anlamına gelen kelime hangisidir?",
+      "options": {
+        "A": "fikir",
+        "B": "hayati",
+        "C": "sonuç çıkarmak",
+        "D": "dezavantaj",
+        "E": "pusula",
+        "F": "yardım etmek"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 5,
+      "question": "Prohibit kelimesinin Türkçe karşılığı nedir?",
+      "options": {
+        "A": "iletkenlik",
+        "B": "doğruluk",
+        "C": "yasaklamak",
+        "D": "başa çıkmak",
+        "E": "verimlilik",
+        "F": "kademeli olarak"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 6,
+      "question": "'kademeli olarak' aşağıdakilerden hangisine karşılık gelir (İngilizce)?",
+      "options": {
+        "A": "Vital",
+        "B": "Assume",
+        "C": "Vulnerable",
+        "D": "Assist",
+        "E": "Evacuate",
+        "F": "Progressively"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 7,
+      "question": "Cope with kelimesiyle en yakın anlamlı Türkçe karşılık hangisidir?",
+      "options": {
+        "A": "takviye",
+        "B": "doğruluk",
+        "C": "pusula",
+        "D": "kademeli olarak",
+        "E": "yasaklamak",
+        "F": "başa çıkmak"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 8,
+      "question": "Compass kelimesiyle en yakın anlamlı Türkçe karşılık hangisidir?",
+      "options": {
+        "A": "sonuç çıkarmak",
+        "B": "tahliye etmek",
+        "C": "fikir",
+        "D": "pusula",
+        "E": "verimlilik",
+        "F": "bakım"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 9,
+      "question": "Expenditure kelimesiyle ifade edilen kavram aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "verimlilik",
+        "B": "harcama",
+        "C": "savunmasız",
+        "D": "sonuç çıkarmak",
+        "E": "fikir",
+        "F": "dezavantaj"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 10,
+      "question": "'tesadüf' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Cope with",
+        "B": "Assist",
+        "C": "Coincidence",
+        "D": "Precisely",
+        "E": "Conductivity",
+        "F": "Vital"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 11,
+      "question": "'bakım' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Fertility",
+        "B": "Accuracy",
+        "C": "Progressively",
+        "D": "Notion",
+        "E": "Coincidence",
+        "F": "Maintenance"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 12,
+      "question": "yardım etmek kelimesinin İngilizce karşılığı nedir?",
+      "options": {
+        "A": "Drawback",
+        "B": "Notion",
+        "C": "Supplement",
+        "D": "Cope with",
+        "E": "Expenditure",
+        "F": "Assist"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 13,
+      "question": "Aşağıdakilerden hangisi 'iletkenlik' anlamına gelen İngilizce kelimedir?",
+      "options": {
+        "A": "Conductivity",
+        "B": "Deduce",
+        "C": "Precisely",
+        "D": "Vital",
+        "E": "Prohibit",
+        "F": "Coincidence"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 14,
+      "question": "'Accuracy' kelimesiyle anlatılmak istenen nedir?",
+      "options": {
+        "A": "sonuç çıkarmak",
+        "B": "harcama",
+        "C": "verimlilik",
+        "D": "doğruluk",
+        "E": "yardım etmek",
+        "F": "bakım"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 15,
+      "question": "'Vulnerable' kelimesi ne anlama gelir?",
+      "options": {
+        "A": "savunmasız",
+        "B": "tahliye etmek",
+        "C": "fikir",
+        "D": "tesadüf",
+        "E": "verimlilik",
+        "F": "başa çıkmak"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 16,
+      "question": "Fertility kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "verimlilik",
+        "B": "iletkenlik",
+        "C": "savunmasız",
+        "D": "bakım",
+        "E": "başa çıkmak",
+        "F": "fikir"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 17,
+      "question": "'hayati' kelimesine karşılık gelen İngilizce ifade hangisidir?",
+      "options": {
+        "A": "Prohibit",
+        "B": "Assist",
+        "C": "Vulnerable",
+        "D": "Assume",
+        "E": "Conductivity",
+        "F": "Vital"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 18,
+      "question": "Evacuate kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "tahliye etmek",
+        "B": "pusula",
+        "C": "yasaklamak",
+        "D": "kademeli olarak",
+        "E": "hayati",
+        "F": "yardım etmek"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 19,
+      "question": "Drawback ne demektir?",
+      "options": {
+        "A": "tahliye etmek",
+        "B": "savunmasız",
+        "C": "varsaymak",
+        "D": "yasaklamak",
+        "E": "takviye",
+        "F": "dezavantaj"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 20,
+      "question": "'Supplement' kelimesi ne anlama gelir?",
+      "options": {
+        "A": "savunmasız",
+        "B": "yardım etmek",
+        "C": "takviye",
+        "D": "pusula",
+        "E": "iletkenlik",
+        "F": "doğruluk"
+      },
+      "correct": "C"
+    }
+  ]
+  
