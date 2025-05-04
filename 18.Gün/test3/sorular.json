@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "question": "'iletkenlik' aşağıdakilerden hangisine karşılık gelir (İngilizce)?",
+    "options": {
+      "A": "Evacuate",
+      "B": "Progressively",
+      "C": "Compass",
+      "D": "Conductivity",
+      "E": "Vulnerable",
+      "F": "Fertility"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "'başa çıkmak' ifadesi İngilizce olarak nasıl yazılır?",
+    "options": {
+      "A": "Assume",
+      "B": "Fertility",
+      "C": "Vulnerable",
+      "D": "Conductivity",
+      "E": "Cope with",
+      "F": "Prohibit"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 3,
+    "question": "'kademeli olarak' anlamına gelen kelime hangisidir?",
+    "options": {
+      "A": "Progressively",
+      "B": "Supplement",
+      "C": "Assist",
+      "D": "Deduce",
+      "E": "Accuracy",
+      "F": "Compass"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "'harcama' Türkçesinin İngilizcesi nedir?",
+    "options": {
+      "A": "Supplement",
+      "B": "Drawback",
+      "C": "Assume",
+      "D": "Expenditure",
+      "E": "Deduce",
+      "F": "Progressively"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 5,
+    "question": "tesadüf kelimesinin İngilizce karşılığı nedir?",
+    "options": {
+      "A": "Vital",
+      "B": "Supplement",
+      "C": "Drawback",
+      "D": "Progressively",
+      "E": "Evacuate",
+      "F": "Coincidence"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "'yasaklamak' Türkçesinin İngilizcesi nedir?",
+    "options": {
+      "A": "Notion",
+      "B": "Supplement",
+      "C": "Prohibit",
+      "D": "Precisely",
+      "E": "Conductivity",
+      "F": "Accuracy"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "'takviye' kelimesine karşılık gelen İngilizce ifade hangisidir?",
+    "options": {
+      "A": "Drawback",
+      "B": "Expenditure",
+      "C": "Notion",
+      "D": "Vital",
+      "E": "Supplement",
+      "F": "Assist"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 8,
+    "question": "'hayati' kelimesine karşılık gelen İngilizce ifade hangisidir?",
+    "options": {
+      "A": "Compass",
+      "B": "Maintenance",
+      "C": "Vital",
+      "D": "Cope with",
+      "E": "Progressively",
+      "F": "Conductivity"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "'bakım' kelimesine karşılık gelen İngilizce ifade hangisidir?",
+    "options": {
+      "A": "Vital",
+      "B": "Precisely",
+      "C": "Expenditure",
+      "D": "Evacuate",
+      "E": "Maintenance",
+      "F": "Notion"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "'verimlilik' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Accuracy",
+      "B": "Assist",
+      "C": "Cope with",
+      "D": "Evacuate",
+      "E": "Fertility",
+      "F": "Drawback"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 11,
+    "question": "'sonuç çıkarmak' ifadesinin doğru İngilizcesi nedir?",
+    "options": {
+      "A": "Accuracy",
+      "B": "Deduce",
+      "C": "Coincidence",
+      "D": "Compass",
+      "E": "Prohibit",
+      "F": "Supplement"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "'doğruluk' ifadesi İngilizce olarak nasıl yazılır?",
+    "options": {
+      "A": "Cope with",
+      "B": "Compass",
+      "C": "Coincidence",
+      "D": "Evacuate",
+      "E": "Vulnerable",
+      "F": "Accuracy"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 13,
+    "question": "'yardım etmek' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Cope with",
+      "B": "Compass",
+      "C": "Notion",
+      "D": "Assist",
+      "E": "Precisely",
+      "F": "Vulnerable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "'dezavantaj' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Conductivity",
+      "B": "Coincidence",
+      "C": "Supplement",
+      "D": "Drawback",
+      "E": "Compass",
+      "F": "Precisely"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "'savunmasız' aşağıdakilerden hangisine karşılık gelir (İngilizce)?",
+    "options": {
+      "A": "Vulnerable",
+      "B": "Fertility",
+      "C": "Prohibit",
+      "D": "Evacuate",
+      "E": "Coincidence",
+      "F": "Assume"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "'kesinlikle' anlamına gelen kelime hangisidir?",
+    "options": {
+      "A": "Precisely",
+      "B": "Coincidence",
+      "C": "Cope with",
+      "D": "Supplement",
+      "E": "Vital",
+      "F": "Progressively"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "'fikir' ifadesi İngilizce olarak nasıl yazılır?",
+    "options": {
+      "A": "Notion",
+      "B": "Accuracy",
+      "C": "Maintenance",
+      "D": "Expenditure",
+      "E": "Supplement",
+      "F": "Vital"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "'tahliye etmek' aşağıdakilerden hangisine karşılık gelir (İngilizce)?",
+    "options": {
+      "A": "Expenditure",
+      "B": "Precisely",
+      "C": "Evacuate",
+      "D": "Compass",
+      "E": "Vulnerable",
+      "F": "Accuracy"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "'varsaymak' ne demektir (İngilizce)?",
+    "options": {
+      "A": "Progressively",
+      "B": "Evacuate",
+      "C": "Vulnerable",
+      "D": "Deduce",
+      "E": "Assume",
+      "F": "Accuracy"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 20,
+    "question": "'pusula' kelimesine karşılık gelen İngilizce ifade hangisidir?",
+    "options": {
+      "A": "Maintenance",
+      "B": "Cope with",
+      "C": "Expenditure",
+      "D": "Assist",
+      "E": "Compass",
+      "F": "Precisely"
+    },
+    "correct": "E"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "question": "'su baskını' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Contamination",
+      "B": "Estimate",
+      "C": "Decay",
+      "D": "Persistent",
+      "E": "Indicate",
+      "F": "Flooding"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 2,
+    "question": "'Endanger' kelimesi aşağıdakilerden hangisini ifade eder?",
+    "options": {
+      "A": "kirlilik",
+      "B": "çürümek",
+      "C": "devamlı",
+      "D": "koruma",
+      "E": "tahmin etmek",
+      "F": "tehlikeye atmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 3,
+    "question": "'tehdit' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Threat",
+      "B": "Establish",
+      "C": "Contamination",
+      "D": "Comparatively",
+      "E": "Fatal",
+      "F": "Density"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "'göstermek' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Threat",
+      "B": "Decay",
+      "C": "Lightning",
+      "D": "Indicate",
+      "E": "Persistent",
+      "F": "Density"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 5,
+    "question": "'koruma' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Flooding",
+      "B": "Density",
+      "C": "Persistent",
+      "D": "Conservation",
+      "E": "Decline",
+      "F": "Estimate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "'Boost' kelimesi aşağıdakilerden hangisini ifade eder?",
+    "options": {
+      "A": "ölümcül",
+      "B": "işaret etmek",
+      "C": "desteklemek",
+      "D": "çürümek",
+      "E": "sel",
+      "F": "yıldırım"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "'yıldırım' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Estimate",
+      "B": "Contamination",
+      "C": "Density",
+      "D": "Fatal",
+      "E": "Indicate",
+      "F": "Lightning"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "'Experiment' kelimesi aşağıdakilerden hangisini ifade eder?",
+    "options": {
+      "A": "sel",
+      "B": "tehlike",
+      "C": "tahmin",
+      "D": "su baskını",
+      "E": "reddetmek",
+      "F": "deney yapmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "'doğrulamak' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Endanger",
+      "B": "Threat",
+      "C": "Comparatively",
+      "D": "Flooding",
+      "E": "Verify",
+      "F": "Density"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "'yoğunluk' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Eventual",
+      "B": "Verify",
+      "C": "Establish",
+      "D": "Density",
+      "E": "Decline",
+      "F": "Comparatively"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "'anket' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Inquiry",
+      "B": "Endanger",
+      "C": "Flooding",
+      "D": "Persistent",
+      "E": "Lightning",
+      "F": "Density"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "'öldürücü' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Endanger",
+      "B": "Comparatively",
+      "C": "Contamination",
+      "D": "Lightning",
+      "E": "Establish",
+      "F": "Fatal"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 13,
+    "question": "'artırmak' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Boost",
+      "B": "Flooding",
+      "C": "Eventual",
+      "D": "Fatal",
+      "E": "Lightning",
+      "F": "Decay"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "'yükseltmek' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Estimate",
+      "B": "Inquiry",
+      "C": "Boost",
+      "D": "Lightning",
+      "E": "Threat",
+      "F": "Flooding"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "'Establish' kelimesi aşağıdakilerden hangisini ifade eder?",
+    "options": {
+      "A": "koruma",
+      "B": "reddetmek",
+      "C": "teyit etmek",
+      "D": "anket",
+      "E": "yıldırım",
+      "F": "oluşturmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 16,
+    "question": "'Decline' kelimesi aşağıdakilerden hangisini ifade eder?",
+    "options": {
+      "A": "reddetmek",
+      "B": "kirlenme",
+      "C": "kurmak",
+      "D": "çürümek",
+      "E": "kalıcı",
+      "F": "desteklemek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "'tahkikat' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Threat",
+      "B": "Boost",
+      "C": "Inquiry",
+      "D": "Lightning",
+      "E": "Fatal",
+      "F": "Verify"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "'tehlike' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Conservation",
+      "B": "Contamination",
+      "C": "Threat",
+      "D": "Estimate",
+      "E": "Experiment",
+      "F": "Verify"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "'deney' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Establish",
+      "B": "Endanger",
+      "C": "Experiment",
+      "D": "Threat",
+      "E": "Flooding",
+      "F": "Eventual"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "'tesis etmek' kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Decay",
+      "B": "Comparatively",
+      "C": "Decline",
+      "D": "Establish",
+      "E": "Conservation",
+      "F": "Estimate"
+    },
+    "correct": "D"
+  }
+]
