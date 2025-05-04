@@ -1,0 +1,263 @@
+[
+    {
+      "id": 1,
+      "question": "'düşünce' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Notion",
+        "B": "Cope with",
+        "C": "Drawback",
+        "D": "Supplement",
+        "E": "Assist",
+        "F": "Prohibit"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 2,
+      "question": "'Vulnerable' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "üretkenlik",
+        "B": "harcama",
+        "C": "başa çıkmak",
+        "D": "engel",
+        "E": "kolay zarar görebilir",
+        "F": "tahliye etmek"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 3,
+      "question": "'Drawback' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "hassas",
+        "B": "kesinlik",
+        "C": "sorun",
+        "D": "iletkenlik",
+        "E": "koruma",
+        "F": "savunmasız"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 4,
+      "question": "'Vital' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "kolay zarar görebilir",
+        "B": "koruma",
+        "C": "tam olarak",
+        "D": "fikir",
+        "E": "çok önemli",
+        "F": "gider"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 5,
+      "question": "'aşama aşama' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Progressively",
+        "B": "Coincidence",
+        "C": "Cope with",
+        "D": "Conductivity",
+        "E": "Fertility",
+        "F": "Drawback"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 6,
+      "question": "'Prohibit' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "sonuç çıkarmak",
+        "B": "yasaklamak",
+        "C": "bakım",
+        "D": "gider",
+        "E": "giderek",
+        "F": "düşünce"
+      },
+      "correct": "B"
+    },
+    {
+      "id": 7,
+      "question": "'Notion' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "kademeli olarak",
+        "B": "tam olarak",
+        "C": "savunmasız",
+        "D": "gider",
+        "E": "çok önemli",
+        "F": "fikir"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 8,
+      "question": "'Cope with' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "yasaklamak",
+        "B": "hassas",
+        "C": "üretkenlik",
+        "D": "koruma",
+        "E": "başa çıkmak",
+        "F": "varsaymak"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 9,
+      "question": "'Deduce' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "anlam çıkarmak",
+        "B": "hassas",
+        "C": "düşünce",
+        "D": "varsaymak",
+        "E": "kesinlikle",
+        "F": "dezavantaj"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 10,
+      "question": "'Precisely' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "hayati",
+        "B": "tesadüf",
+        "C": "hassas",
+        "D": "yardım etmek",
+        "E": "harcama",
+        "F": "kesinlikle"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 11,
+      "question": "'Maintenance' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "tahliye etmek",
+        "B": "farz etmek",
+        "C": "üretkenlik",
+        "D": "sürdürme",
+        "E": "giderek",
+        "F": "kesinlikle"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 12,
+      "question": "'hayati' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Cope with",
+        "B": "Assume",
+        "C": "Coincidence",
+        "D": "Deduce",
+        "E": "Conductivity",
+        "F": "Vital"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 13,
+      "question": "'Fertility' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "başa çıkmak",
+        "B": "doğruluk",
+        "C": "pusula",
+        "D": "fikir",
+        "E": "düşünce",
+        "F": "üretkenlik"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 14,
+      "question": "'Cope with' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "harcama",
+        "B": "iletkenlik",
+        "C": "giderek",
+        "D": "üstesinden gelmek",
+        "E": "yasaklamak",
+        "F": "sürdürme"
+      },
+      "correct": "D"
+    },
+    {
+      "id": 15,
+      "question": "'takviye' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Vital",
+        "B": "Accuracy",
+        "C": "Expenditure",
+        "D": "Notion",
+        "E": "Conductivity",
+        "F": "Supplement"
+      },
+      "correct": "F"
+    },
+    {
+      "id": 16,
+      "question": "'Precisely' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "fikir",
+        "B": "varsaymak",
+        "C": "yasaklamak",
+        "D": "sorun",
+        "E": "tam olarak",
+        "F": "koruma"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 17,
+      "question": "'harcama' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Drawback",
+        "B": "Vulnerable",
+        "C": "Evacuate",
+        "D": "Assume",
+        "E": "Expenditure",
+        "F": "Maintenance"
+      },
+      "correct": "E"
+    },
+    {
+      "id": 18,
+      "question": "'pusula' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Compass",
+        "B": "Conductivity",
+        "C": "Accuracy",
+        "D": "Supplement",
+        "E": "Precisely",
+        "F": "Progressively"
+      },
+      "correct": "A"
+    },
+    {
+      "id": 19,
+      "question": "'Accuracy' kelimesi aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "sorun",
+        "B": "bakım",
+        "C": "kesinlik",
+        "D": "iletkenlik",
+        "E": "boşaltmak",
+        "F": "yardım etmek"
+      },
+      "correct": "C"
+    },
+    {
+      "id": 20,
+      "question": "'boşaltmak' kelimesinin İngilizcesi hangisidir?",
+      "options": {
+        "A": "Assist",
+        "B": "Assume",
+        "C": "Notion",
+        "D": "Evacuate",
+        "E": "Drawback",
+        "F": "Supplement"
+      },
+      "correct": "D"
+    }
+  ]
+  
