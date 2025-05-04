@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"İstikrar\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Sensible",
+      "B": "Regardless of",
+      "C": "Lessen",
+      "D": "Crash",
+      "E": "Stability",
+      "F": "Visibility"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 2,
+    "question": "\"Evolution\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Tehlike, risk",
+      "B": "Kuvvetlendirme, artış",
+      "C": "Evrim",
+      "D": "Çarpışma, kaza",
+      "E": "Mantıklı, akıllıca",
+      "F": "Deprem"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"Visibility\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Görünürlük, görüş mesafesi",
+      "B": "İnkar edilemez",
+      "C": "Felaket, afet",
+      "D": "Azaltmak, hafifletmek",
+      "E": "Mantıklı, akıllıca",
+      "F": "İstikrar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "\"Regardless of\" ne anlama gelir?",
+    "options": {
+      "A": "Evrim",
+      "B": "Kirletmek",
+      "C": "Çarpışma, kaza",
+      "D": "Azaltmak, hafifletmek",
+      "E": "Verimlilik",
+      "F": "-e bakılmaksızın"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"Pollute\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Evrim",
+      "B": "Tavsiye etmek, zorlamak",
+      "C": "-e bakılmaksızın",
+      "D": "İnkar edilemez",
+      "E": "İstikrarsız",
+      "F": "Kirletmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"Deprem\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Adverse",
+      "B": "Stability",
+      "C": "Undeniable",
+      "D": "Urge",
+      "E": "Evolution",
+      "F": "Earthquake"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 7,
+    "question": "\"Disaster\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Evrim",
+      "B": "Verimlilik",
+      "C": "Felaket, afet",
+      "D": "Tavsiye etmek, zorlamak",
+      "E": "-e bakılmaksızın",
+      "F": "Mantıklı, akıllıca"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Lessen\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Deprem",
+      "B": "Azaltmak, hafifletmek",
+      "C": "-e bakılmaksızın",
+      "D": "İstikrar",
+      "E": "Zararlı",
+      "F": "Kuvvetlendirme, artış"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "\"Evrim\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Visibility",
+      "B": "Adverse",
+      "C": "Pollute",
+      "D": "Crash",
+      "E": "Evolution",
+      "F": "Harmful"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "\"Efficiency\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Deprem",
+      "B": "Verimlilik",
+      "C": "İrtifa, yükseklik",
+      "D": "Çarpışma, kaza",
+      "E": "Kuvvetlendirme, artış",
+      "F": "Kirletmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "\"Sensible\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Deprem",
+      "B": "Mantıklı, akıllıca",
+      "C": "İstikrar",
+      "D": "Verimlilik",
+      "E": "Olumsuz, ters",
+      "F": "Evrim"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "\"Urge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Felaket, afet",
+      "B": "Çarpışma, kaza",
+      "C": "Azaltmak, hafifletmek",
+      "D": "Tavsiye etmek, zorlamak",
+      "E": "Kirletmek",
+      "F": "Verimlilik"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "question": "\"Evolution\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "İstikrar",
+      "B": "Deprem",
+      "C": "İstikrarsız",
+      "D": "Evrim",
+      "E": "-e bakılmaksızın",
+      "F": "Görünürlük, görüş mesafesi"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "\"Hafifletmek, azaltmak\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Adverse",
+      "B": "Regardless of",
+      "C": "Visibility",
+      "D": "Mitigate",
+      "E": "Pollute",
+      "F": "Efficiency"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "\"İstikrar\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Unstable",
+      "B": "Altitude",
+      "C": "Urge",
+      "D": "Stability",
+      "E": "Efficiency",
+      "F": "Sensible"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "\"Evolution\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Zararlı",
+      "B": "-e bakılmaksızın",
+      "C": "Evrim",
+      "D": "Mantıklı, akıllıca",
+      "E": "Deprem",
+      "F": "Kirletmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Altitude\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "İrtifa, yükseklik",
+      "B": "Hafifletmek, azaltmak",
+      "C": "-e bakılmaksızın",
+      "D": "Tavsiye etmek, zorlamak",
+      "E": "İstikrar",
+      "F": "Evrim"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "\"Verimlilik\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Harmful",
+      "B": "Adverse",
+      "C": "Urge",
+      "D": "Hazard",
+      "E": "Efficiency",
+      "F": "Visibility"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 19,
+    "question": "\"Mantıklı, akıllıca\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Harmful",
+      "B": "Sensible",
+      "C": "Crash",
+      "D": "Mitigate",
+      "E": "Earthquake",
+      "F": "Altitude"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "\"Unstable\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Felaket, afet",
+      "B": "Tavsiye etmek, zorlamak",
+      "C": "Hafifletmek, azaltmak",
+      "D": "Tehlike, risk",
+      "E": "İstikrarsız",
+      "F": "Olumsuz, ters"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 21,
+    "question": "\"Crash\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Çarpışma, kaza",
+      "B": "Azaltmak, hafifletmek",
+      "C": "Hafifletmek, azaltmak",
+      "D": "İrtifa, yükseklik",
+      "E": "Deprem",
+      "F": "İstikrar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "question": "\"Azaltmak, hafifletmek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Disaster",
+      "B": "Pollute",
+      "C": "Lessen",
+      "D": "Regardless of",
+      "E": "Visibility",
+      "F": "Urge"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "\"İnkar edilemez\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Pollute",
+      "B": "Urge",
+      "C": "Mitigate",
+      "D": "Undeniable",
+      "E": "Harmful",
+      "F": "Lessen"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "\"Azaltmak, hafifletmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Lessen",
+      "B": "Harmful",
+      "C": "Disaster",
+      "D": "Efficiency",
+      "E": "Earthquake",
+      "F": "Altitude"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "\"Mitigate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Hafifletmek, azaltmak",
+      "B": "Deprem",
+      "C": "Kirletmek",
+      "D": "Verimlilik",
+      "E": "İstikrarsız",
+      "F": "İnkar edilemez"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "\"Azaltmak, hafifletmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Evolution",
+      "B": "Stability",
+      "C": "Crash",
+      "D": "Harmful",
+      "E": "Lessen",
+      "F": "Hazard"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 27,
+    "question": "\"İstikrarsız\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Altitude",
+      "B": "Stability",
+      "C": "Hazard",
+      "D": "Mitigate",
+      "E": "Unstable",
+      "F": "Amplification"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 28,
+    "question": "\"Zararlı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Harmful",
+      "B": "Visibility",
+      "C": "Regardless of",
+      "D": "Efficiency",
+      "E": "Hazard",
+      "F": "Sensible"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "\"Kuvvetlendirme, artış\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Sensible",
+      "B": "Amplification",
+      "C": "Evolution",
+      "D": "Adverse",
+      "E": "Harmful",
+      "F": "Stability"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "\"Crash\" ne anlama gelir?",
+    "options": {
+      "A": "Tavsiye etmek, zorlamak",
+      "B": "Azaltmak, hafifletmek",
+      "C": "Olumsuz, ters",
+      "D": "Çarpışma, kaza",
+      "E": "Zararlı",
+      "F": "İstikrarsız"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 31,
+    "question": "\"Harmful\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Evrim",
+      "B": "Zararlı",
+      "C": "Tavsiye etmek, zorlamak",
+      "D": "İstikrar",
+      "E": "Tehlike, risk",
+      "F": "İnkar edilemez"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "\"Efficiency\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Görünürlük, görüş mesafesi",
+      "B": "Verimlilik",
+      "C": "İstikrar",
+      "D": "Kuvvetlendirme, artış",
+      "E": "-e bakılmaksızın",
+      "F": "Mantıklı, akıllıca"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "\"İnkar edilemez\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Harmful",
+      "B": "Visibility",
+      "C": "Crash",
+      "D": "Altitude",
+      "E": "Mitigate",
+      "F": "Undeniable"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Mantıklı, akıllıca\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Efficiency",
+      "B": "Sensible",
+      "C": "Undeniable",
+      "D": "Pollute",
+      "E": "Adverse",
+      "F": "Altitude"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "\"Evrim\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Crash",
+      "B": "Efficiency",
+      "C": "Stability",
+      "D": "Regardless of",
+      "E": "Evolution",
+      "F": "Altitude"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 36,
+    "question": "\"İstikrar\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Lessen",
+      "B": "Stability",
+      "C": "Disaster",
+      "D": "Harmful",
+      "E": "Mitigate",
+      "F": "Efficiency"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "\"Adverse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Olumsuz, ters",
+      "B": "İrtifa, yükseklik",
+      "C": "İnkar edilemez",
+      "D": "Kirletmek",
+      "E": "İstikrarsız",
+      "F": "Evrim"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "\"Hafifletmek, azaltmak\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Pollute",
+      "B": "Hazard",
+      "C": "Urge",
+      "D": "Mitigate",
+      "E": "Evolution",
+      "F": "Unstable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "\"Zararlı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Harmful",
+      "B": "Adverse",
+      "C": "Efficiency",
+      "D": "Pollute",
+      "E": "Visibility",
+      "F": "Crash"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Disaster\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Felaket, afet",
+      "B": "Azaltmak, hafifletmek",
+      "C": "Tehlike, risk",
+      "D": "İrtifa, yükseklik",
+      "E": "Görünürlük, görüş mesafesi",
+      "F": "Olumsuz, ters"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "\"Amplification\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "İstikrarsız",
+      "B": "-e bakılmaksızın",
+      "C": "İnkar edilemez",
+      "D": "Kuvvetlendirme, artış",
+      "E": "Felaket, afet",
+      "F": "Verimlilik"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "\"İnkar edilemez\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Undeniable",
+      "B": "Mitigate",
+      "C": "Regardless of",
+      "D": "Unstable",
+      "E": "Lessen",
+      "F": "Earthquake"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "\"Unstable\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Çarpışma, kaza",
+      "B": "İstikrarsız",
+      "C": "Olumsuz, ters",
+      "D": "Mantıklı, akıllıca",
+      "E": "Kuvvetlendirme, artış",
+      "F": "İrtifa, yükseklik"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "\"Görünürlük, görüş mesafesi\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Regardless of",
+      "B": "Undeniable",
+      "C": "Visibility",
+      "D": "Crash",
+      "E": "Pollute",
+      "F": "Unstable"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 45,
+    "question": "\"Unstable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Hafifletmek, azaltmak",
+      "B": "Zararlı",
+      "C": "Görünürlük, görüş mesafesi",
+      "D": "Tavsiye etmek, zorlamak",
+      "E": "İstikrarsız",
+      "F": "İrtifa, yükseklik"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 46,
+    "question": "\"Evolution\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Evrim",
+      "B": "Olumsuz, ters",
+      "C": "Tavsiye etmek, zorlamak",
+      "D": "Azaltmak, hafifletmek",
+      "E": "Mantıklı, akıllıca",
+      "F": "Kirletmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "\"İrtifa, yükseklik\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Unstable",
+      "B": "Earthquake",
+      "C": "Altitude",
+      "D": "Pollute",
+      "E": "Amplification",
+      "F": "Crash"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 48,
+    "question": "\"Mitigate\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "İstikrarsız",
+      "B": "Felaket, afet",
+      "C": "Olumsuz, ters",
+      "D": "Evrim",
+      "E": "İnkar edilemez",
+      "F": "Hafifletmek, azaltmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "\"Felaket, afet\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Crash",
+      "B": "Evolution",
+      "C": "Harmful",
+      "D": "Earthquake",
+      "E": "Mitigate",
+      "F": "Disaster"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Görünürlük, görüş mesafesi\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Unstable",
+      "B": "Pollute",
+      "C": "Urge",
+      "D": "Stability",
+      "E": "Visibility",
+      "F": "Hazard"
+    },
+    "correct": "E"
+  }
+]
