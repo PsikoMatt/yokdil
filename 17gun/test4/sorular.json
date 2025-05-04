@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "question": "\"Yükseltmek\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Measure",
+      "C": "Evidence",
+      "D": "Intensity",
+      "E": "Figure out",
+      "F": "Elevate"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 2,
+    "question": "\"Kanıt\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Rare",
+      "B": "Countless",
+      "C": "Evidence",
+      "D": "Figure out",
+      "E": "Distant",
+      "F": "Durable"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"Kanıt\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Underestimate",
+      "B": "Evidence",
+      "C": "Persist",
+      "D": "Spacecraft",
+      "E": "Durable",
+      "F": "Feature"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "question": "\"Neredeyse / Hemen hemen\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Eager",
+      "B": "Persist",
+      "C": "Destruction",
+      "D": "Durable",
+      "E": "Virtually",
+      "F": "Profitable"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 5,
+    "question": "\"Çözmek\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Persist",
+      "B": "Intensity",
+      "C": "Figure out",
+      "D": "Measure",
+      "E": "Virtually",
+      "F": "Evidence"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "question": "\"Şiddet\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Countless",
+      "B": "Intensity",
+      "C": "Persist",
+      "D": "Virtually",
+      "E": "Wildfire",
+      "F": "Evidence"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "Sıvı hale gelmiş anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Persist",
+      "B": "Rare",
+      "C": "Evidence",
+      "D": "Elevate",
+      "E": "Countless",
+      "F": "Molten"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "\"Sıvı hale gelmiş\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Feature",
+      "B": "Durable",
+      "C": "Spacecraft",
+      "D": "Intensity",
+      "E": "Destruction",
+      "F": "Molten"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "\"Yükseltmek\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Elevate",
+      "B": "Destruction",
+      "C": "Wildfire",
+      "D": "Spacecraft",
+      "E": "Eager",
+      "F": "Underestimate"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "Yabani ot ilacı sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Intensity",
+      "C": "Eager",
+      "D": "Figure out",
+      "E": "Evidence",
+      "F": "Countless"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "Hangi kelime \"Yıkım\" anlamına gelir?",
+    "options": {
+      "A": "Feature",
+      "B": "Destruction",
+      "C": "Evidence",
+      "D": "Elevate",
+      "E": "Measure",
+      "F": "Spacecraft"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "Hangi kelime \"Doğal/yaban yangını\" anlamına gelir?",
+    "options": {
+      "A": "Evidence",
+      "B": "Spacecraft",
+      "C": "Feature",
+      "D": "Wildfire",
+      "E": "Durable",
+      "F": "Virtually"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "question": "Ölçmek / Ölçü anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Distant",
+      "B": "Herbicide",
+      "C": "Countless",
+      "D": "Figure out",
+      "E": "Measure",
+      "F": "Durable"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 14,
+    "question": "\"Israr etmek / Sürdürmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Rare",
+      "B": "Persist",
+      "C": "Evidence",
+      "D": "Wildfire",
+      "E": "Elevate",
+      "F": "Herbicide"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "\"Sayısız\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Countless",
+      "B": "Eager",
+      "C": "Feature",
+      "D": "Destruction",
+      "E": "Rare",
+      "F": "Molten"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "Küçümsemek sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Figure out",
+      "B": "Distant",
+      "C": "Herbicide",
+      "D": "Underestimate",
+      "E": "Rare",
+      "F": "Virtually"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "\"Uzak\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Elevate",
+      "B": "Persist",
+      "C": "Spacecraft",
+      "D": "Underestimate",
+      "E": "Virtually",
+      "F": "Distant"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 18,
+    "question": "Hangi kelime \"Küçümsemek\" anlamına gelir?",
+    "options": {
+      "A": "Persist",
+      "B": "Measure",
+      "C": "Underestimate",
+      "D": "Spacecraft",
+      "E": "Durable",
+      "F": "Elevate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Sayısız\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Countless",
+      "B": "Durable",
+      "C": "Elevate",
+      "D": "Measure",
+      "E": "Profitable",
+      "F": "Intensity"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "Kar getiren anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Profitable",
+      "B": "Countless",
+      "C": "Durable",
+      "D": "Feature",
+      "E": "Eager",
+      "F": "Rare"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "\"Yabani ot ilacı\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Destruction",
+      "C": "Rare",
+      "D": "Spacecraft",
+      "E": "Profitable",
+      "F": "Elevate"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "question": "Uzay aracı sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Molten",
+      "B": "Herbicide",
+      "C": "Spacecraft",
+      "D": "Wildfire",
+      "E": "Profitable",
+      "F": "Virtually"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "Hevesli sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Rare",
+      "B": "Spacecraft",
+      "C": "Countless",
+      "D": "Eager",
+      "E": "Measure",
+      "F": "Feature"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "\"Neredeyse / Hemen hemen\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Persist",
+      "B": "Countless",
+      "C": "Virtually",
+      "D": "Herbicide",
+      "E": "Elevate",
+      "F": "Figure out"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 25,
+    "question": "\"Ölçmek / Ölçü\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Persist",
+      "C": "Intensity",
+      "D": "Measure",
+      "E": "Durable",
+      "F": "Rare"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "\"Yükseltmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Measure",
+      "B": "Underestimate",
+      "C": "Elevate",
+      "D": "Destruction",
+      "E": "Profitable",
+      "F": "Distant"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "Hangi kelime \"Doğal/yaban yangını\" anlamına gelir?",
+    "options": {
+      "A": "Wildfire",
+      "B": "Spacecraft",
+      "C": "Virtually",
+      "D": "Figure out",
+      "E": "Evidence",
+      "F": "Molten"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "\"Hevesli\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Underestimate",
+      "B": "Eager",
+      "C": "Measure",
+      "D": "Profitable",
+      "E": "Countless",
+      "F": "Durable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "Sayısız sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Underestimate",
+      "B": "Distant",
+      "C": "Rare",
+      "D": "Virtually",
+      "E": "Durable",
+      "F": "Countless"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 30,
+    "question": "Şiddet sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Evidence",
+      "B": "Destruction",
+      "C": "Persist",
+      "D": "Molten",
+      "E": "Herbicide",
+      "F": "Intensity"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "\"Küçümsemek\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Evidence",
+      "B": "Intensity",
+      "C": "Underestimate",
+      "D": "Profitable",
+      "E": "Figure out",
+      "F": "Destruction"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "\"Doğal/yaban yangını\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Wildfire",
+      "B": "Underestimate",
+      "C": "Measure",
+      "D": "Evidence",
+      "E": "Rare",
+      "F": "Figure out"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "Hangi kelime \"Özellik\" anlamına gelir?",
+    "options": {
+      "A": "Distant",
+      "B": "Underestimate",
+      "C": "Wildfire",
+      "D": "Durable",
+      "E": "Feature",
+      "F": "Profitable"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 34,
+    "question": "\"Sayısız\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Rare",
+      "B": "Distant",
+      "C": "Molten",
+      "D": "Persist",
+      "E": "Countless",
+      "F": "Measure"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"Kanıt\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Spacecraft",
+      "B": "Measure",
+      "C": "Destruction",
+      "D": "Eager",
+      "E": "Feature",
+      "F": "Evidence"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "\"Doğal/yaban yangını\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Evidence",
+      "B": "Persist",
+      "C": "Countless",
+      "D": "Eager",
+      "E": "Measure",
+      "F": "Wildfire"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 37,
+    "question": "\"Doğal/yaban yangını\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Persist",
+      "C": "Destruction",
+      "D": "Wildfire",
+      "E": "Eager",
+      "F": "Spacecraft"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Yıkım\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Persist",
+      "B": "Destruction",
+      "C": "Intensity",
+      "D": "Elevate",
+      "E": "Underestimate",
+      "F": "Rare"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "\"Kar getiren\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Countless",
+      "B": "Intensity",
+      "C": "Spacecraft",
+      "D": "Profitable",
+      "E": "Measure",
+      "F": "Eager"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "\"Özellik\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Persist",
+      "B": "Feature",
+      "C": "Molten",
+      "D": "Measure",
+      "E": "Eager",
+      "F": "Evidence"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "Kar getiren sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Molten",
+      "B": "Feature",
+      "C": "Persist",
+      "D": "Profitable",
+      "E": "Countless",
+      "F": "Eager"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "\"Uzay aracı\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Destruction",
+      "B": "Evidence",
+      "C": "Spacecraft",
+      "D": "Wildfire",
+      "E": "Distant",
+      "F": "Herbicide"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "Sayısız sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Elevate",
+      "B": "Countless",
+      "C": "Rare",
+      "D": "Measure",
+      "E": "Virtually",
+      "F": "Durable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "Yükseltmek anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Destruction",
+      "B": "Durable",
+      "C": "Rare",
+      "D": "Elevate",
+      "E": "Profitable",
+      "F": "Distant"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "Kar getiren sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Feature",
+      "B": "Eager",
+      "C": "Intensity",
+      "D": "Profitable",
+      "E": "Persist",
+      "F": "Distant"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "Uzak anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Intensity",
+      "B": "Profitable",
+      "C": "Molten",
+      "D": "Durable",
+      "E": "Distant",
+      "F": "Rare"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 47,
+    "question": "\"Uzak\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Eager",
+      "B": "Durable",
+      "C": "Distant",
+      "D": "Herbicide",
+      "E": "Figure out",
+      "F": "Destruction"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 48,
+    "question": "\"Doğal/yaban yangını\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Wildfire",
+      "B": "Profitable",
+      "C": "Molten",
+      "D": "Eager",
+      "E": "Countless",
+      "F": "Figure out"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "Hangi kelime \"Nadir / Seyrek\" anlamına gelir?",
+    "options": {
+      "A": "Underestimate",
+      "B": "Evidence",
+      "C": "Molten",
+      "D": "Figure out",
+      "E": "Rare",
+      "F": "Herbicide"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "\"Doğal/yaban yangını\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Wildfire",
+      "B": "Measure",
+      "C": "Destruction",
+      "D": "Figure out",
+      "E": "Virtually",
+      "F": "Rare"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "Özellik anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Persist",
+      "B": "Feature",
+      "C": "Distant",
+      "D": "Durable",
+      "E": "Molten",
+      "F": "Profitable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 52,
+    "question": "Nadir / Seyrek anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Rare",
+      "B": "Countless",
+      "C": "Intensity",
+      "D": "Figure out",
+      "E": "Measure",
+      "F": "Elevate"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "Çözmek anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Durable",
+      "B": "Underestimate",
+      "C": "Herbicide",
+      "D": "Distant",
+      "E": "Persist",
+      "F": "Figure out"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "Sayısız anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Rare",
+      "B": "Figure out",
+      "C": "Countless",
+      "D": "Eager",
+      "E": "Virtually",
+      "F": "Molten"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 55,
+    "question": "Hangi kelime \"Dayanıklı\" anlamına gelir?",
+    "options": {
+      "A": "Spacecraft",
+      "B": "Herbicide",
+      "C": "Molten",
+      "D": "Distant",
+      "E": "Profitable",
+      "F": "Durable"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 56,
+    "question": "\"Yükseltmek\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Elevate",
+      "B": "Evidence",
+      "C": "Destruction",
+      "D": "Intensity",
+      "E": "Figure out",
+      "F": "Persist"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "\"Kanıt\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Measure",
+      "C": "Durable",
+      "D": "Evidence",
+      "E": "Feature",
+      "F": "Persist"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 58,
+    "question": "\"Hevesli\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Eager",
+      "B": "Rare",
+      "C": "Intensity",
+      "D": "Measure",
+      "E": "Figure out",
+      "F": "Herbicide"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "\"Şiddet\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Intensity",
+      "B": "Durable",
+      "C": "Measure",
+      "D": "Eager",
+      "E": "Figure out",
+      "F": "Spacecraft"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 60,
+    "question": "\"Israr etmek / Sürdürmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Molten",
+      "B": "Herbicide",
+      "C": "Feature",
+      "D": "Durable",
+      "E": "Virtually",
+      "F": "Persist"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 61,
+    "question": "\"Ölçmek / Ölçü\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Durable",
+      "B": "Persist",
+      "C": "Rare",
+      "D": "Measure",
+      "E": "Spacecraft",
+      "F": "Intensity"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 62,
+    "question": "Yükseltmek sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Wildfire",
+      "B": "Elevate",
+      "C": "Evidence",
+      "D": "Feature",
+      "E": "Herbicide",
+      "F": "Distant"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 63,
+    "question": "\"Dayanıklı\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Profitable",
+      "B": "Durable",
+      "C": "Figure out",
+      "D": "Virtually",
+      "E": "Feature",
+      "F": "Spacecraft"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 64,
+    "question": "Hangi kelime \"Kar getiren\" anlamına gelir?",
+    "options": {
+      "A": "Intensity",
+      "B": "Eager",
+      "C": "Durable",
+      "D": "Underestimate",
+      "E": "Measure",
+      "F": "Profitable"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 65,
+    "question": "\"Çözmek\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Profitable",
+      "B": "Figure out",
+      "C": "Distant",
+      "D": "Rare",
+      "E": "Elevate",
+      "F": "Durable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 66,
+    "question": "\"Hevesli\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Destruction",
+      "B": "Eager",
+      "C": "Elevate",
+      "D": "Intensity",
+      "E": "Spacecraft",
+      "F": "Herbicide"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 67,
+    "question": "\"Şiddet\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Intensity",
+      "C": "Figure out",
+      "D": "Evidence",
+      "E": "Distant",
+      "F": "Rare"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 68,
+    "question": "\"Israr etmek / Sürdürmek\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Feature",
+      "B": "Eager",
+      "C": "Underestimate",
+      "D": "Countless",
+      "E": "Persist",
+      "F": "Measure"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 69,
+    "question": "\"Kanıt\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Profitable",
+      "B": "Rare",
+      "C": "Countless",
+      "D": "Spacecraft",
+      "E": "Herbicide",
+      "F": "Evidence"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 70,
+    "question": "\"Kanıt\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Evidence",
+      "B": "Virtually",
+      "C": "Destruction",
+      "D": "Wildfire",
+      "E": "Rare",
+      "F": "Eager"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 71,
+    "question": "\"Sayısız\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Countless",
+      "B": "Elevate",
+      "C": "Figure out",
+      "D": "Wildfire",
+      "E": "Eager",
+      "F": "Virtually"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 72,
+    "question": "Hevesli anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Eager",
+      "B": "Feature",
+      "C": "Profitable",
+      "D": "Virtually",
+      "E": "Underestimate",
+      "F": "Herbicide"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 73,
+    "question": "\"Yıkım\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Persist",
+      "B": "Spacecraft",
+      "C": "Distant",
+      "D": "Destruction",
+      "E": "Underestimate",
+      "F": "Evidence"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 74,
+    "question": "\"Sıvı hale gelmiş\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Rare",
+      "B": "Molten",
+      "C": "Profitable",
+      "D": "Herbicide",
+      "E": "Intensity",
+      "F": "Elevate"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 75,
+    "question": "\"Neredeyse / Hemen hemen\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Measure",
+      "B": "Wildfire",
+      "C": "Durable",
+      "D": "Virtually",
+      "E": "Figure out",
+      "F": "Spacecraft"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 76,
+    "question": "\"Nadir / Seyrek\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Wildfire",
+      "B": "Elevate",
+      "C": "Durable",
+      "D": "Rare",
+      "E": "Herbicide",
+      "F": "Profitable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 77,
+    "question": "Yükseltmek sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Elevate",
+      "B": "Intensity",
+      "C": "Eager",
+      "D": "Countless",
+      "E": "Underestimate",
+      "F": "Virtually"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 78,
+    "question": "\"Kar getiren\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Molten",
+      "B": "Herbicide",
+      "C": "Spacecraft",
+      "D": "Profitable",
+      "E": "Feature",
+      "F": "Figure out"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 79,
+    "question": "\"Çözmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Countless",
+      "C": "Figure out",
+      "D": "Persist",
+      "E": "Profitable",
+      "F": "Virtually"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 80,
+    "question": "Dayanıklı sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Figure out",
+      "B": "Wildfire",
+      "C": "Underestimate",
+      "D": "Feature",
+      "E": "Evidence",
+      "F": "Durable"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 81,
+    "question": "\"Yıkım\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Evidence",
+      "B": "Molten",
+      "C": "Destruction",
+      "D": "Eager",
+      "E": "Rare",
+      "F": "Measure"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 82,
+    "question": "Kanıt anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Intensity",
+      "B": "Wildfire",
+      "C": "Evidence",
+      "D": "Eager",
+      "E": "Measure",
+      "F": "Persist"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 83,
+    "question": "Hangi kelime \"Yıkım\" anlamına gelir?",
+    "options": {
+      "A": "Evidence",
+      "B": "Spacecraft",
+      "C": "Molten",
+      "D": "Destruction",
+      "E": "Underestimate",
+      "F": "Profitable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 84,
+    "question": "\"Uzay aracı\" anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Distant",
+      "B": "Wildfire",
+      "C": "Evidence",
+      "D": "Spacecraft",
+      "E": "Countless",
+      "F": "Persist"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 85,
+    "question": "\"Kanıt\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Destruction",
+      "B": "Intensity",
+      "C": "Virtually",
+      "D": "Evidence",
+      "E": "Figure out",
+      "F": "Durable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 86,
+    "question": "Neredeyse / Hemen hemen sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Measure",
+      "B": "Elevate",
+      "C": "Feature",
+      "D": "Evidence",
+      "E": "Herbicide",
+      "F": "Virtually"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 87,
+    "question": "Şiddet sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Figure out",
+      "B": "Profitable",
+      "C": "Spacecraft",
+      "D": "Elevate",
+      "E": "Persist",
+      "F": "Intensity"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 88,
+    "question": "\"Nadir / Seyrek\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Destruction",
+      "B": "Rare",
+      "C": "Intensity",
+      "D": "Distant",
+      "E": "Profitable",
+      "F": "Herbicide"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 89,
+    "question": "Israr etmek / Sürdürmek anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Figure out",
+      "B": "Profitable",
+      "C": "Countless",
+      "D": "Molten",
+      "E": "Rare",
+      "F": "Persist"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 90,
+    "question": "\"Sayısız\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Herbicide",
+      "B": "Durable",
+      "C": "Countless",
+      "D": "Elevate",
+      "E": "Figure out",
+      "F": "Molten"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 91,
+    "question": "\"Kanıt\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Virtually",
+      "B": "Evidence",
+      "C": "Feature",
+      "D": "Persist",
+      "E": "Intensity",
+      "F": "Durable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 92,
+    "question": "Hangi kelime \"Dayanıklı\" anlamına gelir?",
+    "options": {
+      "A": "Persist",
+      "B": "Wildfire",
+      "C": "Durable",
+      "D": "Herbicide",
+      "E": "Eager",
+      "F": "Elevate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 93,
+    "question": "\"Nadir / Seyrek\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Persist",
+      "B": "Destruction",
+      "C": "Wildfire",
+      "D": "Rare",
+      "E": "Durable",
+      "F": "Underestimate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 94,
+    "question": "Kar getiren anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Profitable",
+      "B": "Figure out",
+      "C": "Intensity",
+      "D": "Rare",
+      "E": "Spacecraft",
+      "F": "Evidence"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 95,
+    "question": "Kanıt anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Destruction",
+      "B": "Elevate",
+      "C": "Countless",
+      "D": "Distant",
+      "E": "Evidence",
+      "F": "Wildfire"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 96,
+    "question": "Hevesli anlamı hangi İngilizce kelimeye aittir?",
+    "options": {
+      "A": "Eager",
+      "B": "Countless",
+      "C": "Underestimate",
+      "D": "Persist",
+      "E": "Durable",
+      "F": "Herbicide"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 97,
+    "question": "Hangi kelime \"Yıkım\" anlamına gelir?",
+    "options": {
+      "A": "Profitable",
+      "B": "Persist",
+      "C": "Intensity",
+      "D": "Destruction",
+      "E": "Evidence",
+      "F": "Rare"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 98,
+    "question": "\"Özellik\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Eager",
+      "B": "Durable",
+      "C": "Feature",
+      "D": "Destruction",
+      "E": "Virtually",
+      "F": "Intensity"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 99,
+    "question": "\"Özellik\" ifadesi İngilizce’de hangisidir?",
+    "options": {
+      "A": "Figure out",
+      "B": "Destruction",
+      "C": "Feature",
+      "D": "Spacecraft",
+      "E": "Intensity",
+      "F": "Rare"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 100,
+    "question": "Sıvı hale gelmiş sözcüğünün karşılığı olan İngilizce kelime nedir?",
+    "options": {
+      "A": "Wildfire",
+      "B": "Molten",
+      "C": "Eager",
+      "D": "Virtually",
+      "E": "Distant",
+      "F": "Underestimate"
+    },
+    "correct": "B"
+  }
+]
