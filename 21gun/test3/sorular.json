@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Equilibrium\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Sürtünme, anlaşmazlık",
+      "B": "Denge",
+      "C": "Buhar",
+      "D": "Böcek ilacı",
+      "E": "Onay, kabul",
+      "F": "Reddetmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "\"Sanitation\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Sağlık önlemleri, hijyen koşulları",
+      "B": "Kurak, çorak",
+      "C": "Böcek ilacı",
+      "D": "Denge",
+      "E": "Uzay mekiği",
+      "F": "Gübrelemek, verimli kılmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "\"Ayarlamak, uyum sağlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Friction",
+      "B": "Sustainability",
+      "C": "Equilibrium",
+      "D": "Space shuttle",
+      "E": "Adjust",
+      "F": "Strike"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 4,
+    "question": "\"Insecticide\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Reddetmek",
+      "B": "Sürdürülebilirlik",
+      "C": "Kurak, çorak",
+      "D": "Ayarlamak, uyum sağlamak",
+      "E": "Böcek ilacı",
+      "F": "Aşmak, geçmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 5,
+    "question": "\"Allege\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Vurmak, çarpma, darbe",
+      "B": "İddia etmek (kanıt olmadan)",
+      "C": "Sürdürülebilirlik",
+      "D": "Çok büyük, devasa",
+      "E": "Denge",
+      "F": "Ayarlamak, uyum sağlamak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "\"Friction\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Onay, kabul",
+      "B": "Aşmak, geçmek",
+      "C": "Buhar",
+      "D": "İddia etmek (kanıt olmadan)",
+      "E": "Sürtünme, anlaşmazlık",
+      "F": "Reddetmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 7,
+    "question": "\"Dependence\" ne anlama gelir?",
+    "options": {
+      "A": "Aşmak, geçmek",
+      "B": "-den oluşmak",
+      "C": "Onay, kabul",
+      "D": "Ayarlamak, uyum sağlamak",
+      "E": "İddia etmek (kanıt olmadan)",
+      "F": "Gereksinim, bel bağlama"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "\"Gübrelemek, verimli kılmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Precious",
+      "B": "Disappearance",
+      "C": "Insecticide",
+      "D": "Fertilize",
+      "E": "Arid",
+      "F": "Equilibrium"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 9,
+    "question": "\"Approval\" ne anlama gelir?",
+    "options": {
+      "A": "Gübrelemek, verimli kılmak",
+      "B": "İddia etmek (kanıt olmadan)",
+      "C": "Çok büyük, devasa",
+      "D": "Onay, kabul",
+      "E": "Sürdürülebilirlik",
+      "F": "Kurak, çorak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "\"Uzay mekiği\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Sanitation",
+      "B": "Insecticide",
+      "C": "Space shuttle",
+      "D": "Be composed of",
+      "E": "Adjust",
+      "F": "Dependence"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "\"Vurmak, çarpma, darbe\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Sustainability",
+      "B": "Be composed of",
+      "C": "Allege",
+      "D": "Dependence",
+      "E": "Huge",
+      "F": "Strike"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 12,
+    "question": "\"-den oluşmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Refuse",
+      "B": "Be composed of",
+      "C": "Arid",
+      "D": "Sanitation",
+      "E": "Precious",
+      "F": "Huge"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "\"Exceed\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Gübrelemek, verimli kılmak",
+      "B": "Onay, kabul",
+      "C": "Aşmak, geçmek",
+      "D": "Çok büyük, devasa",
+      "E": "Sağlık önlemleri, hijyen koşulları",
+      "F": "Ayarlamak, uyum sağlamak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"Vapour\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Uzay mekiği",
+      "B": "Gübrelemek, verimli kılmak",
+      "C": "Ayarlamak, uyum sağlamak",
+      "D": "Buhar",
+      "E": "Çok büyük, devasa",
+      "F": "Onay, kabul"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "\"Fertilize\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "İddia etmek (kanıt olmadan)",
+      "B": "Gübrelemek, verimli kılmak",
+      "C": "Sürdürülebilirlik",
+      "D": "Reddetmek",
+      "E": "Buhar",
+      "F": "Sürtünme, anlaşmazlık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "question": "\"Refuse\" ne anlama gelir?",
+    "options": {
+      "A": "Reddetmek",
+      "B": "Aşmak, geçmek",
+      "C": "-den oluşmak",
+      "D": "Onay, kabul",
+      "E": "Uzay mekiği",
+      "F": "Gübrelemek, verimli kılmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "\"Çok büyük, devasa\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Sanitation",
+      "B": "Huge",
+      "C": "Exceed",
+      "D": "Friction",
+      "E": "Dependence",
+      "F": "Refuse"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "\"Gereksinim, bel bağlama\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Space shuttle",
+      "B": "Huge",
+      "C": "Dependence",
+      "D": "Friction",
+      "E": "Fertilize",
+      "F": "Sanitation"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Equilibrium\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Uzay mekiği",
+      "B": "Vurmak, çarpma, darbe",
+      "C": "Denge",
+      "D": "Ayarlamak, uyum sağlamak",
+      "E": "Gereksinim, bel bağlama",
+      "F": "Böcek ilacı"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "\"Approval\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "İddia etmek (kanıt olmadan)",
+      "B": "Sürtünme, anlaşmazlık",
+      "C": "Vurmak, çarpma, darbe",
+      "D": "Onay, kabul",
+      "E": "Buhar",
+      "F": "Gereksinim, bel bağlama"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"Allege\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Denge",
+      "B": "İddia etmek (kanıt olmadan)",
+      "C": "Gübrelemek, verimli kılmak",
+      "D": "Böcek ilacı",
+      "E": "Aşmak, geçmek",
+      "F": "Buhar"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 22,
+    "question": "\"Sağlık önlemleri, hijyen koşulları\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Adjust",
+      "B": "Dependence",
+      "C": "Huge",
+      "D": "Strike",
+      "E": "Sanitation",
+      "F": "Insecticide"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "\"Aşmak, geçmek\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Refuse",
+      "B": "Be composed of",
+      "C": "Adjust",
+      "D": "Sanitation",
+      "E": "Friction",
+      "F": "Exceed"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 24,
+    "question": "\"Disappearance\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Ortadan kaybolma",
+      "B": "Onay, kabul",
+      "C": "Reddetmek",
+      "D": "Kurak, çorak",
+      "E": "Değerli, kıymetli",
+      "F": "Vurmak, çarpma, darbe"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "\"Adjust\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Ayarlamak, uyum sağlamak",
+      "B": "Uzay mekiği",
+      "C": "Gereksinim, bel bağlama",
+      "D": "Sürtünme, anlaşmazlık",
+      "E": "Sağlık önlemleri, hijyen koşulları",
+      "F": "Aşmak, geçmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "\"Precious\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Ayarlamak, uyum sağlamak",
+      "B": "Değerli, kıymetli",
+      "C": "Buhar",
+      "D": "Sürdürülebilirlik",
+      "E": "Aşmak, geçmek",
+      "F": "Sağlık önlemleri, hijyen koşulları"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "\"Friction\" ne anlama gelir?",
+    "options": {
+      "A": "Kurak, çorak",
+      "B": "Gübrelemek, verimli kılmak",
+      "C": "Sürtünme, anlaşmazlık",
+      "D": "Onay, kabul",
+      "E": "Değerli, kıymetli",
+      "F": "Aşmak, geçmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"Be composed of\" ne anlama gelir?",
+    "options": {
+      "A": "Gereksinim, bel bağlama",
+      "B": "-den oluşmak",
+      "C": "Buhar",
+      "D": "Gübrelemek, verimli kılmak",
+      "E": "Ortadan kaybolma",
+      "F": "Böcek ilacı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "\"Vurmak, çarpma, darbe\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Refuse",
+      "B": "Adjust",
+      "C": "Insecticide",
+      "D": "Strike",
+      "E": "Arid",
+      "F": "Vapour"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "\"Approval\" ne anlama gelir?",
+    "options": {
+      "A": "Değerli, kıymetli",
+      "B": "Böcek ilacı",
+      "C": "Reddetmek",
+      "D": "Buhar",
+      "E": "İddia etmek (kanıt olmadan)",
+      "F": "Onay, kabul"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "\"Gübrelemek, verimli kılmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Fertilize",
+      "B": "Exceed",
+      "C": "Space shuttle",
+      "D": "Dependence",
+      "E": "Strike",
+      "F": "Allege"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "\"Sanitation\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Sürtünme, anlaşmazlık",
+      "B": "Sağlık önlemleri, hijyen koşulları",
+      "C": "Vurmak, çarpma, darbe",
+      "D": "Denge",
+      "E": "Buhar",
+      "F": "Böcek ilacı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "\"Vurmak, çarpma, darbe\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Approval",
+      "B": "Equilibrium",
+      "C": "Allege",
+      "D": "Disappearance",
+      "E": "Strike",
+      "F": "Adjust"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 34,
+    "question": "\"Çok büyük, devasa\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Sustainability",
+      "B": "Fertilize",
+      "C": "Sanitation",
+      "D": "Huge",
+      "E": "Refuse",
+      "F": "Be composed of"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "\"Ayarlamak, uyum sağlamak\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Huge",
+      "B": "Sanitation",
+      "C": "Refuse",
+      "D": "Fertilize",
+      "E": "Insecticide",
+      "F": "Adjust"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "\"Be composed of\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Ortadan kaybolma",
+      "B": "Denge",
+      "C": "Kurak, çorak",
+      "D": "Buhar",
+      "E": "Değerli, kıymetli",
+      "F": "-den oluşmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 37,
+    "question": "\"Huge\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Kurak, çorak",
+      "B": "Böcek ilacı",
+      "C": "-den oluşmak",
+      "D": "Ortadan kaybolma",
+      "E": "Çok büyük, devasa",
+      "F": "Denge"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 38,
+    "question": "\"Ortadan kaybolma\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Arid",
+      "B": "Adjust",
+      "C": "Disappearance",
+      "D": "Precious",
+      "E": "Huge",
+      "F": "Exceed"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "\"Sustainability\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Sürdürülebilirlik",
+      "B": "Denge",
+      "C": "Reddetmek",
+      "D": "Sürtünme, anlaşmazlık",
+      "E": "Sağlık önlemleri, hijyen koşulları",
+      "F": "Kurak, çorak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Friction\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Sürtünme, anlaşmazlık",
+      "B": "Gübrelemek, verimli kılmak",
+      "C": "Ayarlamak, uyum sağlamak",
+      "D": "Kurak, çorak",
+      "E": "Aşmak, geçmek",
+      "F": "Buhar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "\"Vurmak, çarpma, darbe\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Dependence",
+      "B": "Vapour",
+      "C": "Strike",
+      "D": "Disappearance",
+      "E": "Fertilize",
+      "F": "Refuse"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Allege\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Böcek ilacı",
+      "B": "-den oluşmak",
+      "C": "Ortadan kaybolma",
+      "D": "İddia etmek (kanıt olmadan)",
+      "E": "Vurmak, çarpma, darbe",
+      "F": "Sağlık önlemleri, hijyen koşulları"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "\"Space shuttle\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Ortadan kaybolma",
+      "B": "Uzay mekiği",
+      "C": "İddia etmek (kanıt olmadan)",
+      "D": "Gereksinim, bel bağlama",
+      "E": "Sürdürülebilirlik",
+      "F": "Buhar"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "\"Friction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Aşmak, geçmek",
+      "B": "Gübrelemek, verimli kılmak",
+      "C": "Reddetmek",
+      "D": "Gereksinim, bel bağlama",
+      "E": "Ortadan kaybolma",
+      "F": "Sürtünme, anlaşmazlık"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 45,
+    "question": "\"Gübrelemek, verimli kılmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Allege",
+      "B": "Friction",
+      "C": "Sanitation",
+      "D": "Equilibrium",
+      "E": "Fertilize",
+      "F": "Dependence"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 46,
+    "question": "\"Exceed\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Aşmak, geçmek",
+      "B": "Buhar",
+      "C": "Değerli, kıymetli",
+      "D": "Sürtünme, anlaşmazlık",
+      "E": "Kurak, çorak",
+      "F": "Çok büyük, devasa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "\"Vapour\" ne anlama gelir?",
+    "options": {
+      "A": "Buhar",
+      "B": "Sağlık önlemleri, hijyen koşulları",
+      "C": "Böcek ilacı",
+      "D": "İddia etmek (kanıt olmadan)",
+      "E": "Onay, kabul",
+      "F": "-den oluşmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "\"Fertilize\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "-den oluşmak",
+      "B": "İddia etmek (kanıt olmadan)",
+      "C": "Sağlık önlemleri, hijyen koşulları",
+      "D": "Buhar",
+      "E": "Gübrelemek, verimli kılmak",
+      "F": "Sürtünme, anlaşmazlık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 49,
+    "question": "\"Be composed of\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Reddetmek",
+      "B": "Vurmak, çarpma, darbe",
+      "C": "Ortadan kaybolma",
+      "D": "Çok büyük, devasa",
+      "E": "Sürdürülebilirlik",
+      "F": "-den oluşmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Reddetmek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Refuse",
+      "B": "Disappearance",
+      "C": "Vapour",
+      "D": "Fertilize",
+      "E": "Arid",
+      "F": "Exceed"
+    },
+    "correct": "A"
+  }
+]

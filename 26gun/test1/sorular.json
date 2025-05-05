@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "Confirm kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "cehalet, bilgisizlik",
+      "B": "kıta, anakara",
+      "C": "onaylamak, doğrulamak",
+      "D": "harici, dış",
+      "E": "atfetmek, bağlamak",
+      "F": "işe yaramaz, faydasız"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "Alloy kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "mahrum bırakmak, yoksun bırakmak",
+      "B": "atfetmek, bağlamak",
+      "C": "kıta, anakara",
+      "D": "alaşım, karışım",
+      "E": "kutup",
+      "F": "taşınabilir, seyyar"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 3,
+    "question": "yapay, suni kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Pole",
+      "B": "Giant",
+      "C": "External",
+      "D": "Artificial",
+      "E": "Mutual",
+      "F": "Deprive of"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "Confirm kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "alaşım, karışım",
+      "B": "onaylamak, doğrulamak",
+      "C": "biriktirmek, toplamak",
+      "D": "işe yaramaz, faydasız",
+      "E": "atfetmek, bağlamak",
+      "F": "yapay, suni"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "Mutual kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yanıcı, kolay tutuşan",
+      "B": "biriktirmek, toplamak",
+      "C": "atfetmek, bağlamak",
+      "D": "yenilemek, tazelemek",
+      "E": "muazzam, devasa",
+      "F": "müşterek, ortak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "mahrum bırakmak, yoksun bırakmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Replenish",
+      "B": "Mutual",
+      "C": "Deal with",
+      "D": "Useless",
+      "E": "Deprive of",
+      "F": "Ignorance"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 7,
+    "question": "Accumulate kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "muazzam, devasa",
+      "B": "biriktirmek, toplamak",
+      "C": "taşınabilir, seyyar",
+      "D": "yenilemek, tazelemek",
+      "E": "kıta, anakara",
+      "F": "başa çıkmak, üstesinden gelmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "taşınabilir, seyyar kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Giant",
+      "B": "Replenish",
+      "C": "Withstand",
+      "D": "Useless",
+      "E": "Deal with",
+      "F": "Portable"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "Attribute to kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "cehalet, bilgisizlik",
+      "B": "yapay, suni",
+      "C": "kıta, anakara",
+      "D": "atfetmek, bağlamak",
+      "E": "yenilemek, tazelemek",
+      "F": "taşınabilir, seyyar"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "Disassemble kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "onaylamak, doğrulamak",
+      "B": "yapay, suni",
+      "C": "başa çıkmak, üstesinden gelmek",
+      "D": "yanıcı, kolay tutuşan",
+      "E": "sökmek, demonte etmek",
+      "F": "mahrum bırakmak, yoksun bırakmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 11,
+    "question": "Dramatically kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "müşterek, ortak",
+      "B": "başa çıkmak, üstesinden gelmek",
+      "C": "atfetmek, bağlamak",
+      "D": "önemli ölçüde, çarpıcı biçimde",
+      "E": "kutup",
+      "F": "kıta, anakara"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "muazzam, devasa kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Portable",
+      "B": "Accumulate",
+      "C": "Giant",
+      "D": "Alloy",
+      "E": "Confirm",
+      "F": "Withstand"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "Alloy kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "alaşım, karışım",
+      "B": "atfetmek, bağlamak",
+      "C": "yapay, suni",
+      "D": "mahrum bırakmak, yoksun bırakmak",
+      "E": "kutup",
+      "F": "işe yaramaz, faydasız"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "dayanmak, karşı koymak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "External",
+      "B": "Alloy",
+      "C": "Pole",
+      "D": "Dramatically",
+      "E": "Replenish",
+      "F": "Withstand"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 15,
+    "question": "onaylamak, doğrulamak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Accumulate",
+      "B": "Ignorance",
+      "C": "Confirm",
+      "D": "Dramatically",
+      "E": "Useless",
+      "F": "Inflammable"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "Artificial kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yanıcı, kolay tutuşan",
+      "B": "müşterek, ortak",
+      "C": "kıta, anakara",
+      "D": "mahrum bırakmak, yoksun bırakmak",
+      "E": "atfetmek, bağlamak",
+      "F": "yapay, suni"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 17,
+    "question": "atfetmek, bağlamak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Ignorance",
+      "B": "Accumulate",
+      "C": "Confirm",
+      "D": "Attribute to",
+      "E": "Inflammable",
+      "F": "Portable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "kıta, anakara kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Deprive of",
+      "B": "Attribute to",
+      "C": "Useless",
+      "D": "Continent",
+      "E": "Pole",
+      "F": "Withstand"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 19,
+    "question": "kutup kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Attribute to",
+      "B": "Pole",
+      "C": "Portable",
+      "D": "Deprive of",
+      "E": "Alloy",
+      "F": "External"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "Artificial kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "taşınabilir, seyyar",
+      "B": "müşterek, ortak",
+      "C": "yapay, suni",
+      "D": "onaylamak, doğrulamak",
+      "E": "muazzam, devasa",
+      "F": "cehalet, bilgisizlik"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "mahrum bırakmak, yoksun bırakmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Inflammable",
+      "B": "Replenish",
+      "C": "Dramatically",
+      "D": "Disassemble",
+      "E": "Giant",
+      "F": "Deprive of"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 22,
+    "question": "müşterek, ortak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Pole",
+      "B": "Continent",
+      "C": "Alloy",
+      "D": "Dramatically",
+      "E": "Mutual",
+      "F": "Disassemble"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "müşterek, ortak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Accumulate",
+      "B": "Alloy",
+      "C": "Disassemble",
+      "D": "Artificial",
+      "E": "Mutual",
+      "F": "Ignorance"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 24,
+    "question": "muazzam, devasa kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Giant",
+      "B": "Continent",
+      "C": "Artificial",
+      "D": "Portable",
+      "E": "Pole",
+      "F": "Withstand"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "harici, dış kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Continent",
+      "B": "Replenish",
+      "C": "External",
+      "D": "Attribute to",
+      "E": "Withstand",
+      "F": "Pole"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "Artificial kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "işe yaramaz, faydasız",
+      "B": "muazzam, devasa",
+      "C": "atfetmek, bağlamak",
+      "D": "önemli ölçüde, çarpıcı biçimde",
+      "E": "yapay, suni",
+      "F": "sökmek, demonte etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 27,
+    "question": "Disassemble kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yapay, suni",
+      "B": "kutup",
+      "C": "sökmek, demonte etmek",
+      "D": "mahrum bırakmak, yoksun bırakmak",
+      "E": "kıta, anakara",
+      "F": "taşınabilir, seyyar"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "Alloy kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "alaşım, karışım",
+      "B": "başa çıkmak, üstesinden gelmek",
+      "C": "önemli ölçüde, çarpıcı biçimde",
+      "D": "kutup",
+      "E": "biriktirmek, toplamak",
+      "F": "muazzam, devasa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "Deprive of kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "kutup",
+      "B": "yanıcı, kolay tutuşan",
+      "C": "mahrum bırakmak, yoksun bırakmak",
+      "D": "atfetmek, bağlamak",
+      "E": "müşterek, ortak",
+      "F": "yenilemek, tazelemek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "External kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "harici, dış",
+      "B": "cehalet, bilgisizlik",
+      "C": "taşınabilir, seyyar",
+      "D": "mahrum bırakmak, yoksun bırakmak",
+      "E": "alaşım, karışım",
+      "F": "yapay, suni"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "Mutual kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "cehalet, bilgisizlik",
+      "B": "mahrum bırakmak, yoksun bırakmak",
+      "C": "müşterek, ortak",
+      "D": "önemli ölçüde, çarpıcı biçimde",
+      "E": "yapay, suni",
+      "F": "muazzam, devasa"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "Continent kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "onaylamak, doğrulamak",
+      "B": "taşınabilir, seyyar",
+      "C": "yapay, suni",
+      "D": "harici, dış",
+      "E": "kıta, anakara",
+      "F": "yanıcı, kolay tutuşan"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 33,
+    "question": "Attribute to kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "başa çıkmak, üstesinden gelmek",
+      "B": "yenilemek, tazelemek",
+      "C": "işe yaramaz, faydasız",
+      "D": "mahrum bırakmak, yoksun bırakmak",
+      "E": "onaylamak, doğrulamak",
+      "F": "atfetmek, bağlamak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "Replenish kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "dayanmak, karşı koymak",
+      "B": "biriktirmek, toplamak",
+      "C": "yenilemek, tazelemek",
+      "D": "taşınabilir, seyyar",
+      "E": "yapay, suni",
+      "F": "muazzam, devasa"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "sökmek, demonte etmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Artificial",
+      "B": "Disassemble",
+      "C": "Alloy",
+      "D": "Deprive of",
+      "E": "Giant",
+      "F": "Inflammable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "yanıcı, kolay tutuşan kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Deprive of",
+      "B": "Accumulate",
+      "C": "Portable",
+      "D": "Inflammable",
+      "E": "Mutual",
+      "F": "Ignorance"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "question": "başa çıkmak, üstesinden gelmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Inflammable",
+      "B": "Useless",
+      "C": "Ignorance",
+      "D": "Artificial",
+      "E": "Deal with",
+      "F": "Deprive of"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 38,
+    "question": "Disassemble kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "onaylamak, doğrulamak",
+      "B": "yanıcı, kolay tutuşan",
+      "C": "mahrum bırakmak, yoksun bırakmak",
+      "D": "sökmek, demonte etmek",
+      "E": "biriktirmek, toplamak",
+      "F": "harici, dış"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "Continent kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "önemli ölçüde, çarpıcı biçimde",
+      "B": "kıta, anakara",
+      "C": "biriktirmek, toplamak",
+      "D": "kutup",
+      "E": "muazzam, devasa",
+      "F": "onaylamak, doğrulamak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "alaşım, karışım kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Disassemble",
+      "B": "Attribute to",
+      "C": "Artificial",
+      "D": "Alloy",
+      "E": "Ignorance",
+      "F": "Pole"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "önemli ölçüde, çarpıcı biçimde kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Dramatically",
+      "B": "Ignorance",
+      "C": "Alloy",
+      "D": "Disassemble",
+      "E": "Pole",
+      "F": "Confirm"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "Dramatically kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "önemli ölçüde, çarpıcı biçimde",
+      "B": "müşterek, ortak",
+      "C": "dayanmak, karşı koymak",
+      "D": "muazzam, devasa",
+      "E": "mahrum bırakmak, yoksun bırakmak",
+      "F": "sökmek, demonte etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "Accumulate kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yanıcı, kolay tutuşan",
+      "B": "kıta, anakara",
+      "C": "muazzam, devasa",
+      "D": "biriktirmek, toplamak",
+      "E": "başa çıkmak, üstesinden gelmek",
+      "F": "onaylamak, doğrulamak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "kutup kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "External",
+      "B": "Ignorance",
+      "C": "Portable",
+      "D": "Pole",
+      "E": "Deal with",
+      "F": "Disassemble"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "Disassemble kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "kutup",
+      "B": "harici, dış",
+      "C": "onaylamak, doğrulamak",
+      "D": "sökmek, demonte etmek",
+      "E": "kıta, anakara",
+      "F": "yapay, suni"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "Disassemble kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "biriktirmek, toplamak",
+      "B": "sökmek, demonte etmek",
+      "C": "yenilemek, tazelemek",
+      "D": "müşterek, ortak",
+      "E": "dayanmak, karşı koymak",
+      "F": "yapay, suni"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 47,
+    "question": "sökmek, demonte etmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Mutual",
+      "B": "Artificial",
+      "C": "Attribute to",
+      "D": "Deal with",
+      "E": "Pole",
+      "F": "Disassemble"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "Deal with kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "dayanmak, karşı koymak",
+      "B": "müşterek, ortak",
+      "C": "başa çıkmak, üstesinden gelmek",
+      "D": "muazzam, devasa",
+      "E": "atfetmek, bağlamak",
+      "F": "önemli ölçüde, çarpıcı biçimde"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "question": "Withstand kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "onaylamak, doğrulamak",
+      "B": "atfetmek, bağlamak",
+      "C": "dayanmak, karşı koymak",
+      "D": "taşınabilir, seyyar",
+      "E": "yanıcı, kolay tutuşan",
+      "F": "müşterek, ortak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 50,
+    "question": "taşınabilir, seyyar kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Portable",
+      "B": "Useless",
+      "C": "Replenish",
+      "D": "Inflammable",
+      "E": "External",
+      "F": "Mutual"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "External kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "harici, dış",
+      "B": "kutup",
+      "C": "atfetmek, bağlamak",
+      "D": "biriktirmek, toplamak",
+      "E": "yanıcı, kolay tutuşan",
+      "F": "yapay, suni"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "cehalet, bilgisizlik kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Disassemble",
+      "B": "Withstand",
+      "C": "Attribute to",
+      "D": "External",
+      "E": "Inflammable",
+      "F": "Ignorance"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 53,
+    "question": "Disassemble kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "biriktirmek, toplamak",
+      "B": "alaşım, karışım",
+      "C": "önemli ölçüde, çarpıcı biçimde",
+      "D": "işe yaramaz, faydasız",
+      "E": "dayanmak, karşı koymak",
+      "F": "sökmek, demonte etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "harici, dış kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Deal with",
+      "B": "Disassemble",
+      "C": "Artificial",
+      "D": "Inflammable",
+      "E": "External",
+      "F": "Confirm"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 55,
+    "question": "muazzam, devasa kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Deprive of",
+      "B": "Confirm",
+      "C": "Giant",
+      "D": "Deal with",
+      "E": "Continent",
+      "F": "Pole"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "Useless kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "işe yaramaz, faydasız",
+      "B": "yenilemek, tazelemek",
+      "C": "harici, dış",
+      "D": "müşterek, ortak",
+      "E": "kutup",
+      "F": "atfetmek, bağlamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "Withstand kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "harici, dış",
+      "B": "yenilemek, tazelemek",
+      "C": "cehalet, bilgisizlik",
+      "D": "dayanmak, karşı koymak",
+      "E": "yapay, suni",
+      "F": "müşterek, ortak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 58,
+    "question": "Giant kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "muazzam, devasa",
+      "B": "mahrum bırakmak, yoksun bırakmak",
+      "C": "dayanmak, karşı koymak",
+      "D": "alaşım, karışım",
+      "E": "başa çıkmak, üstesinden gelmek",
+      "F": "önemli ölçüde, çarpıcı biçimde"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "kutup kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Giant",
+      "B": "Replenish",
+      "C": "Artificial",
+      "D": "Inflammable",
+      "E": "Pole",
+      "F": "Alloy"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 60,
+    "question": "Artificial kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yanıcı, kolay tutuşan",
+      "B": "alaşım, karışım",
+      "C": "yapay, suni",
+      "D": "başa çıkmak, üstesinden gelmek",
+      "E": "mahrum bırakmak, yoksun bırakmak",
+      "F": "cehalet, bilgisizlik"
+    },
+    "correct": "C"
+  }
+]

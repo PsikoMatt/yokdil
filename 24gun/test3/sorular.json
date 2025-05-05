@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "Dense kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "uygulamak, yürütmek",
+      "B": "yoğun, sık",
+      "C": "isteksizlik, hoşlanmama",
+      "D": "düzensiz, dengesiz",
+      "E": "başlamak, başlatmak",
+      "F": "oluşturmak, teşkil etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "tükenmek, bitmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Deplete",
+      "B": "Sustain",
+      "C": "Execute",
+      "D": "Durability",
+      "E": "Suggest",
+      "F": "Commence"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "isteksizlik, hoşlanmama kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Germination",
+      "B": "Consist of",
+      "C": "Execute",
+      "D": "Delicate",
+      "E": "Suggest",
+      "F": "Aversion"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 4,
+    "question": "zengin, varlıklı kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Affluent",
+      "B": "Germination",
+      "C": "Reveal",
+      "D": "Delicate",
+      "E": "Execute",
+      "F": "Glacier"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "hassas, narin kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Solid",
+      "B": "Germination",
+      "C": "Affluent",
+      "D": "Delicate",
+      "E": "Instantaneous",
+      "F": "Consist of"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "zengin, varlıklı kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Solid",
+      "B": "Impair",
+      "C": "Affluent",
+      "D": "Durability",
+      "E": "Erratic",
+      "F": "Suggest"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "Deplete kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yoğun, sık",
+      "B": "tükenmek, bitmek",
+      "C": "düzensiz, dengesiz",
+      "D": "katı, sağlam",
+      "E": "ortaya koymak, açığa kavuşturmak",
+      "F": "hızlanma, hızlandırma"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "Instantaneous kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "zengin, varlıklı",
+      "B": "zarar vermek, bozmak",
+      "C": "tükenmek, bitmek",
+      "D": "hızlanma, hızlandırma",
+      "E": "işaret etmek, belirtmek",
+      "F": "ani, hemen"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "Impair kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "tükenmek, bitmek",
+      "B": "dayanıklılık, sağlamlık",
+      "C": "-den oluşmak, içermek",
+      "D": "düzensiz, dengesiz",
+      "E": "zarar vermek, bozmak",
+      "F": "başlamak, başlatmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "düzensiz, dengesiz kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Glacier",
+      "B": "Aversion",
+      "C": "Erratic",
+      "D": "Accelerate",
+      "E": "Commence",
+      "F": "Solid"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "zarar vermek, bozmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Impair",
+      "B": "Deplete",
+      "C": "Constitute",
+      "D": "Solid",
+      "E": "Sustain",
+      "F": "Commence"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "yoğun, sık kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Execute",
+      "B": "Dense",
+      "C": "Accelerate",
+      "D": "Deplete",
+      "E": "Consist of",
+      "F": "Impair"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "Aversion kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yoğun, sık",
+      "B": "ani, hemen",
+      "C": "zengin, varlıklı",
+      "D": "isteksizlik, hoşlanmama",
+      "E": "başlamak, başlatmak",
+      "F": "katı, sağlam"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "oluşturmak, teşkil etmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Erratic",
+      "B": "Solid",
+      "C": "Reveal",
+      "D": "Aversion",
+      "E": "Constitute",
+      "F": "Impair"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 15,
+    "question": "Aversion kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "ani, hemen",
+      "B": "başlamak, başlatmak",
+      "C": "ortaya koymak, açığa kavuşturmak",
+      "D": "isteksizlik, hoşlanmama",
+      "E": "tükenmek, bitmek",
+      "F": "oluşturmak, teşkil etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "yoğun, sık kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Consist of",
+      "B": "Durability",
+      "C": "Deplete",
+      "D": "Dense",
+      "E": "Affluent",
+      "F": "Execute"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "Deplete kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "isteksizlik, hoşlanmama",
+      "B": "tükenmek, bitmek",
+      "C": "dayanıklılık, sağlamlık",
+      "D": "başlamak, başlatmak",
+      "E": "hızlanma, hızlandırma",
+      "F": "oluşturmak, teşkil etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "Solid kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "zarar vermek, bozmak",
+      "B": "işaret etmek, belirtmek",
+      "C": "-den oluşmak, içermek",
+      "D": "yoğun, sık",
+      "E": "katı, sağlam",
+      "F": "tükenmek, bitmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 19,
+    "question": "Dense kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yoğun, sık",
+      "B": "sürdürmek, devam ettirmek",
+      "C": "katı, sağlam",
+      "D": "işaret etmek, belirtmek",
+      "E": "hassas, narin",
+      "F": "dayanıklılık, sağlamlık"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "Instantaneous kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "ortaya koymak, açığa kavuşturmak",
+      "B": "sürdürmek, devam ettirmek",
+      "C": "zarar vermek, bozmak",
+      "D": "oluşturmak, teşkil etmek",
+      "E": "başlamak, başlatmak",
+      "F": "ani, hemen"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 21,
+    "question": "Commence kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "hızlanma, hızlandırma",
+      "B": "zengin, varlıklı",
+      "C": "ani, hemen",
+      "D": "başlamak, başlatmak",
+      "E": "hassas, narin",
+      "F": "düzensiz, dengesiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "Instantaneous kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "filizlenme, çimlenme",
+      "B": "buzul, buz kütlesi",
+      "C": "tükenmek, bitmek",
+      "D": "ortaya koymak, açığa kavuşturmak",
+      "E": "ani, hemen",
+      "F": "sürdürmek, devam ettirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "Dense kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "işaret etmek, belirtmek",
+      "B": "yoğun, sık",
+      "C": "hızlanma, hızlandırma",
+      "D": "zengin, varlıklı",
+      "E": "ani, hemen",
+      "F": "zarar vermek, bozmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "hızlanma, hızlandırma kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Sustain",
+      "B": "Deplete",
+      "C": "Affluent",
+      "D": "Durability",
+      "E": "Accelerate",
+      "F": "Glacier"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "ortaya koymak, açığa kavuşturmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Accelerate",
+      "B": "Affluent",
+      "C": "Reveal",
+      "D": "Solid",
+      "E": "Commence",
+      "F": "Erratic"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "Germination kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "dayanıklılık, sağlamlık",
+      "B": "sürdürmek, devam ettirmek",
+      "C": "filizlenme, çimlenme",
+      "D": "ortaya koymak, açığa kavuşturmak",
+      "E": "-den oluşmak, içermek",
+      "F": "uygulamak, yürütmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "yoğun, sık kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Affluent",
+      "B": "Solid",
+      "C": "Durability",
+      "D": "Aversion",
+      "E": "Commence",
+      "F": "Dense"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 28,
+    "question": "Sustain kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "işaret etmek, belirtmek",
+      "B": "filizlenme, çimlenme",
+      "C": "yoğun, sık",
+      "D": "isteksizlik, hoşlanmama",
+      "E": "sürdürmek, devam ettirmek",
+      "F": "oluşturmak, teşkil etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 29,
+    "question": "başlamak, başlatmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Accelerate",
+      "B": "Solid",
+      "C": "Deplete",
+      "D": "Affluent",
+      "E": "Commence",
+      "F": "Sustain"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 30,
+    "question": "Delicate kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "filizlenme, çimlenme",
+      "B": "hassas, narin",
+      "C": "zengin, varlıklı",
+      "D": "sürdürmek, devam ettirmek",
+      "E": "-den oluşmak, içermek",
+      "F": "dayanıklılık, sağlamlık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "question": "Impair kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "filizlenme, çimlenme",
+      "B": "uygulamak, yürütmek",
+      "C": "buzul, buz kütlesi",
+      "D": "isteksizlik, hoşlanmama",
+      "E": "-den oluşmak, içermek",
+      "F": "zarar vermek, bozmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 32,
+    "question": "başlamak, başlatmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Dense",
+      "B": "Solid",
+      "C": "Instantaneous",
+      "D": "Aversion",
+      "E": "Commence",
+      "F": "Consist of"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 33,
+    "question": "Erratic kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "zarar vermek, bozmak",
+      "B": "başlamak, başlatmak",
+      "C": "düzensiz, dengesiz",
+      "D": "-den oluşmak, içermek",
+      "E": "hassas, narin",
+      "F": "sürdürmek, devam ettirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "Germination kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "hassas, narin",
+      "B": "filizlenme, çimlenme",
+      "C": "yoğun, sık",
+      "D": "hızlanma, hızlandırma",
+      "E": "-den oluşmak, içermek",
+      "F": "isteksizlik, hoşlanmama"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "Accelerate kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "hızlanma, hızlandırma",
+      "B": "sürdürmek, devam ettirmek",
+      "C": "işaret etmek, belirtmek",
+      "D": "oluşturmak, teşkil etmek",
+      "E": "zarar vermek, bozmak",
+      "F": "hassas, narin"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "Impair kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "buzul, buz kütlesi",
+      "B": "ani, hemen",
+      "C": "zarar vermek, bozmak",
+      "D": "sürdürmek, devam ettirmek",
+      "E": "hızlanma, hızlandırma",
+      "F": "dayanıklılık, sağlamlık"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "Durability kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "ani, hemen",
+      "B": "zarar vermek, bozmak",
+      "C": "katı, sağlam",
+      "D": "dayanıklılık, sağlamlık",
+      "E": "uygulamak, yürütmek",
+      "F": "düzensiz, dengesiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "Erratic kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "zengin, varlıklı",
+      "B": "filizlenme, çimlenme",
+      "C": "isteksizlik, hoşlanmama",
+      "D": "sürdürmek, devam ettirmek",
+      "E": "düzensiz, dengesiz",
+      "F": "zarar vermek, bozmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "buzul, buz kütlesi kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Accelerate",
+      "B": "Execute",
+      "C": "Sustain",
+      "D": "Glacier",
+      "E": "Reveal",
+      "F": "Solid"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "Solid kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "hızlanma, hızlandırma",
+      "B": "buzul, buz kütlesi",
+      "C": "oluşturmak, teşkil etmek",
+      "D": "başlamak, başlatmak",
+      "E": "isteksizlik, hoşlanmama",
+      "F": "katı, sağlam"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "Consist of kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "filizlenme, çimlenme",
+      "B": "sürdürmek, devam ettirmek",
+      "C": "ortaya koymak, açığa kavuşturmak",
+      "D": "-den oluşmak, içermek",
+      "E": "katı, sağlam",
+      "F": "zengin, varlıklı"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "yoğun, sık kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Constitute",
+      "B": "Commence",
+      "C": "Execute",
+      "D": "Aversion",
+      "E": "Erratic",
+      "F": "Dense"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 43,
+    "question": "Germination kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yoğun, sık",
+      "B": "uygulamak, yürütmek",
+      "C": "buzul, buz kütlesi",
+      "D": "isteksizlik, hoşlanmama",
+      "E": "ortaya koymak, açığa kavuşturmak",
+      "F": "filizlenme, çimlenme"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 44,
+    "question": "Reveal kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "zengin, varlıklı",
+      "B": "tükenmek, bitmek",
+      "C": "zarar vermek, bozmak",
+      "D": "-den oluşmak, içermek",
+      "E": "ortaya koymak, açığa kavuşturmak",
+      "F": "hassas, narin"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 45,
+    "question": "başlamak, başlatmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Solid",
+      "B": "Aversion",
+      "C": "Delicate",
+      "D": "Accelerate",
+      "E": "Commence",
+      "F": "Suggest"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 46,
+    "question": "Execute kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "katı, sağlam",
+      "B": "buzul, buz kütlesi",
+      "C": "uygulamak, yürütmek",
+      "D": "filizlenme, çimlenme",
+      "E": "yoğun, sık",
+      "F": "ani, hemen"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "Impair kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "oluşturmak, teşkil etmek",
+      "B": "düzensiz, dengesiz",
+      "C": "buzul, buz kütlesi",
+      "D": "filizlenme, çimlenme",
+      "E": "hızlanma, hızlandırma",
+      "F": "zarar vermek, bozmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "Durability kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "-den oluşmak, içermek",
+      "B": "sürdürmek, devam ettirmek",
+      "C": "ortaya koymak, açığa kavuşturmak",
+      "D": "dayanıklılık, sağlamlık",
+      "E": "işaret etmek, belirtmek",
+      "F": "zengin, varlıklı"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "yoğun, sık kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Reveal",
+      "B": "Commence",
+      "C": "Erratic",
+      "D": "Solid",
+      "E": "Dense",
+      "F": "Instantaneous"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "Glacier kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "ani, hemen",
+      "B": "buzul, buz kütlesi",
+      "C": "yoğun, sık",
+      "D": "zengin, varlıklı",
+      "E": "zarar vermek, bozmak",
+      "F": "sürdürmek, devam ettirmek"
+    },
+    "correct": "B"
+  }
+]

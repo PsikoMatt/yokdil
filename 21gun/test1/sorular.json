@@ -1,0 +1,730 @@
+[
+  {
+    "id": 1,
+    "question": "\"Uzay mekiği\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Space shuttle",
+      "B": "Arid",
+      "C": "Sustainability",
+      "D": "Huge",
+      "E": "Strike",
+      "F": "Fertilize"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "\"İddia etmek (kanıt olmadan)\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Huge",
+      "B": "Insecticide",
+      "C": "Allege",
+      "D": "Vapour",
+      "E": "Approval",
+      "F": "Fertilize"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"Gübrelemek, verimli kılmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Refuse",
+      "B": "Fertilize",
+      "C": "Be composed of",
+      "D": "Dependence",
+      "E": "Arid",
+      "F": "Space shuttle"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "\"Reddetmek\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Exceed",
+      "B": "Allege",
+      "C": "Dependence",
+      "D": "Refuse",
+      "E": "Insecticide",
+      "F": "Vapour"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "\"Değerli, kıymetli\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Huge",
+      "B": "Fertilize",
+      "C": "Sustainability",
+      "D": "Precious",
+      "E": "Insecticide",
+      "F": "Refuse"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 7,
+    "question": "\"Ayarlamak, uyum sağlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Adjust",
+      "B": "Dependence",
+      "C": "Refuse",
+      "D": "Disappearance",
+      "E": "Vapour",
+      "F": "Allege"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "\"Sağlık önlemleri, hijyen koşulları\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Allege",
+      "B": "Huge",
+      "C": "Precious",
+      "D": "Adjust",
+      "E": "Sanitation",
+      "F": "Vapour"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 9,
+    "question": "\"Değerli, kıymetli\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Sustainability",
+      "B": "Approval",
+      "C": "Precious",
+      "D": "Exceed",
+      "E": "Be composed of",
+      "F": "Allege"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "\"Ortadan kaybolma\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Huge",
+      "B": "Approval",
+      "C": "Fertilize",
+      "D": "Arid",
+      "E": "Space shuttle",
+      "F": "Disappearance"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"İddia etmek (kanıt olmadan)\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Be composed of",
+      "B": "Disappearance",
+      "C": "Equilibrium",
+      "D": "Sustainability",
+      "E": "Adjust",
+      "F": "Allege"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 12,
+    "question": "\"Ortadan kaybolma\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Approval",
+      "B": "Refuse",
+      "C": "Disappearance",
+      "D": "Insecticide",
+      "E": "Strike",
+      "F": "Fertilize"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "\"İddia etmek (kanıt olmadan)\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Exceed",
+      "B": "Approval",
+      "C": "Allege",
+      "D": "Disappearance",
+      "E": "Adjust",
+      "F": "Refuse"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"Sağlık önlemleri, hijyen koşulları\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Insecticide",
+      "B": "Precious",
+      "C": "Adjust",
+      "D": "Fertilize",
+      "E": "Exceed",
+      "F": "Sanitation"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 15,
+    "question": "\"Gübrelemek, verimli kılmak\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Equilibrium",
+      "B": "Allege",
+      "C": "Fertilize",
+      "D": "Exceed",
+      "E": "Dependence",
+      "F": "Refuse"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "\"Ortadan kaybolma\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Huge",
+      "B": "Disappearance",
+      "C": "Be composed of",
+      "D": "Arid",
+      "E": "Sustainability",
+      "F": "Fertilize"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 17,
+    "question": "\"Sürtünme, anlaşmazlık\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Friction",
+      "B": "Precious",
+      "C": "Allege",
+      "D": "Equilibrium",
+      "E": "Space shuttle",
+      "F": "Disappearance"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "\"Denge\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Space shuttle",
+      "B": "Sustainability",
+      "C": "Arid",
+      "D": "Refuse",
+      "E": "Be composed of",
+      "F": "Equilibrium"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 19,
+    "question": "\"Buhar\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Precious",
+      "B": "Space shuttle",
+      "C": "Vapour",
+      "D": "Equilibrium",
+      "E": "Exceed",
+      "F": "Strike"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "\"Çok büyük, devasa\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Vapour",
+      "B": "Space shuttle",
+      "C": "Arid",
+      "D": "Huge",
+      "E": "Disappearance",
+      "F": "Equilibrium"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"Gereksinim, bel bağlama\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Sanitation",
+      "B": "Dependence",
+      "C": "Vapour",
+      "D": "Be composed of",
+      "E": "Equilibrium",
+      "F": "Arid"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 22,
+    "question": "\"İddia etmek (kanıt olmadan)\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Precious",
+      "B": "Sustainability",
+      "C": "Approval",
+      "D": "Allege",
+      "E": "Disappearance",
+      "F": "Fertilize"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 23,
+    "question": "\"Onay, kabul\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Sanitation",
+      "B": "Approval",
+      "C": "Refuse",
+      "D": "Equilibrium",
+      "E": "Arid",
+      "F": "Friction"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "\"Gübrelemek, verimli kılmak\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Equilibrium",
+      "B": "Refuse",
+      "C": "Sustainability",
+      "D": "Fertilize",
+      "E": "Strike",
+      "F": "Be composed of"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "\"Böcek ilacı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Disappearance",
+      "B": "Precious",
+      "C": "Space shuttle",
+      "D": "Equilibrium",
+      "E": "Insecticide",
+      "F": "Exceed"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 26,
+    "question": "\"Değerli, kıymetli\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Friction",
+      "B": "Space shuttle",
+      "C": "Precious",
+      "D": "Dependence",
+      "E": "Strike",
+      "F": "Approval"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "\"Buhar\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Friction",
+      "B": "Vapour",
+      "C": "Approval",
+      "D": "Arid",
+      "E": "Strike",
+      "F": "Fertilize"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "\"Denge\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Be composed of",
+      "B": "Precious",
+      "C": "Vapour",
+      "D": "Equilibrium",
+      "E": "Fertilize",
+      "F": "Sustainability"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "\"Değerli, kıymetli\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Insecticide",
+      "B": "Precious",
+      "C": "Adjust",
+      "D": "Disappearance",
+      "E": "Vapour",
+      "F": "Arid"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "\"İddia etmek (kanıt olmadan)\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Precious",
+      "B": "Arid",
+      "C": "Exceed",
+      "D": "Huge",
+      "E": "Fertilize",
+      "F": "Allege"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "\"Reddetmek\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Friction",
+      "B": "Refuse",
+      "C": "Precious",
+      "D": "Sustainability",
+      "E": "Fertilize",
+      "F": "Dependence"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "\"Denge\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Fertilize",
+      "B": "Arid",
+      "C": "Disappearance",
+      "D": "Equilibrium",
+      "E": "Exceed",
+      "F": "Be composed of"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 34,
+    "question": "\"Vurmak, çarpma, darbe\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Fertilize",
+      "B": "Refuse",
+      "C": "Exceed",
+      "D": "Strike",
+      "E": "Disappearance",
+      "F": "Sanitation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "\"Ortadan kaybolma\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Exceed",
+      "B": "Precious",
+      "C": "Be composed of",
+      "D": "Sustainability",
+      "E": "Disappearance",
+      "F": "Approval"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 36,
+    "question": "\"Denge\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Strike",
+      "B": "Equilibrium",
+      "C": "Vapour",
+      "D": "Exceed",
+      "E": "Friction",
+      "F": "Dependence"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "\"İddia etmek (kanıt olmadan)\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Friction",
+      "B": "Exceed",
+      "C": "Strike",
+      "D": "Be composed of",
+      "E": "Allege",
+      "F": "Disappearance"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 38,
+    "question": "\"Ayarlamak, uyum sağlamak\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Disappearance",
+      "B": "Vapour",
+      "C": "Adjust",
+      "D": "Huge",
+      "E": "Friction",
+      "F": "Sustainability"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "\"Sağlık önlemleri, hijyen koşulları\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Adjust",
+      "B": "Dependence",
+      "C": "Be composed of",
+      "D": "Huge",
+      "E": "Insecticide",
+      "F": "Sanitation"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 40,
+    "question": "\"Böcek ilacı\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Be composed of",
+      "B": "Refuse",
+      "C": "Insecticide",
+      "D": "Adjust",
+      "E": "Exceed",
+      "F": "Approval"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "\"Kurak, çorak\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Dependence",
+      "B": "Arid",
+      "C": "Approval",
+      "D": "Huge",
+      "E": "Equilibrium",
+      "F": "Vapour"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 42,
+    "question": "\"Sürdürülebilirlik\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Approval",
+      "B": "Precious",
+      "C": "Space shuttle",
+      "D": "Sanitation",
+      "E": "Sustainability",
+      "F": "Fertilize"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 43,
+    "question": "\"Onay, kabul\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Precious",
+      "B": "Be composed of",
+      "C": "Allege",
+      "D": "Approval",
+      "E": "Dependence",
+      "F": "Sanitation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "\"Aşmak, geçmek\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Adjust",
+      "B": "Friction",
+      "C": "Dependence",
+      "D": "Equilibrium",
+      "E": "Exceed",
+      "F": "Approval"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 45,
+    "question": "\"Reddetmek\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Allege",
+      "B": "Space shuttle",
+      "C": "Refuse",
+      "D": "Dependence",
+      "E": "Vapour",
+      "F": "Precious"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "\"Vurmak, çarpma, darbe\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Precious",
+      "B": "Adjust",
+      "C": "Strike",
+      "D": "Fertilize",
+      "E": "Insecticide",
+      "F": "Be composed of"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Ortadan kaybolma\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Huge",
+      "B": "Approval",
+      "C": "Be composed of",
+      "D": "Arid",
+      "E": "Disappearance",
+      "F": "Friction"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 48,
+    "question": "\"Reddetmek\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Arid",
+      "B": "Dependence",
+      "C": "Insecticide",
+      "D": "Refuse",
+      "E": "Strike",
+      "F": "Sustainability"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "\"Onay, kabul\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Adjust",
+      "B": "Allege",
+      "C": "Sanitation",
+      "D": "Friction",
+      "E": "Approval",
+      "F": "Refuse"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "\"Gübrelemek, verimli kılmak\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Dependence",
+      "B": "Fertilize",
+      "C": "Friction",
+      "D": "Refuse",
+      "E": "Strike",
+      "F": "Adjust"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 51,
+    "question": "\"Reddetmek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Equilibrium",
+      "B": "Approval",
+      "C": "Space shuttle",
+      "D": "Dependence",
+      "E": "Fertilize",
+      "F": "Refuse"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "\"-den oluşmak\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Adjust",
+      "B": "Be composed of",
+      "C": "Disappearance",
+      "D": "Sanitation",
+      "E": "Refuse",
+      "F": "Huge"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 55,
+    "question": "\"Sürdürülebilirlik\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Sustainability",
+      "B": "Exceed",
+      "C": "Arid",
+      "D": "Approval",
+      "E": "Friction",
+      "F": "Disappearance"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "\"Gübrelemek, verimli kılmak\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Fertilize",
+      "B": "Adjust",
+      "C": "Refuse",
+      "D": "Arid",
+      "E": "Vapour",
+      "F": "Strike"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "\"Buhar\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Huge",
+      "B": "Refuse",
+      "C": "Disappearance",
+      "D": "Vapour",
+      "E": "Approval",
+      "F": "Strike"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 58,
+    "question": "\"-den oluşmak\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Huge",
+      "B": "Precious",
+      "C": "Space shuttle",
+      "D": "Be composed of",
+      "E": "Sustainability",
+      "F": "Approval"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 59,
+    "question": "\"Ayarlamak, uyum sağlamak\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Be composed of",
+      "B": "Allege",
+      "C": "Approval",
+      "D": "Refuse",
+      "E": "Adjust",
+      "F": "Fertilize"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 60,
+    "question": "\"Kurak, çorak\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Arid",
+      "B": "Vapour",
+      "C": "Refuse",
+      "D": "Allege",
+      "E": "Fertilize",
+      "F": "Adjust"
+    },
+    "correct": "A"
+  }
+]

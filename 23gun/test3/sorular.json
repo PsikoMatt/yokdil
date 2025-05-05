@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Tackle\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "İle ilgili, hakkında",
+      "B": "Dikey",
+      "C": "Çığ",
+      "D": "Ele almak, üstesinden gelmek",
+      "E": "Tetiklemek, sebep olmak",
+      "F": "Görkemli, muhteşem"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "\"End up with\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Sergilemek, göstermek",
+      "B": "İle sonuçlanmak",
+      "C": "Görkemli, muhteşem",
+      "D": "İşaret etmek, ima etmek",
+      "E": "Yaşanabilir",
+      "F": "Tamamlamak, bitirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "\"İşaret etmek, ima etmek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Disputable",
+      "B": "Volume",
+      "C": "Avalanche",
+      "D": "Imply",
+      "E": "Excessive",
+      "F": "Vertical"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "\"İle sonuçlanmak\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Disputable",
+      "B": "Vertical",
+      "C": "Regarding",
+      "D": "End up with",
+      "E": "Demolish",
+      "F": "Excessive"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 5,
+    "question": "\"Excessive\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Hacim",
+      "B": "Yıkmak, tahrip etmek",
+      "C": "Aşırı, haddinden fazla",
+      "D": "İle ilgili, hakkında",
+      "E": "Sergilemek, göstermek",
+      "F": "Görmezden gelmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "question": "\"Accomplish\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "İle sonuçlanmak",
+      "B": "Görmezden gelmek",
+      "C": "Ele almak, üstesinden gelmek",
+      "D": "Aşırı, haddinden fazla",
+      "E": "Tamamlamak, bitirmek",
+      "F": "Çatlak, çatlamak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 7,
+    "question": "\"Magnificent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Görkemli, muhteşem",
+      "B": "Değerlendirmek, kıymetlendirmek",
+      "C": "Tetiklemek, sebep olmak",
+      "D": "Ayrıştırmak, parçalara ayırmak",
+      "E": "Arıtmak, saflaştırmak",
+      "F": "Yıkmak, tahrip etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "\"Vertical\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Ele almak, üstesinden gelmek",
+      "B": "Görmezden gelmek",
+      "C": "Tartışmalı, tartışılabilir",
+      "D": "Dikey",
+      "E": "Tamamlamak, bitirmek",
+      "F": "Çığ"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 9,
+    "question": "\"Çığ\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Habitable",
+      "B": "Disputable",
+      "C": "Avalanche",
+      "D": "Imply",
+      "E": "Demolish",
+      "F": "End up with"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "\"Degrade\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Tetiklemek, sebep olmak",
+      "B": "İle ilgili, hakkında",
+      "C": "Görmezden gelmek",
+      "D": "Ele almak, üstesinden gelmek",
+      "E": "Değerlendirmek, kıymetlendirmek",
+      "F": "Ayrıştırmak, parçalara ayırmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"Tamamlamak, bitirmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Demolish",
+      "B": "Vertical",
+      "C": "Accomplish",
+      "D": "Trigger",
+      "E": "Evaluate",
+      "F": "Tackle"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "\"Avalanche\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Yaşanabilir",
+      "B": "Yıkmak, tahrip etmek",
+      "C": "Görkemli, muhteşem",
+      "D": "Arıtmak, saflaştırmak",
+      "E": "Çığ",
+      "F": "Görmezden gelmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 13,
+    "question": "\"Magnificent\" ne anlama gelir?",
+    "options": {
+      "A": "İle sonuçlanmak",
+      "B": "Tetiklemek, sebep olmak",
+      "C": "Görkemli, muhteşem",
+      "D": "Yaşanabilir",
+      "E": "Tamamlamak, bitirmek",
+      "F": "Hacim"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"Purify\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Arıtmak, saflaştırmak",
+      "B": "İşaret etmek, ima etmek",
+      "C": "Görmezden gelmek",
+      "D": "Ayrıştırmak, parçalara ayırmak",
+      "E": "İle ilgili, hakkında",
+      "F": "Dikey"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "\"Avalanche\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Tartışmalı, tartışılabilir",
+      "B": "İşaret etmek, ima etmek",
+      "C": "Görkemli, muhteşem",
+      "D": "Çığ",
+      "E": "Yaşanabilir",
+      "F": "Yıkmak, tahrip etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "\"Vertical\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Ele almak, üstesinden gelmek",
+      "B": "İle sonuçlanmak",
+      "C": "Dikey",
+      "D": "Çığ",
+      "E": "Yıkmak, tahrip etmek",
+      "F": "İle ilgili, hakkında"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Excessive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Aşırı, haddinden fazla",
+      "B": "Çığ",
+      "C": "Ayrıştırmak, parçalara ayırmak",
+      "D": "İle ilgili, hakkında",
+      "E": "Görmezden gelmek",
+      "F": "Dikey"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "\"Tackle\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Arıtmak, saflaştırmak",
+      "B": "Tetiklemek, sebep olmak",
+      "C": "Ele almak, üstesinden gelmek",
+      "D": "Görkemli, muhteşem",
+      "E": "Tartışmalı, tartışılabilir",
+      "F": "Tamamlamak, bitirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Imply\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Sergilemek, göstermek",
+      "B": "Tartışmalı, tartışılabilir",
+      "C": "İle sonuçlanmak",
+      "D": "İşaret etmek, ima etmek",
+      "E": "Ele almak, üstesinden gelmek",
+      "F": "İle ilgili, hakkında"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "\"Arıtmak, saflaştırmak\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Exhibit",
+      "B": "Purify",
+      "C": "Accomplish",
+      "D": "Magnificent",
+      "E": "Excessive",
+      "F": "Avalanche"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "\"Disputable\" ne anlama gelir?",
+    "options": {
+      "A": "İle ilgili, hakkında",
+      "B": "Yaşanabilir",
+      "C": "Çığ",
+      "D": "Tartışmalı, tartışılabilir",
+      "E": "Tamamlamak, bitirmek",
+      "F": "Hacim"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Yıkmak, tahrip etmek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Purify",
+      "B": "Volume",
+      "C": "Tackle",
+      "D": "Overlook",
+      "E": "End up with",
+      "F": "Demolish"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 23,
+    "question": "\"Sergilemek, göstermek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Crack",
+      "B": "Excessive",
+      "C": "Accomplish",
+      "D": "Exhibit",
+      "E": "Vertical",
+      "F": "Disputable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "\"Magnificent\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Arıtmak, saflaştırmak",
+      "B": "Aşırı, haddinden fazla",
+      "C": "Yaşanabilir",
+      "D": "Yıkmak, tahrip etmek",
+      "E": "Görkemli, muhteşem",
+      "F": "Çığ"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "\"Değerlendirmek, kıymetlendirmek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Regarding",
+      "B": "Crack",
+      "C": "Evaluate",
+      "D": "Vertical",
+      "E": "Degrade",
+      "F": "Accomplish"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "\"Çığ\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Vertical",
+      "B": "Demolish",
+      "C": "Evaluate",
+      "D": "Crack",
+      "E": "Avalanche",
+      "F": "Purify"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 27,
+    "question": "\"Trigger\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Yıkmak, tahrip etmek",
+      "B": "Tamamlamak, bitirmek",
+      "C": "İşaret etmek, ima etmek",
+      "D": "Tetiklemek, sebep olmak",
+      "E": "Değerlendirmek, kıymetlendirmek",
+      "F": "Ayrıştırmak, parçalara ayırmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 28,
+    "question": "\"Habitable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Yaşanabilir",
+      "B": "İşaret etmek, ima etmek",
+      "C": "İle ilgili, hakkında",
+      "D": "Ele almak, üstesinden gelmek",
+      "E": "Tetiklemek, sebep olmak",
+      "F": "Tamamlamak, bitirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "\"Sergilemek, göstermek\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Trigger",
+      "B": "Accomplish",
+      "C": "Excessive",
+      "D": "Disputable",
+      "E": "Exhibit",
+      "F": "Vertical"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 30,
+    "question": "\"Vertical\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Hacim",
+      "B": "Dikey",
+      "C": "Arıtmak, saflaştırmak",
+      "D": "Çığ",
+      "E": "İle sonuçlanmak",
+      "F": "Ayrıştırmak, parçalara ayırmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "question": "\"Sergilemek, göstermek\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Disputable",
+      "B": "Trigger",
+      "C": "Imply",
+      "D": "Exhibit",
+      "E": "Demolish",
+      "F": "Habitable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "\"Çığ\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Crack",
+      "B": "Excessive",
+      "C": "Accomplish",
+      "D": "Avalanche",
+      "E": "Trigger",
+      "F": "Tackle"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "\"Görmezden gelmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Trigger",
+      "B": "Avalanche",
+      "C": "Excessive",
+      "D": "Imply",
+      "E": "Tackle",
+      "F": "Overlook"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Çatlak, çatlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Avalanche",
+      "B": "Degrade",
+      "C": "Exhibit",
+      "D": "End up with",
+      "E": "Demolish",
+      "F": "Crack"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 35,
+    "question": "\"Habitable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Yaşanabilir",
+      "B": "İle sonuçlanmak",
+      "C": "Ayrıştırmak, parçalara ayırmak",
+      "D": "Arıtmak, saflaştırmak",
+      "E": "İle ilgili, hakkında",
+      "F": "Tamamlamak, bitirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "\"Tackle\" ne anlama gelir?",
+    "options": {
+      "A": "İşaret etmek, ima etmek",
+      "B": "Ele almak, üstesinden gelmek",
+      "C": "Tetiklemek, sebep olmak",
+      "D": "Tartışmalı, tartışılabilir",
+      "E": "İle ilgili, hakkında",
+      "F": "Sergilemek, göstermek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "\"Magnificent\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Ele almak, üstesinden gelmek",
+      "B": "Görkemli, muhteşem",
+      "C": "Tetiklemek, sebep olmak",
+      "D": "Çığ",
+      "E": "İle sonuçlanmak",
+      "F": "Yaşanabilir"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 38,
+    "question": "\"End up with\" ne anlama gelir?",
+    "options": {
+      "A": "İle sonuçlanmak",
+      "B": "Yıkmak, tahrip etmek",
+      "C": "Aşırı, haddinden fazla",
+      "D": "İle ilgili, hakkında",
+      "E": "Görkemli, muhteşem",
+      "F": "Çığ"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "\"Görmezden gelmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Crack",
+      "B": "Regarding",
+      "C": "Magnificent",
+      "D": "Overlook",
+      "E": "Purify",
+      "F": "Disputable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "\"Imply\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "İşaret etmek, ima etmek",
+      "B": "Dikey",
+      "C": "Çığ",
+      "D": "Görmezden gelmek",
+      "E": "Tamamlamak, bitirmek",
+      "F": "İle ilgili, hakkında"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "\"End up with\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Aşırı, haddinden fazla",
+      "B": "Çığ",
+      "C": "İle sonuçlanmak",
+      "D": "Tartışmalı, tartışılabilir",
+      "E": "Görkemli, muhteşem",
+      "F": "Yıkmak, tahrip etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Trigger\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Dikey",
+      "B": "Görkemli, muhteşem",
+      "C": "Ayrıştırmak, parçalara ayırmak",
+      "D": "Tetiklemek, sebep olmak",
+      "E": "İle sonuçlanmak",
+      "F": "Görmezden gelmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "\"Çatlak, çatlamak\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Regarding",
+      "B": "Imply",
+      "C": "Excessive",
+      "D": "Exhibit",
+      "E": "Magnificent",
+      "F": "Crack"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 44,
+    "question": "\"Overlook\" ne anlama gelir?",
+    "options": {
+      "A": "Arıtmak, saflaştırmak",
+      "B": "Görmezden gelmek",
+      "C": "İle ilgili, hakkında",
+      "D": "Hacim",
+      "E": "Aşırı, haddinden fazla",
+      "F": "Yaşanabilir"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "\"Hacim\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Excessive",
+      "B": "Crack",
+      "C": "Disputable",
+      "D": "Volume",
+      "E": "Overlook",
+      "F": "Purify"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "\"Ayrıştırmak, parçalara ayırmak\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Purify",
+      "B": "Magnificent",
+      "C": "Imply",
+      "D": "Avalanche",
+      "E": "Evaluate",
+      "F": "Degrade"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 47,
+    "question": "\"Magnificent\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Yaşanabilir",
+      "B": "Görkemli, muhteşem",
+      "C": "Yıkmak, tahrip etmek",
+      "D": "Görmezden gelmek",
+      "E": "Tartışmalı, tartışılabilir",
+      "F": "Hacim"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "\"Hacim\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Exhibit",
+      "B": "Volume",
+      "C": "End up with",
+      "D": "Imply",
+      "E": "Accomplish",
+      "F": "Excessive"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "\"Yaşanabilir\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Vertical",
+      "B": "Habitable",
+      "C": "Overlook",
+      "D": "Accomplish",
+      "E": "Exhibit",
+      "F": "Imply"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "\"Dikey\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Demolish",
+      "B": "Exhibit",
+      "C": "Evaluate",
+      "D": "Trigger",
+      "E": "Vertical",
+      "F": "Magnificent"
+    },
+    "correct": "E"
+  }
+]

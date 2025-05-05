@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "geçerlilik, doğruluk kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Spread",
+      "B": "Numerous",
+      "C": "Rigid",
+      "D": "Validity",
+      "E": "Phase",
+      "F": "Refinement"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "Rigid kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "çok sayıda, birçok",
+      "B": "kazı, kazı çalışması",
+      "C": "sert, eğilmez",
+      "D": "soy, köken",
+      "E": "dağılmak, yayılmak",
+      "F": "önyargı, peşin hüküm"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "engel, mani kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Exploitation",
+      "B": "Mean",
+      "C": "Excavation",
+      "D": "Initiate",
+      "E": "Obstacle",
+      "F": "Gravity"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 4,
+    "question": "aydınlatmak, bilgilendirmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Enlighten",
+      "B": "Numerous",
+      "C": "Mean",
+      "D": "Ensure",
+      "E": "Lineage",
+      "F": "Prejudice"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "aydınlatmak, bilgilendirmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Fulfill",
+      "B": "Enlighten",
+      "C": "Spread",
+      "D": "Numerous",
+      "E": "Phase",
+      "F": "Specimen"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "yenilik, buluş kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Numerous",
+      "B": "Rigid",
+      "C": "Validity",
+      "D": "Innovation",
+      "E": "Mean",
+      "F": "Exploitation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 7,
+    "question": "dağılmak, yayılmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Numerous",
+      "B": "Spread",
+      "C": "Prejudice",
+      "D": "Validity",
+      "E": "Fulfill",
+      "F": "Humidity"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "Phase kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "safha, aşama",
+      "B": "önyargı, peşin hüküm",
+      "C": "aydınlatmak, bilgilendirmek",
+      "D": "çok sayıda, birçok",
+      "E": "başlatmak, önayak olmak",
+      "F": "örnek, numune"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "Excavation kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "kazı, kazı çalışması",
+      "B": "nem, rutubet",
+      "C": "örnek, numune",
+      "D": "yenilik, buluş",
+      "E": "sert, eğilmez",
+      "F": "önyargı, peşin hüküm"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "yerine getirmek, gerçekleştirmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Enlighten",
+      "B": "Obstacle",
+      "C": "Exploitation",
+      "D": "Excavation",
+      "E": "Fulfill",
+      "F": "Spread"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 11,
+    "question": "safha, aşama kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Exploitation",
+      "B": "Specimen",
+      "C": "Phase",
+      "D": "Enlighten",
+      "E": "Obstacle",
+      "F": "Initiate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "Enlighten kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "dağılmak, yayılmak",
+      "B": "soy, köken",
+      "C": "aydınlatmak, bilgilendirmek",
+      "D": "anlamına gelmek, demek istemek",
+      "E": "sömürü, kullanma, faydalanma",
+      "F": "nem, rutubet"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "yenilik, buluş kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Obstacle",
+      "B": "Innovation",
+      "C": "Numerous",
+      "D": "Specimen",
+      "E": "Humidity",
+      "F": "Spread"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "Initiate kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "garantiye almak, sağlamak",
+      "B": "başlatmak, önayak olmak",
+      "C": "örnek, numune",
+      "D": "engel, mani",
+      "E": "soy, köken",
+      "F": "yerine getirmek, gerçekleştirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "geçerlilik, doğruluk kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Innovation",
+      "B": "Phase",
+      "C": "Spread",
+      "D": "Humidity",
+      "E": "Prejudice",
+      "F": "Validity"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 16,
+    "question": "Fulfill kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yerine getirmek, gerçekleştirmek",
+      "B": "arıtma, geliştirme",
+      "C": "dağılmak, yayılmak",
+      "D": "safha, aşama",
+      "E": "aydınlatmak, bilgilendirmek",
+      "F": "örnek, numune"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "çok sayıda, birçok kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Refinement",
+      "B": "Numerous",
+      "C": "Humidity",
+      "D": "Ensure",
+      "E": "Phase",
+      "F": "Validity"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "Gravity kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "sert, eğilmez",
+      "B": "anlamına gelmek, demek istemek",
+      "C": "yerçekimi",
+      "D": "safha, aşama",
+      "E": "nem, rutubet",
+      "F": "garantiye almak, sağlamak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "safha, aşama kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Gravity",
+      "B": "Phase",
+      "C": "Ensure",
+      "D": "Lineage",
+      "E": "Initiate",
+      "F": "Spread"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "Refinement kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "kazı, kazı çalışması",
+      "B": "garantiye almak, sağlamak",
+      "C": "dağılmak, yayılmak",
+      "D": "arıtma, geliştirme",
+      "E": "engel, mani",
+      "F": "nem, rutubet"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "garantiye almak, sağlamak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Refinement",
+      "B": "Initiate",
+      "C": "Prejudice",
+      "D": "Numerous",
+      "E": "Ensure",
+      "F": "Innovation"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 22,
+    "question": "yenilik, buluş kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Validity",
+      "B": "Obstacle",
+      "C": "Initiate",
+      "D": "Excavation",
+      "E": "Spread",
+      "F": "Innovation"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 23,
+    "question": "çok sayıda, birçok kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Refinement",
+      "B": "Numerous",
+      "C": "Obstacle",
+      "D": "Prejudice",
+      "E": "Humidity",
+      "F": "Gravity"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "Numerous kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "arıtma, geliştirme",
+      "B": "örnek, numune",
+      "C": "sömürü, kullanma, faydalanma",
+      "D": "çok sayıda, birçok",
+      "E": "dağılmak, yayılmak",
+      "F": "kazı, kazı çalışması"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "çok sayıda, birçok kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Validity",
+      "B": "Numerous",
+      "C": "Initiate",
+      "D": "Mean",
+      "E": "Exploitation",
+      "F": "Prejudice"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "Rigid kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "engel, mani",
+      "B": "yerine getirmek, gerçekleştirmek",
+      "C": "anlamına gelmek, demek istemek",
+      "D": "başlatmak, önayak olmak",
+      "E": "sert, eğilmez",
+      "F": "garantiye almak, sağlamak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 27,
+    "question": "çok sayıda, birçok kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Numerous",
+      "B": "Spread",
+      "C": "Fulfill",
+      "D": "Gravity",
+      "E": "Innovation",
+      "F": "Refinement"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "Specimen kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "nem, rutubet",
+      "B": "geçerlilik, doğruluk",
+      "C": "arıtma, geliştirme",
+      "D": "yerçekimi",
+      "E": "örnek, numune",
+      "F": "engel, mani"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 29,
+    "question": "Fulfill kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "sömürü, kullanma, faydalanma",
+      "B": "sert, eğilmez",
+      "C": "yerine getirmek, gerçekleştirmek",
+      "D": "soy, köken",
+      "E": "önyargı, peşin hüküm",
+      "F": "kazı, kazı çalışması"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "örnek, numune kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Validity",
+      "B": "Refinement",
+      "C": "Phase",
+      "D": "Excavation",
+      "E": "Mean",
+      "F": "Specimen"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "çok sayıda, birçok kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Lineage",
+      "B": "Ensure",
+      "C": "Numerous",
+      "D": "Validity",
+      "E": "Enlighten",
+      "F": "Fulfill"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "yenilik, buluş kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Innovation",
+      "B": "Specimen",
+      "C": "Obstacle",
+      "D": "Initiate",
+      "E": "Enlighten",
+      "F": "Spread"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "engel, mani kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Obstacle",
+      "B": "Numerous",
+      "C": "Fulfill",
+      "D": "Refinement",
+      "E": "Phase",
+      "F": "Innovation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "arıtma, geliştirme kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Mean",
+      "B": "Prejudice",
+      "C": "Refinement",
+      "D": "Obstacle",
+      "E": "Fulfill",
+      "F": "Innovation"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "önyargı, peşin hüküm kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Prejudice",
+      "B": "Numerous",
+      "C": "Enlighten",
+      "D": "Refinement",
+      "E": "Obstacle",
+      "F": "Excavation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "Ensure kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "safha, aşama",
+      "B": "garantiye almak, sağlamak",
+      "C": "yerçekimi",
+      "D": "dağılmak, yayılmak",
+      "E": "nem, rutubet",
+      "F": "kazı, kazı çalışması"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "Rigid kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yenilik, buluş",
+      "B": "sömürü, kullanma, faydalanma",
+      "C": "dağılmak, yayılmak",
+      "D": "örnek, numune",
+      "E": "sert, eğilmez",
+      "F": "aydınlatmak, bilgilendirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 38,
+    "question": "anlamına gelmek, demek istemek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Innovation",
+      "B": "Lineage",
+      "C": "Refinement",
+      "D": "Mean",
+      "E": "Specimen",
+      "F": "Numerous"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "aydınlatmak, bilgilendirmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Humidity",
+      "B": "Enlighten",
+      "C": "Gravity",
+      "D": "Exploitation",
+      "E": "Obstacle",
+      "F": "Mean"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "dağılmak, yayılmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Refinement",
+      "B": "Prejudice",
+      "C": "Excavation",
+      "D": "Spread",
+      "E": "Rigid",
+      "F": "Gravity"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "Refinement kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "garantiye almak, sağlamak",
+      "B": "engel, mani",
+      "C": "önyargı, peşin hüküm",
+      "D": "dağılmak, yayılmak",
+      "E": "arıtma, geliştirme",
+      "F": "sömürü, kullanma, faydalanma"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 42,
+    "question": "Humidity kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "safha, aşama",
+      "B": "önyargı, peşin hüküm",
+      "C": "nem, rutubet",
+      "D": "dağılmak, yayılmak",
+      "E": "aydınlatmak, bilgilendirmek",
+      "F": "soy, köken"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "Phase kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "soy, köken",
+      "B": "yerçekimi",
+      "C": "safha, aşama",
+      "D": "engel, mani",
+      "E": "sömürü, kullanma, faydalanma",
+      "F": "önyargı, peşin hüküm"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "soy, köken kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Exploitation",
+      "B": "Initiate",
+      "C": "Phase",
+      "D": "Lineage",
+      "E": "Spread",
+      "F": "Numerous"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "nem, rutubet kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Phase",
+      "B": "Ensure",
+      "C": "Obstacle",
+      "D": "Excavation",
+      "E": "Humidity",
+      "F": "Spread"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 46,
+    "question": "Excavation kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "örnek, numune",
+      "B": "aydınlatmak, bilgilendirmek",
+      "C": "kazı, kazı çalışması",
+      "D": "safha, aşama",
+      "E": "anlamına gelmek, demek istemek",
+      "F": "başlatmak, önayak olmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "Spread kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yenilik, buluş",
+      "B": "kazı, kazı çalışması",
+      "C": "yerçekimi",
+      "D": "çok sayıda, birçok",
+      "E": "dağılmak, yayılmak",
+      "F": "başlatmak, önayak olmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 48,
+    "question": "engel, mani kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Obstacle",
+      "B": "Refinement",
+      "C": "Prejudice",
+      "D": "Mean",
+      "E": "Spread",
+      "F": "Innovation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "Obstacle kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "kazı, kazı çalışması",
+      "B": "engel, mani",
+      "C": "sömürü, kullanma, faydalanma",
+      "D": "aydınlatmak, bilgilendirmek",
+      "E": "örnek, numune",
+      "F": "safha, aşama"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "yerçekimi kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Specimen",
+      "B": "Prejudice",
+      "C": "Spread",
+      "D": "Fulfill",
+      "E": "Gravity",
+      "F": "Exploitation"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 51,
+    "question": "Exploitation kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "nem, rutubet",
+      "B": "arıtma, geliştirme",
+      "C": "çok sayıda, birçok",
+      "D": "sömürü, kullanma, faydalanma",
+      "E": "geçerlilik, doğruluk",
+      "F": "aydınlatmak, bilgilendirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 52,
+    "question": "Exploitation kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "sömürü, kullanma, faydalanma",
+      "B": "kazı, kazı çalışması",
+      "C": "yerine getirmek, gerçekleştirmek",
+      "D": "dağılmak, yayılmak",
+      "E": "örnek, numune",
+      "F": "aydınlatmak, bilgilendirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "Rigid kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "anlamına gelmek, demek istemek",
+      "B": "önyargı, peşin hüküm",
+      "C": "kazı, kazı çalışması",
+      "D": "arıtma, geliştirme",
+      "E": "sert, eğilmez",
+      "F": "soy, köken"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 54,
+    "question": "aydınlatmak, bilgilendirmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Validity",
+      "B": "Enlighten",
+      "C": "Spread",
+      "D": "Obstacle",
+      "E": "Excavation",
+      "F": "Refinement"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 55,
+    "question": "arıtma, geliştirme kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Refinement",
+      "B": "Specimen",
+      "C": "Obstacle",
+      "D": "Rigid",
+      "E": "Gravity",
+      "F": "Exploitation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "kazı, kazı çalışması kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Excavation",
+      "B": "Specimen",
+      "C": "Innovation",
+      "D": "Fulfill",
+      "E": "Lineage",
+      "F": "Rigid"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "Initiate kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "sert, eğilmez",
+      "B": "çok sayıda, birçok",
+      "C": "dağılmak, yayılmak",
+      "D": "geçerlilik, doğruluk",
+      "E": "safha, aşama",
+      "F": "başlatmak, önayak olmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 58,
+    "question": "Spread kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "arıtma, geliştirme",
+      "B": "anlamına gelmek, demek istemek",
+      "C": "yerine getirmek, gerçekleştirmek",
+      "D": "dağılmak, yayılmak",
+      "E": "kazı, kazı çalışması",
+      "F": "aydınlatmak, bilgilendirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 59,
+    "question": "Specimen kelimesinin Türkçesi hangisidir?",
+    "options": {
+      "A": "yerçekimi",
+      "B": "kazı, kazı çalışması",
+      "C": "önyargı, peşin hüküm",
+      "D": "örnek, numune",
+      "E": "çok sayıda, birçok",
+      "F": "arıtma, geliştirme"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "question": "garantiye almak, sağlamak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "Humidity",
+      "B": "Ensure",
+      "C": "Numerous",
+      "D": "Exploitation",
+      "E": "Excavation",
+      "F": "Innovation"
+    },
+    "correct": "B"
+  }
+]

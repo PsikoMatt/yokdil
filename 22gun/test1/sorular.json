@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Ormansızlaşma\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Deforestation",
+      "B": "Strengthen",
+      "C": "Doubtful",
+      "D": "Assumption",
+      "E": "Copper",
+      "F": "Massive"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "\"Assumption\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Şüpheli, kuşkulu",
+      "B": "Tutmak, korumak, muhafaza etmek",
+      "C": "Bakır",
+      "D": "Yoğun, şiddetli",
+      "E": "Varsayım, farzetme",
+      "F": "Hasat, ürün toplamak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 3,
+    "question": "\"Tutmak, korumak, muhafaza etmek\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Unmanned",
+      "B": "Deforestation",
+      "C": "Retain",
+      "D": "Massive",
+      "E": "Immigration",
+      "F": "Doubtful"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "\"Assumption\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Tahmin etmek, öngörü",
+      "B": "Varsayım, farzetme",
+      "C": "Bakır",
+      "D": "Tutmak, korumak, muhafaza etmek",
+      "E": "Göç",
+      "F": "Görünmez"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "\"Aynı, tıpatıp benzer\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Erroneous",
+      "B": "Intend",
+      "C": "Identical",
+      "D": "Copper",
+      "E": "Substantially",
+      "F": "Immigration"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "question": "\"Intend\" ne anlama gelir?",
+    "options": {
+      "A": "Güçlendirmek",
+      "B": "Görünmez",
+      "C": "Çok büyük, iri, devasa",
+      "D": "Niyet etmek, amaçlamak",
+      "E": "Savunmak, desteklemek",
+      "F": "Bakır"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 7,
+    "question": "\"Deforestation\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Savunmak, desteklemek",
+      "B": "Çeşitlendirmek",
+      "C": "Ormansızlaşma",
+      "D": "Şüpheli, kuşkulu",
+      "E": "Yoğun, şiddetli",
+      "F": "Tahmin etmek, öngörü"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Erroneous\" ne anlama gelir?",
+    "options": {
+      "A": "Çeşitlendirmek",
+      "B": "Güçlendirmek",
+      "C": "Göç",
+      "D": "Hatalı, yanlış",
+      "E": "Ormansızlaşma",
+      "F": "Varsayım, farzetme"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 9,
+    "question": "\"Retain\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Niyet etmek, amaçlamak",
+      "B": "Yoğun, şiddetli",
+      "C": "Aynı, tıpatıp benzer",
+      "D": "Tutmak, korumak, muhafaza etmek",
+      "E": "Çok büyük, iri, devasa",
+      "F": "Hasat, ürün toplamak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "\"Niyet etmek, amaçlamak\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Massive",
+      "B": "Assumption",
+      "C": "Identical",
+      "D": "Doubtful",
+      "E": "Account for",
+      "F": "Intend"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"Doubtful\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Göç",
+      "B": "Güçlendirmek",
+      "C": "Tahmin etmek, öngörü",
+      "D": "Şüpheli, kuşkulu",
+      "E": "Varsayım, farzetme",
+      "F": "Çok büyük, iri, devasa"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "\"Harvest\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Oluşturmak, tekabül etmek",
+      "B": "Görünmez",
+      "C": "Şüpheli, kuşkulu",
+      "D": "Hasat, ürün toplamak",
+      "E": "Varsayım, farzetme",
+      "F": "Bakır"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "question": "\"Erroneous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Görünmez",
+      "B": "İnsansız",
+      "C": "Çeşitlendirmek",
+      "D": "Göç",
+      "E": "Hatalı, yanlış",
+      "F": "Tutmak, korumak, muhafaza etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 14,
+    "question": "\"Savunmak, desteklemek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Forecast",
+      "B": "Deforestation",
+      "C": "Doubtful",
+      "D": "Harvest",
+      "E": "Advocate",
+      "F": "Assumption"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 15,
+    "question": "\"Immigration\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Savunmak, desteklemek",
+      "B": "Şüpheli, kuşkulu",
+      "C": "Göç",
+      "D": "Bakır",
+      "E": "Varsayım, farzetme",
+      "F": "Önemli ölçüde, büyük oranda"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "\"Assumption\" ne anlama gelir?",
+    "options": {
+      "A": "Savunmak, desteklemek",
+      "B": "Göç",
+      "C": "Güçlendirmek",
+      "D": "Şüpheli, kuşkulu",
+      "E": "Tahmin etmek, öngörü",
+      "F": "Varsayım, farzetme"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 17,
+    "question": "\"Ormansızlaşma\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Identical",
+      "B": "Substantially",
+      "C": "Copper",
+      "D": "Invisible",
+      "E": "Intend",
+      "F": "Deforestation"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 18,
+    "question": "\"Yoğun, şiddetli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Identical",
+      "B": "Assumption",
+      "C": "Intense",
+      "D": "Harvest",
+      "E": "Forecast",
+      "F": "Immigration"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Substantially\" ne anlama gelir?",
+    "options": {
+      "A": "Aynı, tıpatıp benzer",
+      "B": "Ormansızlaşma",
+      "C": "Bakır",
+      "D": "Önemli ölçüde, büyük oranda",
+      "E": "Yoğun, şiddetli",
+      "F": "Görünmez"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "\"Bakır\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Strengthen",
+      "B": "Unmanned",
+      "C": "Retain",
+      "D": "Copper",
+      "E": "Account for",
+      "F": "Doubtful"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"Substantially\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Aynı, tıpatıp benzer",
+      "B": "Ormansızlaşma",
+      "C": "Varsayım, farzetme",
+      "D": "Önemli ölçüde, büyük oranda",
+      "E": "Görünmez",
+      "F": "Göç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Immigration\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Savunmak, desteklemek",
+      "B": "Hasat, ürün toplamak",
+      "C": "Göç",
+      "D": "Görünmez",
+      "E": "Ormansızlaşma",
+      "F": "Çeşitlendirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "\"Unmanned\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "İnsansız",
+      "B": "Güçlendirmek",
+      "C": "Hasat, ürün toplamak",
+      "D": "Aynı, tıpatıp benzer",
+      "E": "Yoğun, şiddetli",
+      "F": "Hatalı, yanlış"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "\"Ormansızlaşma\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Harvest",
+      "B": "Unmanned",
+      "C": "Doubtful",
+      "D": "Erroneous",
+      "E": "Deforestation",
+      "F": "Immigration"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "\"Çeşitlendirmek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Identical",
+      "B": "Intend",
+      "C": "Forecast",
+      "D": "Unmanned",
+      "E": "Diversify",
+      "F": "Copper"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 26,
+    "question": "\"Immigration\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Göç",
+      "B": "Niyet etmek, amaçlamak",
+      "C": "Hasat, ürün toplamak",
+      "D": "Varsayım, farzetme",
+      "E": "Çok büyük, iri, devasa",
+      "F": "Ormansızlaşma"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "\"Çok büyük, iri, devasa\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Forecast",
+      "B": "Erroneous",
+      "C": "Massive",
+      "D": "Identical",
+      "E": "Intend",
+      "F": "Copper"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"Copper\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Güçlendirmek",
+      "B": "Niyet etmek, amaçlamak",
+      "C": "Göç",
+      "D": "Çok büyük, iri, devasa",
+      "E": "Görünmez",
+      "F": "Bakır"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 29,
+    "question": "\"Tutmak, korumak, muhafaza etmek\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Intense",
+      "B": "Substantially",
+      "C": "Account for",
+      "D": "Harvest",
+      "E": "Retain",
+      "F": "Unmanned"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 30,
+    "question": "\"Identical\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Tutmak, korumak, muhafaza etmek",
+      "B": "Aynı, tıpatıp benzer",
+      "C": "Oluşturmak, tekabül etmek",
+      "D": "Tahmin etmek, öngörü",
+      "E": "Varsayım, farzetme",
+      "F": "Bakır"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "question": "\"Savunmak, desteklemek\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Intense",
+      "B": "Retain",
+      "C": "Deforestation",
+      "D": "Advocate",
+      "E": "Erroneous",
+      "F": "Substantially"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "\"Unmanned\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Şüpheli, kuşkulu",
+      "B": "Görünmez",
+      "C": "Bakır",
+      "D": "Önemli ölçüde, büyük oranda",
+      "E": "İnsansız",
+      "F": "Tahmin etmek, öngörü"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 33,
+    "question": "\"Substantially\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Varsayım, farzetme",
+      "B": "Oluşturmak, tekabül etmek",
+      "C": "Yoğun, şiddetli",
+      "D": "Çeşitlendirmek",
+      "E": "Güçlendirmek",
+      "F": "Önemli ölçüde, büyük oranda"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Immigration\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Göç",
+      "B": "Bakır",
+      "C": "Oluşturmak, tekabül etmek",
+      "D": "Hasat, ürün toplamak",
+      "E": "Yoğun, şiddetli",
+      "F": "Güçlendirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "\"Advocate\" ne anlama gelir?",
+    "options": {
+      "A": "Önemli ölçüde, büyük oranda",
+      "B": "Çok büyük, iri, devasa",
+      "C": "Bakır",
+      "D": "Aynı, tıpatıp benzer",
+      "E": "Hatalı, yanlış",
+      "F": "Savunmak, desteklemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "\"Önemli ölçüde, büyük oranda\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Massive",
+      "B": "Invisible",
+      "C": "Advocate",
+      "D": "Substantially",
+      "E": "Strengthen",
+      "F": "Deforestation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "question": "\"Hatalı, yanlış\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Doubtful",
+      "B": "Diversify",
+      "C": "Intense",
+      "D": "Erroneous",
+      "E": "Invisible",
+      "F": "Unmanned"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Tutmak, korumak, muhafaza etmek\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Massive",
+      "B": "Doubtful",
+      "C": "Forecast",
+      "D": "Strengthen",
+      "E": "Retain",
+      "F": "Account for"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "\"Advocate\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Hasat, ürün toplamak",
+      "B": "Oluşturmak, tekabül etmek",
+      "C": "Varsayım, farzetme",
+      "D": "Savunmak, desteklemek",
+      "E": "İnsansız",
+      "F": "Göç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "\"Hatalı, yanlış\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Substantially",
+      "B": "Advocate",
+      "C": "Harvest",
+      "D": "Identical",
+      "E": "Erroneous",
+      "F": "Immigration"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 41,
+    "question": "\"Savunmak, desteklemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Massive",
+      "B": "Copper",
+      "C": "Retain",
+      "D": "Advocate",
+      "E": "Assumption",
+      "F": "Diversify"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "\"Göç\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Doubtful",
+      "B": "Intense",
+      "C": "Diversify",
+      "D": "Retain",
+      "E": "Immigration",
+      "F": "Unmanned"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 43,
+    "question": "\"Intense\" ne anlama gelir?",
+    "options": {
+      "A": "Göç",
+      "B": "Bakır",
+      "C": "Önemli ölçüde, büyük oranda",
+      "D": "Varsayım, farzetme",
+      "E": "Güçlendirmek",
+      "F": "Yoğun, şiddetli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 44,
+    "question": "\"Çok büyük, iri, devasa\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Harvest",
+      "B": "Doubtful",
+      "C": "Diversify",
+      "D": "Account for",
+      "E": "Massive",
+      "F": "Invisible"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 45,
+    "question": "\"Immigration\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Tahmin etmek, öngörü",
+      "B": "Hatalı, yanlış",
+      "C": "Savunmak, desteklemek",
+      "D": "Ormansızlaşma",
+      "E": "Güçlendirmek",
+      "F": "Göç"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 46,
+    "question": "\"Doubtful\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Göç",
+      "B": "Önemli ölçüde, büyük oranda",
+      "C": "Şüpheli, kuşkulu",
+      "D": "İnsansız",
+      "E": "Çeşitlendirmek",
+      "F": "Hatalı, yanlış"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Tutmak, korumak, muhafaza etmek\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Retain",
+      "B": "Massive",
+      "C": "Assumption",
+      "D": "Account for",
+      "E": "Identical",
+      "F": "Diversify"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "\"Bakır\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Invisible",
+      "B": "Harvest",
+      "C": "Copper",
+      "D": "Assumption",
+      "E": "Diversify",
+      "F": "Unmanned"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "question": "\"Tahmin etmek, öngörü\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Strengthen",
+      "B": "Assumption",
+      "C": "Forecast",
+      "D": "Erroneous",
+      "E": "Immigration",
+      "F": "Harvest"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 50,
+    "question": "\"Immigration\" sözcüğü Türkçede hangi anlama gelir?",
+    "options": {
+      "A": "Varsayım, farzetme",
+      "B": "Oluşturmak, tekabül etmek",
+      "C": "Şüpheli, kuşkulu",
+      "D": "Göç",
+      "E": "Yoğun, şiddetli",
+      "F": "Bakır"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "question": "\"Advocate\" kelimesi Türkçeye nasıl çevrilir?",
+    "options": {
+      "A": "Varsayım, farzetme",
+      "B": "Çeşitlendirmek",
+      "C": "Güçlendirmek",
+      "D": "Savunmak, desteklemek",
+      "E": "İnsansız",
+      "F": "Önemli ölçüde, büyük oranda"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 52,
+    "question": "\"Varsayım, farzetme\" anlamına gelen İngilizce kelime nedir?",
+    "options": {
+      "A": "Doubtful",
+      "B": "Assumption",
+      "C": "Retain",
+      "D": "Diversify",
+      "E": "Invisible",
+      "F": "Erroneous"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 53,
+    "question": "\"Ormansızlaşma\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Deforestation",
+      "B": "Account for",
+      "C": "Substantially",
+      "D": "Diversify",
+      "E": "Advocate",
+      "F": "Intense"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "\"Account for\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "Oluşturmak, tekabül etmek",
+      "B": "Varsayım, farzetme",
+      "C": "Yoğun, şiddetli",
+      "D": "Görünmez",
+      "E": "Bakır",
+      "F": "İnsansız"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "\"İnsansız\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Strengthen",
+      "B": "Harvest",
+      "C": "Unmanned",
+      "D": "Deforestation",
+      "E": "Diversify",
+      "F": "Retain"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "\"Çok büyük, iri, devasa\" kelimesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "Strengthen",
+      "B": "Forecast",
+      "C": "Advocate",
+      "D": "Intend",
+      "E": "Massive",
+      "F": "Substantially"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 57,
+    "question": "\"Substantially\" ifadesi aşağıdakilerden hangisiyle anlamca örtüşür?",
+    "options": {
+      "A": "Önemli ölçüde, büyük oranda",
+      "B": "Yoğun, şiddetli",
+      "C": "Ormansızlaşma",
+      "D": "Çeşitlendirmek",
+      "E": "Güçlendirmek",
+      "F": "Tutmak, korumak, muhafaza etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 58,
+    "question": "\"Bakır\" kelimesi İngilizce’de nasıl yazılır?",
+    "options": {
+      "A": "Immigration",
+      "B": "Identical",
+      "C": "Erroneous",
+      "D": "Strengthen",
+      "E": "Unmanned",
+      "F": "Copper"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 59,
+    "question": "\"Varsayım, farzetme\" sözcüğünü karşılayan İngilizce kelime hangisidir?",
+    "options": {
+      "A": "Intend",
+      "B": "Assumption",
+      "C": "Diversify",
+      "D": "Identical",
+      "E": "Intense",
+      "F": "Account for"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 60,
+    "question": "\"Copper\" ne anlama gelir?",
+    "options": {
+      "A": "İnsansız",
+      "B": "Hasat, ürün toplamak",
+      "C": "Niyet etmek, amaçlamak",
+      "D": "Bakır",
+      "E": "Savunmak, desteklemek",
+      "F": "Şüpheli, kuşkulu"
+    },
+    "correct": "D"
+  }
+]
