@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "'compatible with' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "diretmek",
+      "B": "teşvik etmek",
+      "C": "ile bağdaşır",
+      "D": "yenilenebilir",
+      "E": "harekete geçirmek",
+      "F": "mesele"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "'critical' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "ısrar etmek",
+      "B": "yenilenebilir",
+      "C": "çıktı",
+      "D": "diretmek",
+      "E": "kritik",
+      "F": "gelişmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 3,
+    "question": "'ile uyumlu' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "curb",
+      "B": "critical",
+      "C": "reluctant",
+      "D": "compatible with",
+      "E": "barren",
+      "F": "supposition"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "'propose' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "isteksiz",
+      "B": "uzaktan",
+      "C": "ile bağdaşır",
+      "D": "buharlaşma",
+      "E": "işlenmemiş",
+      "F": "teklif etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "'mani' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "curb",
+      "B": "supposition",
+      "C": "precise",
+      "D": "compatible with",
+      "E": "hindrance",
+      "F": "logging"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 6,
+    "question": "'precise' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "engel",
+      "B": "çıktı",
+      "C": "harekete geçirmek",
+      "D": "kesin",
+      "E": "mesele",
+      "F": "diretmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 7,
+    "question": "'ile uyumlu' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "compatible with",
+      "B": "output",
+      "C": "thrive",
+      "D": "reluctant",
+      "E": "evaporation",
+      "F": "fascinating"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "'thrive' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "yenilenebilir",
+      "B": "çorak",
+      "C": "kritik",
+      "D": "buharlaşma",
+      "E": "ham",
+      "F": "büyümek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "'barren' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "isteksiz",
+      "B": "büyümek",
+      "C": "çorak",
+      "D": "varsayım",
+      "E": "ile bağdaşır",
+      "F": "önermek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "'sorun' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "crude",
+      "B": "fascinating",
+      "C": "hindrance",
+      "D": "remote",
+      "E": "affair",
+      "F": "compatible with"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 11,
+    "question": "'precise' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "engel",
+      "B": "sorun",
+      "C": "orman biçimi",
+      "D": "kesin",
+      "E": "büyüleyici",
+      "F": "harekete geçirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "'buharlaşma' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "precise",
+      "B": "evaporation",
+      "C": "barren",
+      "D": "critical",
+      "E": "supposition",
+      "F": "logging"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "'reluctant' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "orman biçimi",
+      "B": "çorak",
+      "C": "mani",
+      "D": "gönülsüz",
+      "E": "harekete geçirmek",
+      "F": "uzaktan"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "'çorak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "barren",
+      "B": "curb",
+      "C": "propose",
+      "D": "affair",
+      "E": "hindrance",
+      "F": "precise"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "'propose' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "önermek",
+      "B": "tahmin",
+      "C": "diretmek",
+      "D": "önemli",
+      "E": "varsayım",
+      "F": "çorak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "'insist' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "varsayım",
+      "B": "ham",
+      "C": "orman biçimi",
+      "D": "önermek",
+      "E": "ısrar etmek",
+      "F": "kritik"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 17,
+    "question": "'kesin' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "precise",
+      "B": "remote",
+      "C": "propose",
+      "D": "compatible with",
+      "E": "thrive",
+      "F": "affair"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "'barren' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "önermek",
+      "B": "üretim",
+      "C": "gönülsüz",
+      "D": "ile bağdaşır",
+      "E": "çorak",
+      "F": "engel"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 19,
+    "question": "'curb' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "verimsiz",
+      "B": "kesin",
+      "C": "önemli",
+      "D": "uzaktan",
+      "E": "mesele",
+      "F": "kontrol altına almak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 20,
+    "question": "'insist' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "diretmek",
+      "B": "mani",
+      "C": "önemli",
+      "D": "varsayım",
+      "E": "isteksiz",
+      "F": "tahmin"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "'sorun' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "precise",
+      "B": "insist",
+      "C": "prompt",
+      "D": "affair",
+      "E": "reluctant",
+      "F": "evaporation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "'isteksiz' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "remote",
+      "B": "output",
+      "C": "precise",
+      "D": "barren",
+      "E": "reluctant",
+      "F": "curb"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "'teklif etmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "propose",
+      "B": "supposition",
+      "C": "barren",
+      "D": "critical",
+      "E": "remote",
+      "F": "logging"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "'çıktı' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "output",
+      "B": "thrive",
+      "C": "fascinating",
+      "D": "remote",
+      "E": "propose",
+      "F": "renewable"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "'reluctant' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "tahmin",
+      "B": "engel",
+      "C": "büyümek",
+      "D": "isteksiz",
+      "E": "ile uyumlu",
+      "F": "varsayım"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "'büyüleyici' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "crude",
+      "B": "propose",
+      "C": "hindrance",
+      "D": "precise",
+      "E": "remote",
+      "F": "fascinating"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 27,
+    "question": "'output' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "üretim",
+      "B": "önermek",
+      "C": "kontrol altına almak",
+      "D": "varsayım",
+      "E": "gönülsüz",
+      "F": "ağaç kesimi"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "'uzak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "remote",
+      "B": "hindrance",
+      "C": "reluctant",
+      "D": "fascinating",
+      "E": "crude",
+      "F": "logging"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "'prompt' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "ham",
+      "B": "harekete geçirmek",
+      "C": "üretim",
+      "D": "verimsiz",
+      "E": "ile bağdaşır",
+      "F": "önemli"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "'sınırlamak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "insist",
+      "B": "prompt",
+      "C": "output",
+      "D": "propose",
+      "E": "curb",
+      "F": "renewable"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 31,
+    "question": "'teşvik etmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "critical",
+      "B": "insist",
+      "C": "output",
+      "D": "affair",
+      "E": "curb",
+      "F": "prompt"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 32,
+    "question": "'ağaç kesimi' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "precise",
+      "B": "compatible with",
+      "C": "curb",
+      "D": "renewable",
+      "E": "logging",
+      "F": "critical"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 33,
+    "question": "'işlenmemiş' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "fascinating",
+      "B": "reluctant",
+      "C": "affair",
+      "D": "logging",
+      "E": "evaporation",
+      "F": "crude"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "'yenilenebilir' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "renewable",
+      "B": "hindrance",
+      "C": "thrive",
+      "D": "affair",
+      "E": "insist",
+      "F": "precise"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "'ağaç kesimi' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "curb",
+      "B": "barren",
+      "C": "evaporation",
+      "D": "logging",
+      "E": "hindrance",
+      "F": "affair"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "'barren' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "harekete geçirmek",
+      "B": "çorak",
+      "C": "teşvik etmek",
+      "D": "büyüleyici",
+      "E": "buharlaşma",
+      "F": "yenilenebilir"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "'remote' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "uzaktan",
+      "B": "buharlaşma",
+      "C": "yenilenebilir",
+      "D": "işlenmemiş",
+      "E": "harekete geçirmek",
+      "F": "sorun"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "'teklif etmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "curb",
+      "B": "insist",
+      "C": "reluctant",
+      "D": "renewable",
+      "E": "propose",
+      "F": "precise"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "'supposition' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "sınırlamak",
+      "B": "etkileyici",
+      "C": "çorak",
+      "D": "varsayım",
+      "E": "buharlaşma",
+      "F": "ham"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "'output' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "kritik",
+      "B": "mani",
+      "C": "teklif etmek",
+      "D": "önermek",
+      "E": "üretim",
+      "F": "kontrol altına almak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 41,
+    "question": "'buharlaşma' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "precise",
+      "B": "remote",
+      "C": "prompt",
+      "D": "reluctant",
+      "E": "evaporation",
+      "F": "fascinating"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 42,
+    "question": "'curb' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "varsayım",
+      "B": "önermek",
+      "C": "üretim",
+      "D": "kontrol altına almak",
+      "E": "ham",
+      "F": "harekete geçirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "'mesele' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "curb",
+      "B": "evaporation",
+      "C": "fascinating",
+      "D": "supposition",
+      "E": "barren",
+      "F": "affair"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 44,
+    "question": "'fascinating' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "harekete geçirmek",
+      "B": "tahmin",
+      "C": "büyüleyici",
+      "D": "çıktı",
+      "E": "önermek",
+      "F": "uzak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 45,
+    "question": "'logging' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "orman biçimi",
+      "B": "gönülsüz",
+      "C": "verimsiz",
+      "D": "uzaktan",
+      "E": "etkileyici",
+      "F": "teklif etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "'prompt' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "üretim",
+      "B": "harekete geçirmek",
+      "C": "ile uyumlu",
+      "D": "sınırlamak",
+      "E": "sorun",
+      "F": "büyüleyici"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 47,
+    "question": "'compatible with' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "verimsiz",
+      "B": "tahmin",
+      "C": "ağaç kesimi",
+      "D": "etkileyici",
+      "E": "büyümek",
+      "F": "ile uyumlu"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "'ısrar etmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "remote",
+      "B": "fascinating",
+      "C": "renewable",
+      "D": "output",
+      "E": "critical",
+      "F": "insist"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "'remote' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "orman biçimi",
+      "B": "gönülsüz",
+      "C": "kritik",
+      "D": "ile bağdaşır",
+      "E": "sınırlamak",
+      "F": "uzak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "'buharlaşma' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "critical",
+      "B": "barren",
+      "C": "renewable",
+      "D": "compatible with",
+      "E": "precise",
+      "F": "evaporation"
+    },
+    "correct": "F"
+  }
+]

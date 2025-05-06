@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "'kalıntı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "starve",
+      "B": "infinitely",
+      "C": "residue",
+      "D": "propel",
+      "E": "rely on",
+      "F": "recognize"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "'kısaltmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "surveillance",
+      "B": "disprove",
+      "C": "starve",
+      "D": "fertile",
+      "E": "curtail",
+      "F": "residue"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 3,
+    "question": "'kısaltmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "be made up of",
+      "B": "insufficient",
+      "C": "curtail",
+      "D": "surveillance",
+      "E": "disprove",
+      "F": "propel"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "'yankı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "fertile",
+      "B": "reinforcement",
+      "C": "starve",
+      "D": "reverberation",
+      "E": "unveil",
+      "F": "insulation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 5,
+    "question": "'kalıntı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "switch",
+      "B": "insulation",
+      "C": "occurrence",
+      "D": "residue",
+      "E": "reinforcement",
+      "F": "reverberation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "'yankı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "curtail",
+      "B": "reverberation",
+      "C": "fertile",
+      "D": "be made up of",
+      "E": "residue",
+      "F": "objectively"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "'itmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "switch",
+      "B": "infinitely",
+      "C": "occurrence",
+      "D": "propel",
+      "E": "curtail",
+      "F": "rely on"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 8,
+    "question": "'verimli' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "be made up of",
+      "B": "fertile",
+      "C": "objectively",
+      "D": "reinforcement",
+      "E": "starve",
+      "F": "residue"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "'pekiştirme' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "reinforcement",
+      "B": "insufficient",
+      "C": "rely on",
+      "D": "starve",
+      "E": "switch",
+      "F": "unveil"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "'değiştirmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "insulation",
+      "B": "be made up of",
+      "C": "reverberation",
+      "D": "curtail",
+      "E": "fertile",
+      "F": "switch"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "'yalıtım' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "occurrence",
+      "B": "reverberation",
+      "C": "starve",
+      "D": "unveil",
+      "E": "be made up of",
+      "F": "insulation"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 12,
+    "question": "'açığa çıkarmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "unveil",
+      "B": "switch",
+      "C": "rely on",
+      "D": "raise",
+      "E": "surveillance",
+      "F": "objectively"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "'açığa çıkarmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "curtail",
+      "B": "unveil",
+      "C": "occurrence",
+      "D": "insufficient",
+      "E": "objectively",
+      "F": "raise"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "'yankı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "objectively",
+      "B": "infinitely",
+      "C": "reinforcement",
+      "D": "reverberation",
+      "E": "insufficient",
+      "F": "disprove"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "'olay' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "surveillance",
+      "B": "curtail",
+      "C": "infinitely",
+      "D": "occurrence",
+      "E": "objectively",
+      "F": "recognize"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "'yetersiz' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "residue",
+      "B": "starve",
+      "C": "be made up of",
+      "D": "unveil",
+      "E": "insufficient",
+      "F": "surveillance"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 17,
+    "question": "'nesnel olarak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "switch",
+      "B": "objectively",
+      "C": "be made up of",
+      "D": "insulation",
+      "E": "surveillance",
+      "F": "infinitely"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "'den oluşmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "rely on",
+      "B": "be made up of",
+      "C": "starve",
+      "D": "reinforcement",
+      "E": "switch",
+      "F": "reverberation"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "question": "'gözetim' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "surveillance",
+      "B": "switch",
+      "C": "curtail",
+      "D": "objectively",
+      "E": "rely on",
+      "F": "unveil"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "'açığa çıkarmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "disprove",
+      "B": "curtail",
+      "C": "reverberation",
+      "D": "insulation",
+      "E": "surveillance",
+      "F": "unveil"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 21,
+    "question": "'çürütmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "infinitely",
+      "B": "raise",
+      "C": "disprove",
+      "D": "curtail",
+      "E": "insufficient",
+      "F": "unveil"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "'değiştirmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "reinforcement",
+      "B": "switch",
+      "C": "propel",
+      "D": "occurrence",
+      "E": "reverberation",
+      "F": "unveil"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "question": "'değiştirmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "curtail",
+      "B": "switch",
+      "C": "propel",
+      "D": "unveil",
+      "E": "insufficient",
+      "F": "fertile"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "'kısaltmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "switch",
+      "B": "insufficient",
+      "C": "objectively",
+      "D": "reverberation",
+      "E": "be made up of",
+      "F": "curtail"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 25,
+    "question": "'gözetim' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "recognize",
+      "B": "surveillance",
+      "C": "curtail",
+      "D": "residue",
+      "E": "reinforcement",
+      "F": "switch"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "'kalıntı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "residue",
+      "B": "insulation",
+      "C": "objectively",
+      "D": "rely on",
+      "E": "propel",
+      "F": "infinitely"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "'ayırt etmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "rely on",
+      "B": "starve",
+      "C": "recognize",
+      "D": "occurrence",
+      "E": "propel",
+      "F": "disprove"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "'yankı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "be made up of",
+      "B": "unveil",
+      "C": "starve",
+      "D": "reverberation",
+      "E": "rely on",
+      "F": "reinforcement"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "'yankı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "be made up of",
+      "B": "occurrence",
+      "C": "reverberation",
+      "D": "raise",
+      "E": "insufficient",
+      "F": "curtail"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "'açlıktan ölmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "occurrence",
+      "B": "curtail",
+      "C": "surveillance",
+      "D": "be made up of",
+      "E": "rely on",
+      "F": "starve"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "'yalıtım' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "disprove",
+      "B": "be made up of",
+      "C": "objectively",
+      "D": "reverberation",
+      "E": "insulation",
+      "F": "insufficient"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 32,
+    "question": "'değiştirmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "residue",
+      "B": "surveillance",
+      "C": "occurrence",
+      "D": "switch",
+      "E": "rely on",
+      "F": "be made up of"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "'güvenmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "insulation",
+      "B": "raise",
+      "C": "rely on",
+      "D": "occurrence",
+      "E": "residue",
+      "F": "infinitely"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "'itmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "disprove",
+      "B": "be made up of",
+      "C": "objectively",
+      "D": "propel",
+      "E": "reinforcement",
+      "F": "recognize"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "'güvenmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "occurrence",
+      "B": "reverberation",
+      "C": "insulation",
+      "D": "surveillance",
+      "E": "disprove",
+      "F": "rely on"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "'açlıktan ölmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "starve",
+      "B": "reverberation",
+      "C": "fertile",
+      "D": "insufficient",
+      "E": "raise",
+      "F": "insulation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "'olay' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "occurrence",
+      "B": "rely on",
+      "C": "reverberation",
+      "D": "infinitely",
+      "E": "insufficient",
+      "F": "be made up of"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "'den oluşmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "surveillance",
+      "B": "recognize",
+      "C": "be made up of",
+      "D": "disprove",
+      "E": "insufficient",
+      "F": "propel"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "'yalıtım' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "insulation",
+      "B": "surveillance",
+      "C": "reverberation",
+      "D": "rely on",
+      "E": "starve",
+      "F": "curtail"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "'kısaltmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "recognize",
+      "B": "raise",
+      "C": "insufficient",
+      "D": "propel",
+      "E": "occurrence",
+      "F": "curtail"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "'den oluşmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "occurrence",
+      "B": "disprove",
+      "C": "be made up of",
+      "D": "unveil",
+      "E": "insulation",
+      "F": "residue"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "'kalıntı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "reverberation",
+      "B": "rely on",
+      "C": "unveil",
+      "D": "residue",
+      "E": "surveillance",
+      "F": "infinitely"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "'çürütmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "unveil",
+      "B": "insulation",
+      "C": "objectively",
+      "D": "propel",
+      "E": "be made up of",
+      "F": "disprove"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 44,
+    "question": "'kalıntı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "unveil",
+      "B": "curtail",
+      "C": "surveillance",
+      "D": "residue",
+      "E": "occurrence",
+      "F": "fertile"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "'açlıktan ölmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "reverberation",
+      "B": "reinforcement",
+      "C": "switch",
+      "D": "be made up of",
+      "E": "unveil",
+      "F": "starve"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 46,
+    "question": "'çürütmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "unveil",
+      "B": "insufficient",
+      "C": "be made up of",
+      "D": "reverberation",
+      "E": "disprove",
+      "F": "surveillance"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 47,
+    "question": "'değiştirmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "rely on",
+      "B": "switch",
+      "C": "curtail",
+      "D": "insufficient",
+      "E": "occurrence",
+      "F": "unveil"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "'çürütmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "propel",
+      "B": "curtail",
+      "C": "disprove",
+      "D": "insufficient",
+      "E": "residue",
+      "F": "recognize"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "question": "'verimli' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "infinitely",
+      "B": "unveil",
+      "C": "objectively",
+      "D": "propel",
+      "E": "fertile",
+      "F": "occurrence"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "'yalıtım' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "propel",
+      "B": "raise",
+      "C": "infinitely",
+      "D": "insulation",
+      "E": "occurrence",
+      "F": "curtail"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "question": "'gözetim' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "infinitely",
+      "B": "switch",
+      "C": "surveillance",
+      "D": "insulation",
+      "E": "residue",
+      "F": "occurrence"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "'itmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "unveil",
+      "B": "disprove",
+      "C": "insulation",
+      "D": "recognize",
+      "E": "insufficient",
+      "F": "propel"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 53,
+    "question": "'yetersiz' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "curtail",
+      "B": "switch",
+      "C": "infinitely",
+      "D": "residue",
+      "E": "propel",
+      "F": "insufficient"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "'güvenmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "starve",
+      "B": "reverberation",
+      "C": "objectively",
+      "D": "reinforcement",
+      "E": "rely on",
+      "F": "insulation"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 55,
+    "question": "'kısaltmak' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "rely on",
+      "B": "residue",
+      "C": "curtail",
+      "D": "be made up of",
+      "E": "insufficient",
+      "F": "switch"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "'kalıntı' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "be made up of",
+      "B": "occurrence",
+      "C": "insulation",
+      "D": "residue",
+      "E": "rely on",
+      "F": "switch"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 57,
+    "question": "'açlıktan ölmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "reinforcement",
+      "B": "raise",
+      "C": "switch",
+      "D": "objectively",
+      "E": "starve",
+      "F": "be made up of"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 58,
+    "question": "'itmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "starve",
+      "B": "infinitely",
+      "C": "fertile",
+      "D": "reinforcement",
+      "E": "disprove",
+      "F": "propel"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 59,
+    "question": "'açlıktan ölmek' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "unveil",
+      "B": "insulation",
+      "C": "be made up of",
+      "D": "occurrence",
+      "E": "starve",
+      "F": "propel"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 60,
+    "question": "'sonsuz şekilde' anlamına gelen İngilizce kelime hangisidir?",
+    "options": {
+      "A": "insulation",
+      "B": "recognize",
+      "C": "fertile",
+      "D": "infinitely",
+      "E": "surveillance",
+      "F": "starve"
+    },
+    "correct": "D"
+  }
+]

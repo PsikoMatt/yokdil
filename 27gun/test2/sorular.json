@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "'-den meydana gelmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "raise",
+      "B": "reinforcement",
+      "C": "reverberation",
+      "D": "recognize",
+      "E": "starve",
+      "F": "be made up of"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 2,
+    "question": "'starve' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "aç kalmak",
+      "B": "yükseltmek",
+      "C": "vaka",
+      "D": "yankı",
+      "E": "eksik",
+      "F": "ölçülemeyecek kadar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "'fertile' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "bel bağlamak",
+      "B": "ölçülemeyecek kadar",
+      "C": "bereketli",
+      "D": "yankı",
+      "E": "eksik",
+      "F": "artık"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "'açığa çıkarmak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "switch",
+      "B": "curtail",
+      "C": "occurrence",
+      "D": "disprove",
+      "E": "propel",
+      "F": "unveil"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "'kalıntı' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "residue",
+      "B": "occurrence",
+      "C": "infinitely",
+      "D": "insulation",
+      "E": "switch",
+      "F": "raise"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 6,
+    "question": "'büyütmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "be made up of",
+      "B": "raise",
+      "C": "switch",
+      "D": "unveil",
+      "E": "fertile",
+      "F": "occurrence"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "'objectively' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "nesnel olarak",
+      "B": "yalıtım",
+      "C": "ayırt etmek",
+      "D": "meydana gelme",
+      "E": "vaka",
+      "F": "güvenmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "'aç kalmak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "be made up of",
+      "B": "rely on",
+      "C": "starve",
+      "D": "fertile",
+      "E": "insulation",
+      "F": "reverberation"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "'disprove' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "eksik",
+      "B": "aksini kanıtlamak",
+      "C": "etki",
+      "D": "tortu",
+      "E": "gözetim",
+      "F": "meydana gelme"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "'reinforcement' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "güçlendirme",
+      "B": "yükseltmek",
+      "C": "büyütmek",
+      "D": "takviye",
+      "E": "etki",
+      "F": "yankı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "'-den oluşmak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "surveillance",
+      "B": "insulation",
+      "C": "curtail",
+      "D": "residue",
+      "E": "raise",
+      "F": "be made up of"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 12,
+    "question": "'starve' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "açlıktan ölmek",
+      "B": "açığa çıkarmak",
+      "C": "takip",
+      "D": "bilmek",
+      "E": "olay",
+      "F": "kalıntı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "'be made up of' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "yankı",
+      "B": "farkına varmak",
+      "C": "-den meydana gelmek",
+      "D": "tarafsız biçimde",
+      "E": "yetersiz",
+      "F": "eksik"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "'çürütmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "starve",
+      "B": "disprove",
+      "C": "insufficient",
+      "D": "unveil",
+      "E": "rely on",
+      "F": "occurrence"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "'be made up of' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "kısaltmak",
+      "B": "kalıntı",
+      "C": "bel bağlamak",
+      "D": "-den meydana gelmek",
+      "E": "açlıktan ölmek",
+      "F": "meydana gelme"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "'insufficient' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "eksik",
+      "B": "etki",
+      "C": "izleme",
+      "D": "yankı",
+      "E": "kısaltmak",
+      "F": "ayırt etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "'meydana gelme' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "propel",
+      "B": "starve",
+      "C": "occurrence",
+      "D": "disprove",
+      "E": "fertile",
+      "F": "unveil"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "'değiştirmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "fertile",
+      "B": "reinforcement",
+      "C": "switch",
+      "D": "infinitely",
+      "E": "starve",
+      "F": "insulation"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "'recognize' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "eksik",
+      "B": "farkına varmak",
+      "C": "yankı",
+      "D": "hareket ettirmek",
+      "E": "değiştirmek",
+      "F": "açlıktan ölmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "'açlıktan ölmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "switch",
+      "B": "disprove",
+      "C": "be made up of",
+      "D": "surveillance",
+      "E": "starve",
+      "F": "objectively"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 21,
+    "question": "'yetersiz' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "rely on",
+      "B": "occurrence",
+      "C": "insufficient",
+      "D": "infinitely",
+      "E": "unveil",
+      "F": "be made up of"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "'takip' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "insufficient",
+      "B": "surveillance",
+      "C": "curtail",
+      "D": "residue",
+      "E": "unveil",
+      "F": "objectively"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "question": "'eksik' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "insulation",
+      "B": "insufficient",
+      "C": "starve",
+      "D": "reinforcement",
+      "E": "surveillance",
+      "F": "occurrence"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "'vaka' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "starve",
+      "B": "switch",
+      "C": "disprove",
+      "D": "occurrence",
+      "E": "objectively",
+      "F": "infinitely"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "'meydana gelme' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "occurrence",
+      "B": "propel",
+      "C": "fertile",
+      "D": "curtail",
+      "E": "surveillance",
+      "F": "insufficient"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "'fertile' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "-den oluşmak",
+      "B": "verimli",
+      "C": "değiştirmek",
+      "D": "artık",
+      "E": "eksik",
+      "F": "bereketli"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "'itmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "raise",
+      "B": "propel",
+      "C": "reverberation",
+      "D": "rely on",
+      "E": "recognize",
+      "F": "residue"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "'değiştirmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "disprove",
+      "B": "insufficient",
+      "C": "reinforcement",
+      "D": "raise",
+      "E": "residue",
+      "F": "switch"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 29,
+    "question": "'izolasyon' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "switch",
+      "B": "residue",
+      "C": "insulation",
+      "D": "starve",
+      "E": "unveil",
+      "F": "surveillance"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "'be made up of' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "yankı",
+      "B": "takip",
+      "C": "sonsuz şekilde",
+      "D": "izolasyon",
+      "E": "kaldırmak",
+      "F": "-den oluşmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "'açığa çıkarmak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "propel",
+      "B": "unveil",
+      "C": "occurrence",
+      "D": "rely on",
+      "E": "starve",
+      "F": "raise"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "'recognize' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "bilmek",
+      "B": "pekiştirme",
+      "C": "nesnel olarak",
+      "D": "çürütmek",
+      "E": "güçlendirme",
+      "F": "açlıktan ölmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "'nesnel olarak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "objectively",
+      "B": "switch",
+      "C": "fertile",
+      "D": "residue",
+      "E": "occurrence",
+      "F": "insufficient"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "'switch' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "değiştirmek",
+      "B": "tarafsız biçimde",
+      "C": "kaldırmak",
+      "D": "azaltmak",
+      "E": "açlıktan ölmek",
+      "F": "sonsuz şekilde"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "'değiştirmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "propel",
+      "B": "residue",
+      "C": "raise",
+      "D": "rely on",
+      "E": "occurrence",
+      "F": "switch"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "'çürütmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "rely on",
+      "B": "be made up of",
+      "C": "propel",
+      "D": "disprove",
+      "E": "infinitely",
+      "F": "reverberation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "question": "'starve' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "açlıktan ölmek",
+      "B": "izolasyon",
+      "C": "takip",
+      "D": "eksik",
+      "E": "kalıntı",
+      "F": "gözetim"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "'açığa çıkarmak' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "insufficient",
+      "B": "occurrence",
+      "C": "starve",
+      "D": "be made up of",
+      "E": "curtail",
+      "F": "unveil"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 39,
+    "question": "'disprove' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "tarafsız biçimde",
+      "B": "meydana gelme",
+      "C": "ayırt etmek",
+      "D": "vaka",
+      "E": "itmek",
+      "F": "çürütmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 40,
+    "question": "'insufficient' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "bel bağlamak",
+      "B": "güçlendirme",
+      "C": "değiştirmek",
+      "D": "itmek",
+      "E": "takip",
+      "F": "eksik"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "'olay' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "unveil",
+      "B": "recognize",
+      "C": "objectively",
+      "D": "occurrence",
+      "E": "surveillance",
+      "F": "switch"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "'açlıktan ölmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "starve",
+      "B": "raise",
+      "C": "infinitely",
+      "D": "switch",
+      "E": "objectively",
+      "F": "propel"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "'reverberation' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "vaka",
+      "B": "aç kalmak",
+      "C": "itmek",
+      "D": "ayırt etmek",
+      "E": "etki",
+      "F": "değiştirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 44,
+    "question": "'hareket ettirmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "infinitely",
+      "B": "propel",
+      "C": "recognize",
+      "D": "insufficient",
+      "E": "occurrence",
+      "F": "starve"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "'-den meydana gelmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "disprove",
+      "B": "insufficient",
+      "C": "infinitely",
+      "D": "be made up of",
+      "E": "curtail",
+      "F": "occurrence"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "'yükseltmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "occurrence",
+      "B": "switch",
+      "C": "fertile",
+      "D": "reinforcement",
+      "E": "raise",
+      "F": "rely on"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 47,
+    "question": "'meydana gelme' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "surveillance",
+      "B": "objectively",
+      "C": "insufficient",
+      "D": "reinforcement",
+      "E": "unveil",
+      "F": "occurrence"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "'disprove' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "büyütmek",
+      "B": "aksini kanıtlamak",
+      "C": "-den oluşmak",
+      "D": "açığa çıkarmak",
+      "E": "olay",
+      "F": "yalıtım"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "'recognize' kelimesinin Türkçe karşılığı hangisidir?",
+    "options": {
+      "A": "takviye",
+      "B": "aksini kanıtlamak",
+      "C": "tarafsız biçimde",
+      "D": "bel bağlamak",
+      "E": "değiştirmek",
+      "F": "ayırt etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "'güvenmek' ifadesinin İngilizce karşılığı hangisidir?",
+    "options": {
+      "A": "reinforcement",
+      "B": "occurrence",
+      "C": "rely on",
+      "D": "recognize",
+      "E": "reverberation",
+      "F": "switch"
+    },
+    "correct": "C"
+  }
+]
