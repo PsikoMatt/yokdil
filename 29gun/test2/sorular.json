@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "Sıklık kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "frequency",
+      "B": "oppose",
+      "C": "exterminate",
+      "D": "worldwide",
+      "E": "mine",
+      "F": "involve"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "Farzetmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "weed",
+      "B": "irritate",
+      "C": "presume",
+      "D": "vast",
+      "E": "crust",
+      "F": "oscillation"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "'presume' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "sıklık",
+      "B": "varsaymak",
+      "C": "sinirlendirmek",
+      "D": "muazzam",
+      "E": "itiraz etmek",
+      "F": "karşı çıkmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "question": "Kökünü kazımak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "frequency",
+      "B": "worldwide",
+      "C": "point out",
+      "D": "exterminate",
+      "E": "rarity",
+      "F": "oscillation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 5,
+    "question": "Yayılmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "irritate",
+      "B": "expand",
+      "C": "mine",
+      "D": "oppose",
+      "E": "exterminate",
+      "F": "point out"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "Işaret etmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "point out",
+      "B": "mine",
+      "C": "involve",
+      "D": "rarity",
+      "E": "oppose",
+      "F": "expand"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "Genişlemek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "crust",
+      "B": "tiny",
+      "C": "expand",
+      "D": "exterminate",
+      "E": "point out",
+      "F": "porous"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "'oscillation' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "varsaymak",
+      "B": "küçücük",
+      "C": "tahriş etmek",
+      "D": "salınım",
+      "E": "maden",
+      "F": "karşı çıkmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 9,
+    "question": "Dikkat çekmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "tiny",
+      "B": "point out",
+      "C": "crust",
+      "D": "frequency",
+      "E": "worldwide",
+      "F": "oscillation"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "'presume' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "titreşim",
+      "B": "sıklık",
+      "C": "kapsamak",
+      "D": "yok etmek",
+      "E": "dünya çapında",
+      "F": "farzetmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "Yabani ot kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "frequency",
+      "B": "rarity",
+      "C": "oscillation",
+      "D": "point out",
+      "E": "weed",
+      "F": "exterminate"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "Kabuk kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "proceed",
+      "B": "crust",
+      "C": "prolong",
+      "D": "escalation",
+      "E": "oppose",
+      "F": "expand"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "Itiraz etmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "presume",
+      "B": "oppose",
+      "C": "irritate",
+      "D": "oscillation",
+      "E": "involve",
+      "F": "rarity"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "Kökünü kazımak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "involve",
+      "B": "point out",
+      "C": "escalation",
+      "D": "frequency",
+      "E": "proceed",
+      "F": "exterminate"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 15,
+    "question": "Uzatmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "oppose",
+      "B": "exterminate",
+      "C": "irritate",
+      "D": "prolong",
+      "E": "weed",
+      "F": "worldwide"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "'prolong' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "yayılmak",
+      "B": "dünya çapında",
+      "C": "uzatmak",
+      "D": "kökünü kazımak",
+      "E": "geçirgen",
+      "F": "ender bulunma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "'exterminate' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "varsaymak",
+      "B": "yok etmek",
+      "C": "yabani ot",
+      "D": "uzatmak",
+      "E": "dikkat çekmek",
+      "F": "minik"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "'weed' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "yabani ot",
+      "B": "sinirlendirmek",
+      "C": "içermek",
+      "D": "sıklık",
+      "E": "itiraz etmek",
+      "F": "dış tabaka"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "'irritate' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "içermek",
+      "B": "karşı çıkmak",
+      "C": "dış tabaka",
+      "D": "geçirgen",
+      "E": "kızdırmak",
+      "F": "yükselme"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 20,
+    "question": "'escalation' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "kızdırmak",
+      "B": "tırmanma",
+      "C": "yabani ot",
+      "D": "titreşim",
+      "E": "dış tabaka",
+      "F": "yok etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "'exterminate' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "uzatmak",
+      "B": "yükselme",
+      "C": "tırmanma",
+      "D": "yok etmek",
+      "E": "geçirgen",
+      "F": "engin"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "Yabani ot kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "exterminate",
+      "B": "weed",
+      "C": "irritate",
+      "D": "vast",
+      "E": "proceed",
+      "F": "rarity"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "question": "Ilerlemek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "exterminate",
+      "B": "proceed",
+      "C": "vast",
+      "D": "prolong",
+      "E": "mine",
+      "F": "escalation"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "'escalation' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "ender bulunma",
+      "B": "muazzam",
+      "C": "içermek",
+      "D": "artış",
+      "E": "engin",
+      "F": "yabani ot"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "'oppose' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "kızdırmak",
+      "B": "küçücük",
+      "C": "itiraz etmek",
+      "D": "az rastlanırlık",
+      "E": "titreşim",
+      "F": "dikkat çekmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "Dalgalanma kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "tiny",
+      "B": "point out",
+      "C": "oscillation",
+      "D": "porous",
+      "E": "proceed",
+      "F": "irritate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "Salınım kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "oscillation",
+      "B": "crust",
+      "C": "tiny",
+      "D": "point out",
+      "E": "frequency",
+      "F": "oppose"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "'vast' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "tırmanma",
+      "B": "ilerlemek",
+      "C": "engin",
+      "D": "itiraz etmek",
+      "E": "kökünü kazımak",
+      "F": "uzatmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 29,
+    "question": "'presume' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "yaygın",
+      "B": "varsaymak",
+      "C": "devasa",
+      "D": "ilerlemek",
+      "E": "uzatmak",
+      "F": "sinirlendirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "Yabani ot kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "point out",
+      "B": "crust",
+      "C": "worldwide",
+      "D": "weed",
+      "E": "mine",
+      "F": "porous"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 31,
+    "question": "'vast' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "dikkat çekmek",
+      "B": "muazzam",
+      "C": "titreşim",
+      "D": "farzetmek",
+      "E": "kapsamak",
+      "F": "içermek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "'oppose' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "kökünü kazımak",
+      "B": "gözenekli",
+      "C": "kabuk",
+      "D": "ufacık",
+      "E": "yaygın",
+      "F": "karşı çıkmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 33,
+    "question": "Tırmanma kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "prolong",
+      "B": "escalation",
+      "C": "tiny",
+      "D": "proceed",
+      "E": "involve",
+      "F": "rarity"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "Ufacık kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "exterminate",
+      "B": "tiny",
+      "C": "proceed",
+      "D": "porous",
+      "E": "expand",
+      "F": "involve"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "Kökünü kazımak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "porous",
+      "B": "presume",
+      "C": "rarity",
+      "D": "exterminate",
+      "E": "frequency",
+      "F": "escalation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "'porous' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "nadirlik",
+      "B": "delikli",
+      "C": "sıklık",
+      "D": "yükselme",
+      "E": "ender bulunma",
+      "F": "minik"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "Tahriş etmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "porous",
+      "B": "tiny",
+      "C": "irritate",
+      "D": "prolong",
+      "E": "crust",
+      "F": "weed"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "question": "Uzatmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "prolong",
+      "B": "crust",
+      "C": "frequency",
+      "D": "expand",
+      "E": "worldwide",
+      "F": "oscillation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "'oppose' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "itiraz etmek",
+      "B": "yaygın",
+      "C": "maden",
+      "D": "yayılmak",
+      "E": "kabuk",
+      "F": "engin"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "'weed' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "kökünü kazımak",
+      "B": "yabani ot",
+      "C": "gerektirmek",
+      "D": "kızdırmak",
+      "E": "uzatmak",
+      "F": "kabuk"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "Uzatmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "expand",
+      "B": "escalation",
+      "C": "prolong",
+      "D": "proceed",
+      "E": "mine",
+      "F": "worldwide"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "'crust' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "sıklık",
+      "B": "nadirlik",
+      "C": "küçücük",
+      "D": "dünya çapında",
+      "E": "sinirlendirmek",
+      "F": "dış tabaka"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 43,
+    "question": "Titreşim kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "oppose",
+      "B": "worldwide",
+      "C": "oscillation",
+      "D": "exterminate",
+      "E": "presume",
+      "F": "prolong"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "Yayılmak kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "worldwide",
+      "B": "expand",
+      "C": "weed",
+      "D": "prolong",
+      "E": "irritate",
+      "F": "frequency"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "Ender bulunma kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "mine",
+      "B": "rarity",
+      "C": "weed",
+      "D": "proceed",
+      "E": "expand",
+      "F": "crust"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "Dikkat çekmek kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "proceed",
+      "B": "irritate",
+      "C": "worldwide",
+      "D": "point out",
+      "E": "vast",
+      "F": "rarity"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "'crust' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "tahriş etmek",
+      "B": "gerektirmek",
+      "C": "kabuk",
+      "D": "salınım",
+      "E": "yabani ot",
+      "F": "farzetmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 48,
+    "question": "Artış kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "escalation",
+      "B": "proceed",
+      "C": "point out",
+      "D": "exterminate",
+      "E": "presume",
+      "F": "rarity"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "'oscillation' kelimesinin Türkçe anlamı hangisidir?",
+    "options": {
+      "A": "yükselme",
+      "B": "kabuk",
+      "C": "kökünü kazımak",
+      "D": "artış",
+      "E": "gerektirmek",
+      "F": "titreşim"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "Muazzam kelimesinin İngilizcesi hangisidir?",
+    "options": {
+      "A": "rarity",
+      "B": "crust",
+      "C": "proceed",
+      "D": "vast",
+      "E": "porous",
+      "F": "escalation"
+    },
+    "correct": "D"
+  }
+]

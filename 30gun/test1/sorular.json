@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Foster\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "üstünlük",
+      "B": "bulaştırmak",
+      "C": "-den kaynaklanmak",
+      "D": "teşvik etmek, büyütmek",
+      "E": "belirlemek",
+      "F": "teyit"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "\"Steel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "çelik",
+      "C": "aşındırmak",
+      "D": "yorumlamak",
+      "E": "uygun",
+      "F": "bulaştırmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "\"Result from\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ihmal edilebilir",
+      "B": "bulaştırmak",
+      "C": "aşındırmak",
+      "D": "geniş kapsamlı",
+      "E": "büyütmek",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 4,
+    "question": "\"Predictable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kanıt",
+      "B": "çelik",
+      "C": "tahmin edilebilir",
+      "D": "tanımlamak",
+      "E": "yatkınlık",
+      "F": "teşvik etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "question": "\"Identify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bitki örtüsü",
+      "B": "geniş kapsamlı",
+      "C": "geri çekilmek",
+      "D": "belirlemek, tanımlamak",
+      "E": "teyit",
+      "F": "yatkınlık"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "\"Superiority\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eğilim",
+      "B": "önemsiz",
+      "C": "sonuçları ağır",
+      "D": "üstünlük, üstün olma",
+      "E": "tanımlamak",
+      "F": "teyit"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 7,
+    "question": "\"Vindication\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çelik",
+      "B": "ima",
+      "C": "büyütmek",
+      "D": "doğrulama, teyit, kanıt",
+      "E": "nihayetinde",
+      "F": "olası sonuç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 8,
+    "question": "\"Identify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirlemek, tanımlamak",
+      "B": "kanıt",
+      "C": "sonuçları ağır",
+      "D": "olası sonuç",
+      "E": "daha sonraki",
+      "F": "tahmin edilebilir"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "\"Interpret\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "sonuçları ağır",
+      "C": "yorumlamak, açıklamak",
+      "D": "üstünlük",
+      "E": "bulaştırmak",
+      "F": "büyütmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "\"Erode\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aşındırmak",
+      "B": "açıklamak",
+      "C": "geri çekilmek",
+      "D": "önemsiz",
+      "E": "bitki örtüsü",
+      "F": "ihmal edilebilir"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "\"Implication\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yorumlamak",
+      "B": "çelik",
+      "C": "daha sonraki",
+      "D": "ima, olası sonuç",
+      "E": "münasip",
+      "F": "sonuçları ağır"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "\"Superiority\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eğilim",
+      "B": "olası sonuç",
+      "C": "üstünlük, üstün olma",
+      "D": "yatkınlık",
+      "E": "kanıt",
+      "F": "münasip"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "\"Transmit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bitki örtüsü",
+      "B": "kanıt",
+      "C": "büyütmek",
+      "D": "olası sonuç",
+      "E": "teyit",
+      "F": "iletmek, bulaştırmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 14,
+    "question": "\"Ultimately\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima",
+      "B": "aşındırmak",
+      "C": "sonunda, nihayetinde",
+      "D": "ihmal edilebilir",
+      "E": "açıklamak",
+      "F": "çelik"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "\"Short-term\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tahmin edilebilir",
+      "B": "aşındırmak",
+      "C": "yorumlamak",
+      "D": "tanımlamak",
+      "E": "ihmal edilebilir",
+      "F": "kısa vadeli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 16,
+    "question": "\"Implication\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daha sonraki",
+      "B": "yatkınlık",
+      "C": "geri çekilmek",
+      "D": "münasip",
+      "E": "ima, olası sonuç",
+      "F": "kanıt"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 17,
+    "question": "\"Retreat\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "üstün olma",
+      "B": "nihayetinde",
+      "C": "geri çekilmek",
+      "D": "teşvik etmek",
+      "E": "eğilim",
+      "F": "iletmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"Vegetation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ihmal edilebilir",
+      "B": "açıklamak",
+      "C": "bitki örtüsü",
+      "D": "münasip",
+      "E": "yorumlamak",
+      "F": "ima"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Subsequent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "iletmek",
+      "B": "kısa vadeli",
+      "C": "tanımlamak",
+      "D": "sonunda",
+      "E": "daha sonraki",
+      "F": "aşındırmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 20,
+    "question": "\"Ultimately\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonunda, nihayetinde",
+      "B": "-den kaynaklanmak",
+      "C": "münasip",
+      "D": "üstün olma",
+      "E": "bulaştırmak",
+      "F": "yorumlamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "\"Implication\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tanımlamak",
+      "B": "ima, olası sonuç",
+      "C": "önemsiz",
+      "D": "geniş kapsamlı",
+      "E": "uygun",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 22,
+    "question": "\"Identify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirlemek, tanımlamak",
+      "B": "çelik",
+      "C": "iletmek",
+      "D": "-den kaynaklanmak",
+      "E": "açıklamak",
+      "F": "üstün olma"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "\"Erode\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daha sonraki",
+      "B": "üstünlük",
+      "C": "belirlemek",
+      "D": "iletmek",
+      "E": "aşındırmak",
+      "F": "nihayetinde"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 24,
+    "question": "\"Predisposition\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yatkınlık, eğilim",
+      "B": "sonunda",
+      "C": "doğrulama",
+      "D": "bulaştırmak",
+      "E": "münasip",
+      "F": "geniş kapsamlı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "\"Subsequent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daha sonraki",
+      "B": "nihayetinde",
+      "C": "önemsiz",
+      "D": "ima",
+      "E": "kanıt",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "\"Identify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çelik",
+      "B": "bitki örtüsü",
+      "C": "yatkınlık",
+      "D": "-den kaynaklanmak",
+      "E": "önemsiz",
+      "F": "belirlemek, tanımlamak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 27,
+    "question": "\"Result from\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-den kaynaklanmak",
+      "B": "yatkınlık",
+      "C": "yorumlamak",
+      "D": "ihmal edilebilir",
+      "E": "üstün olma",
+      "F": "kısa vadeli"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "\"Retreat\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuçları ağır",
+      "B": "yorumlamak",
+      "C": "tahmin edilebilir",
+      "D": "üstün olma",
+      "E": "geri çekilmek",
+      "F": "bulaştırmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 29,
+    "question": "\"Implication\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açıklamak",
+      "B": "teyit",
+      "C": "tanımlamak",
+      "D": "ima, olası sonuç",
+      "E": "-den kaynaklanmak",
+      "F": "sonunda"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "\"Vegetation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daha sonraki",
+      "B": "olası sonuç",
+      "C": "ihmal edilebilir",
+      "D": "bulaştırmak",
+      "E": "iletmek",
+      "F": "bitki örtüsü"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "\"Interpret\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tahmin edilebilir",
+      "B": "büyütmek",
+      "C": "önemsiz",
+      "D": "yorumlamak, açıklamak",
+      "E": "olası sonuç",
+      "F": "çelik"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "\"Short-term\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-den kaynaklanmak",
+      "B": "ihmal edilebilir",
+      "C": "ima",
+      "D": "belirlemek",
+      "E": "doğrulama",
+      "F": "kısa vadeli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 33,
+    "question": "\"Far-reaching\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "münasip",
+      "B": "aşındırmak",
+      "C": "olası sonuç",
+      "D": "büyütmek",
+      "E": "nihayetinde",
+      "F": "geniş kapsamlı, sonuçları ağır"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Steel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "büyütmek",
+      "B": "tahmin edilebilir",
+      "C": "sonuçları ağır",
+      "D": "ima",
+      "E": "üstünlük",
+      "F": "çelik"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 35,
+    "question": "\"Far-reaching\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş kapsamlı, sonuçları ağır",
+      "B": "teşvik etmek",
+      "C": "olası sonuç",
+      "D": "bitki örtüsü",
+      "E": "tanımlamak",
+      "F": "açıklamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "\"Foster\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "doğrulama",
+      "B": "daha sonraki",
+      "C": "aşındırmak",
+      "D": "geri çekilmek",
+      "E": "-den kaynaklanmak",
+      "F": "teşvik etmek, büyütmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 37,
+    "question": "\"Far-reaching\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "aşındırmak",
+      "C": "nihayetinde",
+      "D": "büyütmek",
+      "E": "geniş kapsamlı, sonuçları ağır",
+      "F": "eğilim"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 38,
+    "question": "\"Identify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirlemek, tanımlamak",
+      "B": "eğilim",
+      "C": "olası sonuç",
+      "D": "kısa vadeli",
+      "E": "üstün olma",
+      "F": "sonunda"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "\"Vindication\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş kapsamlı",
+      "B": "ihmal edilebilir",
+      "C": "doğrulama, teyit, kanıt",
+      "D": "geri çekilmek",
+      "E": "ima",
+      "F": "teşvik etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 40,
+    "question": "\"Result from\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-den kaynaklanmak",
+      "B": "kanıt",
+      "C": "geri çekilmek",
+      "D": "doğrulama",
+      "E": "bitki örtüsü",
+      "F": "uygun"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "\"Erode\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daha sonraki",
+      "B": "sonunda",
+      "C": "aşındırmak",
+      "D": "nihayetinde",
+      "E": "iletmek",
+      "F": "üstün olma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Ultimately\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygun",
+      "B": "sonunda, nihayetinde",
+      "C": "tanımlamak",
+      "D": "teşvik etmek",
+      "E": "büyütmek",
+      "F": "bitki örtüsü"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "question": "\"Superiority\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "kanıt",
+      "C": "büyütmek",
+      "D": "üstünlük, üstün olma",
+      "E": "daha sonraki",
+      "F": "yorumlamak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "\"Predisposition\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "teyit",
+      "B": "yatkınlık, eğilim",
+      "C": "tanımlamak",
+      "D": "bitki örtüsü",
+      "E": "önemsiz",
+      "F": "üstünlük"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "\"Vegetation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima",
+      "B": "geri çekilmek",
+      "C": "bitki örtüsü",
+      "D": "ihmal edilebilir",
+      "E": "eğilim",
+      "F": "nihayetinde"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "\"Suitable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "nihayetinde",
+      "B": "üstünlük",
+      "C": "uygun, münasip",
+      "D": "çelik",
+      "E": "yatkınlık",
+      "F": "ihmal edilebilir"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Identify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tahmin edilebilir",
+      "B": "münasip",
+      "C": "yatkınlık",
+      "D": "belirlemek, tanımlamak",
+      "E": "ima",
+      "F": "kanıt"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 48,
+    "question": "\"Short-term\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "teyit",
+      "B": "teşvik etmek",
+      "C": "kanıt",
+      "D": "kısa vadeli",
+      "E": "nihayetinde",
+      "F": "üstünlük"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "\"Retreat\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açıklamak",
+      "B": "sonunda",
+      "C": "münasip",
+      "D": "uygun",
+      "E": "yorumlamak",
+      "F": "geri çekilmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Interpret\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eğilim",
+      "B": "olası sonuç",
+      "C": "kanıt",
+      "D": "teyit",
+      "E": "üstünlük",
+      "F": "yorumlamak, açıklamak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 51,
+    "question": "\"Result from\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "nihayetinde",
+      "B": "eğilim",
+      "C": "doğrulama",
+      "D": "-den kaynaklanmak",
+      "E": "önemsiz",
+      "F": "geri çekilmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 52,
+    "question": "\"Steel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daha sonraki",
+      "B": "çelik",
+      "C": "önemsiz",
+      "D": "üstünlük",
+      "E": "yorumlamak",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 53,
+    "question": "\"Predictable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daha sonraki",
+      "B": "geniş kapsamlı",
+      "C": "ima",
+      "D": "tahmin edilebilir",
+      "E": "teşvik etmek",
+      "F": "olası sonuç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 54,
+    "question": "\"Erode\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "daha sonraki",
+      "C": "nihayetinde",
+      "D": "aşındırmak",
+      "E": "olası sonuç",
+      "F": "eğilim"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 55,
+    "question": "\"Transmit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aşındırmak",
+      "B": "yorumlamak",
+      "C": "sonunda",
+      "D": "teyit",
+      "E": "nihayetinde",
+      "F": "iletmek, bulaştırmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 56,
+    "question": "\"Identify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olası sonuç",
+      "B": "kanıt",
+      "C": "belirlemek, tanımlamak",
+      "D": "üstünlük",
+      "E": "sonuçları ağır",
+      "F": "eğilim"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 57,
+    "question": "\"Steel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "çelik",
+      "C": "yorumlamak",
+      "D": "iletmek",
+      "E": "açıklamak",
+      "F": "ihmal edilebilir"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 58,
+    "question": "\"Suitable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tanımlamak",
+      "B": "tahmin edilebilir",
+      "C": "yatkınlık",
+      "D": "uygun, münasip",
+      "E": "önemsiz",
+      "F": "doğrulama"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 59,
+    "question": "\"Subsequent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "açıklamak",
+      "C": "büyütmek",
+      "D": "önemsiz",
+      "E": "kısa vadeli",
+      "F": "daha sonraki"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 60,
+    "question": "\"Superiority\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "üstünlük, üstün olma",
+      "B": "büyütmek",
+      "C": "ihmal edilebilir",
+      "D": "teyit",
+      "E": "bitki örtüsü",
+      "F": "tahmin edilebilir"
+    },
+    "correct": "A"
+  }
+]
