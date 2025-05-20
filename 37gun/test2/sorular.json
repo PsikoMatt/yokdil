@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"salınım\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Flora and fauna",
+      "B": "Unfold",
+      "C": "Compensate for",
+      "D": "Emission",
+      "E": "Abandon",
+      "F": "Considerably"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "\"sınır\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Boundary",
+      "B": "Compensate for",
+      "C": "Disruption",
+      "D": "Considerably",
+      "E": "Steer",
+      "F": "Infer"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "\"bir araya getirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Compile",
+      "B": "Conducive",
+      "C": "Distillation",
+      "D": "Disruption",
+      "E": "Be based on",
+      "F": "Consume"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "\"sınır\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Emission",
+      "B": "Compensate for",
+      "C": "Capable of",
+      "D": "Desperate",
+      "E": "Boundary",
+      "F": "Withdraw"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 5,
+    "question": "\"yetenekli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Capable of",
+      "B": "Anticipate",
+      "C": "Emission",
+      "D": "Considerably",
+      "E": "Desperate",
+      "F": "Flora and fauna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 6,
+    "question": "\"Be based on\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "terk etmek",
+      "B": "dayanmak",
+      "C": "salınım",
+      "D": "telafi etmek",
+      "E": "yetenekli",
+      "F": "önemli ölçüde"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "\"yetenekli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Compensate for",
+      "B": "Desperate",
+      "C": "Capable of",
+      "D": "Be based on",
+      "E": "Withdraw",
+      "F": "Anticipate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Infer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç çıkarmak",
+      "B": "terk etmek",
+      "C": "aksama",
+      "D": "dayanmak",
+      "E": "tüketmek",
+      "F": "damıtma"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "\"bir araya getirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Compensate for",
+      "B": "Compile",
+      "C": "Be based on",
+      "D": "Conducive",
+      "E": "Boundary",
+      "F": "Infer"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "\"bitki ve hayvan türü\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Conducive",
+      "B": "Distillation",
+      "C": "Flora and fauna",
+      "D": "Steer",
+      "E": "Emission",
+      "F": "Desperate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "\"yetenekli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Withdraw",
+      "B": "Flora and fauna",
+      "C": "Disruption",
+      "D": "Desperate",
+      "E": "Capable of",
+      "F": "Compile"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "\"geri çekilmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Emission",
+      "B": "Considerably",
+      "C": "Withdraw",
+      "D": "Distillation",
+      "E": "Boundary",
+      "F": "Abandon"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "\"Disruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dayanmak",
+      "B": "önemli ölçüde",
+      "C": "olanak sağlayan",
+      "D": "bitki ve hayvan türü",
+      "E": "umutsuz",
+      "F": "aksama"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 14,
+    "question": "\"ortaya çıkarmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Compile",
+      "B": "Flora and fauna",
+      "C": "Capable of",
+      "D": "Disruption",
+      "E": "Unfold",
+      "F": "Emission"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 15,
+    "question": "\"Anticipate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "salınım",
+      "B": "beklemek",
+      "C": "terk etmek",
+      "D": "aksama",
+      "E": "yetenekli",
+      "F": "umutsuz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "question": "\"Be based on\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tüketmek",
+      "B": "sonuç çıkarmak",
+      "C": "dayanmak",
+      "D": "yetenekli",
+      "E": "terk etmek",
+      "F": "yönlendirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Withdraw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "terk etmek",
+      "B": "yetenekli",
+      "C": "geri çekilmek",
+      "D": "tüketmek",
+      "E": "telafi etmek",
+      "F": "damıtma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"telafi etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Unfold",
+      "B": "Consume",
+      "C": "Compensate for",
+      "D": "Anticipate",
+      "E": "Considerably",
+      "F": "Capable of"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Anticipate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umutsuz",
+      "B": "geri çekilmek",
+      "C": "salınım",
+      "D": "bitki ve hayvan türü",
+      "E": "önemli ölçüde",
+      "F": "beklemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 20,
+    "question": "\"Disruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olanak sağlayan",
+      "B": "yönlendirmek",
+      "C": "bitki ve hayvan türü",
+      "D": "aksama",
+      "E": "terk etmek",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"sınır\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Flora and fauna",
+      "B": "Distillation",
+      "C": "Boundary",
+      "D": "Emission",
+      "E": "Infer",
+      "F": "Considerably"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "\"Compile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bir araya getirmek",
+      "B": "olanak sağlayan",
+      "C": "terk etmek",
+      "D": "aksama",
+      "E": "yönlendirmek",
+      "F": "yetenekli"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "\"Boundary\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "sınır",
+      "C": "önemli ölçüde",
+      "D": "hizalamak",
+      "E": "ortaya çıkarmak",
+      "F": "yönlendirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "\"Conducive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "yetenekli",
+      "C": "yönlendirmek",
+      "D": "olanak sağlayan",
+      "E": "beklemek",
+      "F": "sonuç çıkarmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "\"sonuç çıkarmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Consume",
+      "B": "Infer",
+      "C": "Flora and fauna",
+      "D": "Unfold",
+      "E": "Considerably",
+      "F": "Emission"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "\"Compile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "yönlendirmek",
+      "C": "bir araya getirmek",
+      "D": "hizalamak",
+      "E": "sınır",
+      "F": "olanak sağlayan"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "\"Compensate for\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "salınım",
+      "B": "terk etmek",
+      "C": "yönlendirmek",
+      "D": "damıtma",
+      "E": "telafi etmek",
+      "F": "tüketmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 28,
+    "question": "\"umutsuz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Desperate",
+      "B": "Flora and fauna",
+      "C": "Be based on",
+      "D": "Align",
+      "E": "Anticipate",
+      "F": "Compile"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "\"Flora and fauna\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "damıtma",
+      "B": "dayanmak",
+      "C": "umutsuz",
+      "D": "beklemek",
+      "E": "bitki ve hayvan türü",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 30,
+    "question": "\"Capable of\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yetenekli",
+      "B": "sınır",
+      "C": "yönlendirmek",
+      "D": "bir araya getirmek",
+      "E": "damıtma",
+      "F": "sonuç çıkarmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "\"hizalamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Align",
+      "B": "Emission",
+      "C": "Be based on",
+      "D": "Anticipate",
+      "E": "Considerably",
+      "F": "Abandon"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "\"dayanmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Withdraw",
+      "B": "Anticipate",
+      "C": "Infer",
+      "D": "Compensate for",
+      "E": "Flora and fauna",
+      "F": "Be based on"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 33,
+    "question": "\"Flora and fauna\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bitki ve hayvan türü",
+      "B": "önemli ölçüde",
+      "C": "ortaya çıkarmak",
+      "D": "sonuç çıkarmak",
+      "E": "bir araya getirmek",
+      "F": "aksama"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "\"sınır\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Capable of",
+      "B": "Align",
+      "C": "Withdraw",
+      "D": "Boundary",
+      "E": "Considerably",
+      "F": "Compensate for"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "\"terk etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Consume",
+      "B": "Abandon",
+      "C": "Emission",
+      "D": "Compile",
+      "E": "Infer",
+      "F": "Disruption"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"Align\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ortaya çıkarmak",
+      "B": "aksama",
+      "C": "geri çekilmek",
+      "D": "terk etmek",
+      "E": "olanak sağlayan",
+      "F": "hizalamak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 37,
+    "question": "\"dayanmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Capable of",
+      "B": "Considerably",
+      "C": "Boundary",
+      "D": "Align",
+      "E": "Be based on",
+      "F": "Infer"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 38,
+    "question": "\"terk etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Be based on",
+      "B": "Abandon",
+      "C": "Withdraw",
+      "D": "Consume",
+      "E": "Compensate for",
+      "F": "Emission"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "\"damıtma\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Steer",
+      "B": "Distillation",
+      "C": "Consume",
+      "D": "Abandon",
+      "E": "Conducive",
+      "F": "Infer"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "\"hizalamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Infer",
+      "B": "Withdraw",
+      "C": "Align",
+      "D": "Disruption",
+      "E": "Conducive",
+      "F": "Compile"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "\"Emission\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "beklemek",
+      "B": "geri çekilmek",
+      "C": "hizalamak",
+      "D": "tüketmek",
+      "E": "salınım",
+      "F": "önemli ölçüde"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 42,
+    "question": "\"Align\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dayanmak",
+      "B": "damıtma",
+      "C": "umutsuz",
+      "D": "hizalamak",
+      "E": "olanak sağlayan",
+      "F": "beklemek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "\"dayanmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Disruption",
+      "B": "Anticipate",
+      "C": "Conducive",
+      "D": "Be based on",
+      "E": "Infer",
+      "F": "Capable of"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "\"Compensate for\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "telafi etmek",
+      "B": "bitki ve hayvan türü",
+      "C": "yetenekli",
+      "D": "umutsuz",
+      "E": "önemli ölçüde",
+      "F": "sonuç çıkarmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "\"Steer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tüketmek",
+      "B": "aksama",
+      "C": "salınım",
+      "D": "yönlendirmek",
+      "E": "önemli ölçüde",
+      "F": "sınır"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "\"Compile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sınır",
+      "B": "terk etmek",
+      "C": "yönlendirmek",
+      "D": "geri çekilmek",
+      "E": "bir araya getirmek",
+      "F": "aksama"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 47,
+    "question": "\"tüketmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Steer",
+      "B": "Considerably",
+      "C": "Desperate",
+      "D": "Be based on",
+      "E": "Capable of",
+      "F": "Consume"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "\"Disruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aksama",
+      "B": "terk etmek",
+      "C": "damıtma",
+      "D": "dayanmak",
+      "E": "tüketmek",
+      "F": "hizalamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "\"aksama\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Withdraw",
+      "B": "Flora and fauna",
+      "C": "Disruption",
+      "D": "Considerably",
+      "E": "Conducive",
+      "F": "Anticipate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 50,
+    "question": "\"beklemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Anticipate",
+      "B": "Abandon",
+      "C": "Compile",
+      "D": "Disruption",
+      "E": "Desperate",
+      "F": "Flora and fauna"
+    },
+    "correct": "A"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Bizarre\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kanıt",
+      "B": "somutlaştırmak",
+      "C": "ima etmek",
+      "D": "çöplük",
+      "E": "zirve",
+      "F": "tuhaf"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 2,
+    "question": "\"Resist\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somutlaştırmak",
+      "B": "varlık",
+      "C": "direnmek",
+      "D": "sorumluluk",
+      "E": "çok küçük",
+      "F": "engellemek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"Significant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli",
+      "B": "direnmek",
+      "C": "kabul etmek",
+      "D": "çöplük",
+      "E": "sorumluluk",
+      "F": "yaygın"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "\"Surface\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "varlık",
+      "C": "yüzey",
+      "D": "önemli",
+      "E": "mücadele etmek",
+      "F": "direnmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "question": "\"Indifferent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hassas",
+      "B": "önemli",
+      "C": "mücadele etmek",
+      "D": "umursamaz",
+      "E": "tuhaf",
+      "F": "direnmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "\"Struggle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima etmek",
+      "B": "önemli",
+      "C": "kabul etmek",
+      "D": "mücadele etmek",
+      "E": "umursamaz",
+      "F": "çöplük"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 7,
+    "question": "\"Landfill\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnmek",
+      "B": "kabul etmek",
+      "C": "çöplük",
+      "D": "sorumluluk",
+      "E": "çok küçük",
+      "F": "kanıt"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Obligation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cihaz",
+      "B": "zirve",
+      "C": "sorumluluk",
+      "D": "direnmek",
+      "E": "umursamaz",
+      "F": "çöplük"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "\"Prevalent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kanıt",
+      "B": "yaygın",
+      "C": "mücadele etmek",
+      "D": "somutlaştırmak",
+      "E": "ima etmek",
+      "F": "engellemek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli",
+      "B": "çok küçük",
+      "C": "sorumluluk",
+      "D": "cihaz",
+      "E": "ima etmek",
+      "F": "mücadele etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "\"Summit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mücadele etmek",
+      "B": "sorumluluk",
+      "C": "zirve",
+      "D": "önemli",
+      "E": "varlık",
+      "F": "direnmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "\"Shift\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değiştirmek",
+      "B": "önemli",
+      "C": "yüzey",
+      "D": "kanıt",
+      "E": "kabul etmek",
+      "F": "hassas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"Hint\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tuhaf",
+      "B": "ima etmek",
+      "C": "engellemek",
+      "D": "hassas",
+      "E": "çok küçük",
+      "F": "umursamaz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "\"Shift\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli",
+      "B": "tuhaf",
+      "C": "değiştirmek",
+      "D": "hassas",
+      "E": "mücadele etmek",
+      "F": "ima etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "\"Obligation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "değiştirmek",
+      "C": "çok küçük",
+      "D": "çöplük",
+      "E": "somutlaştırmak",
+      "F": "mücadele etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "\"Resist\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "somutlaştırmak",
+      "C": "çöplük",
+      "D": "direnmek",
+      "E": "yaygın",
+      "F": "umursamaz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "\"Embody\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yaygın",
+      "B": "ima etmek",
+      "C": "değiştirmek",
+      "D": "çöplük",
+      "E": "somutlaştırmak",
+      "F": "kabul etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 18,
+    "question": "\"Gadget\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somutlaştırmak",
+      "B": "direnmek",
+      "C": "cihaz",
+      "D": "tuhaf",
+      "E": "engellemek",
+      "F": "yüzey"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Landfill\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "çöplük",
+      "C": "hassas",
+      "D": "tuhaf",
+      "E": "kanıt",
+      "F": "değiştirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "\"Existence\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yüzey",
+      "B": "cihaz",
+      "C": "mücadele etmek",
+      "D": "varlık",
+      "E": "umursamaz",
+      "F": "sorumluluk"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"Bizarre\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima etmek",
+      "B": "direnmek",
+      "C": "zirve",
+      "D": "somutlaştırmak",
+      "E": "tuhaf",
+      "F": "mücadele etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 22,
+    "question": "\"Prevalent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çok küçük",
+      "B": "yaygın",
+      "C": "mücadele etmek",
+      "D": "kabul etmek",
+      "E": "çöplük",
+      "F": "direnmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "çöplük",
+      "C": "çok küçük",
+      "D": "somutlaştırmak",
+      "E": "umursamaz",
+      "F": "varlık"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "question": "\"Admit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kabul etmek",
+      "B": "cihaz",
+      "C": "varlık",
+      "D": "ima etmek",
+      "E": "direnmek",
+      "F": "zirve"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli",
+      "B": "çöplük",
+      "C": "somutlaştırmak",
+      "D": "çok küçük",
+      "E": "yaygın",
+      "F": "engellemek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "\"Sensitive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çöplük",
+      "B": "direnmek",
+      "C": "yaygın",
+      "D": "hassas",
+      "E": "kabul etmek",
+      "F": "umursamaz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "\"Struggle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umursamaz",
+      "B": "engellemek",
+      "C": "mücadele etmek",
+      "D": "sorumluluk",
+      "E": "kabul etmek",
+      "F": "ima etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"Indifferent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnmek",
+      "B": "kabul etmek",
+      "C": "cihaz",
+      "D": "hassas",
+      "E": "umursamaz",
+      "F": "engellemek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 29,
+    "question": "\"Bizarre\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnmek",
+      "B": "umursamaz",
+      "C": "mücadele etmek",
+      "D": "hassas",
+      "E": "kabul etmek",
+      "F": "tuhaf"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 30,
+    "question": "\"Prevalent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima etmek",
+      "B": "yaygın",
+      "C": "kanıt",
+      "D": "somutlaştırmak",
+      "E": "önemli",
+      "F": "cihaz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "question": "\"Existence\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değiştirmek",
+      "B": "varlık",
+      "C": "somutlaştırmak",
+      "D": "tuhaf",
+      "E": "yaygın",
+      "F": "yüzey"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "\"Gadget\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cihaz",
+      "B": "kabul etmek",
+      "C": "mücadele etmek",
+      "D": "çöplük",
+      "E": "çok küçük",
+      "F": "engellemek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "\"Surface\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çöplük",
+      "B": "tuhaf",
+      "C": "yüzey",
+      "D": "cihaz",
+      "E": "çok küçük",
+      "F": "varlık"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "\"Landfill\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somutlaştırmak",
+      "B": "cihaz",
+      "C": "engellemek",
+      "D": "çok küçük",
+      "E": "mücadele etmek",
+      "F": "çöplük"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 35,
+    "question": "\"Obligation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mücadele etmek",
+      "B": "yüzey",
+      "C": "sorumluluk",
+      "D": "çok küçük",
+      "E": "önemli",
+      "F": "umursamaz"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "\"Summit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "zirve",
+      "C": "ima etmek",
+      "D": "varlık",
+      "E": "çok küçük",
+      "F": "umursamaz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kanıt",
+      "B": "zirve",
+      "C": "cihaz",
+      "D": "ima etmek",
+      "E": "tuhaf",
+      "F": "çok küçük"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 38,
+    "question": "\"Interfere\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kanıt",
+      "B": "ima etmek",
+      "C": "direnmek",
+      "D": "çok küçük",
+      "E": "zirve",
+      "F": "engellemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 39,
+    "question": "\"Prevalent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yaygın",
+      "B": "çok küçük",
+      "C": "mücadele etmek",
+      "D": "umursamaz",
+      "E": "cihaz",
+      "F": "kabul etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Bizarre\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hassas",
+      "B": "cihaz",
+      "C": "somutlaştırmak",
+      "D": "tuhaf",
+      "E": "mücadele etmek",
+      "F": "önemli"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "\"Prevalent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mücadele etmek",
+      "B": "değiştirmek",
+      "C": "kabul etmek",
+      "D": "yaygın",
+      "E": "varlık",
+      "F": "hassas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "\"Interfere\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umursamaz",
+      "B": "engellemek",
+      "C": "kabul etmek",
+      "D": "cihaz",
+      "E": "yüzey",
+      "F": "ima etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "question": "\"Landfill\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "engellemek",
+      "C": "mücadele etmek",
+      "D": "çöplük",
+      "E": "tuhaf",
+      "F": "değiştirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "\"Struggle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çöplük",
+      "B": "yüzey",
+      "C": "mücadele etmek",
+      "D": "varlık",
+      "E": "ima etmek",
+      "F": "tuhaf"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 45,
+    "question": "\"Indifferent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kanıt",
+      "B": "umursamaz",
+      "C": "varlık",
+      "D": "ima etmek",
+      "E": "çok küçük",
+      "F": "cihaz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "\"Resist\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çok küçük",
+      "B": "yüzey",
+      "C": "ima etmek",
+      "D": "kabul etmek",
+      "E": "yaygın",
+      "F": "direnmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 47,
+    "question": "\"Gadget\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somutlaştırmak",
+      "B": "çöplük",
+      "C": "çok küçük",
+      "D": "ima etmek",
+      "E": "yüzey",
+      "F": "cihaz"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "\"Embody\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnmek",
+      "B": "çok küçük",
+      "C": "değiştirmek",
+      "D": "cihaz",
+      "E": "yüzey",
+      "F": "somutlaştırmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "\"Interfere\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kabul etmek",
+      "B": "varlık",
+      "C": "zirve",
+      "D": "önemli",
+      "E": "engellemek",
+      "F": "ima etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "\"Obligation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kabul etmek",
+      "B": "tuhaf",
+      "C": "yaygın",
+      "D": "sorumluluk",
+      "E": "varlık",
+      "F": "önemli"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "question": "\"Surface\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli",
+      "B": "umursamaz",
+      "C": "yaygın",
+      "D": "cihaz",
+      "E": "yüzey",
+      "F": "çok küçük"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 52,
+    "question": "\"Significant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kanıt",
+      "B": "hassas",
+      "C": "direnmek",
+      "D": "mücadele etmek",
+      "E": "umursamaz",
+      "F": "önemli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 53,
+    "question": "\"Resist\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "zirve",
+      "C": "önemli",
+      "D": "varlık",
+      "E": "mücadele etmek",
+      "F": "direnmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somutlaştırmak",
+      "B": "cihaz",
+      "C": "sorumluluk",
+      "D": "kanıt",
+      "E": "çok küçük",
+      "F": "çöplük"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 55,
+    "question": "\"Landfill\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somutlaştırmak",
+      "B": "mücadele etmek",
+      "C": "yüzey",
+      "D": "varlık",
+      "E": "çöplük",
+      "F": "direnmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 56,
+    "question": "\"Sensitive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "hassas",
+      "C": "yüzey",
+      "D": "kanıt",
+      "E": "varlık",
+      "F": "engellemek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 57,
+    "question": "\"Indifferent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mücadele etmek",
+      "B": "varlık",
+      "C": "umursamaz",
+      "D": "tuhaf",
+      "E": "kabul etmek",
+      "F": "değiştirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 58,
+    "question": "\"Gadget\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "yaygın",
+      "C": "cihaz",
+      "D": "ima etmek",
+      "E": "önemli",
+      "F": "yüzey"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "\"Interfere\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tuhaf",
+      "B": "ima etmek",
+      "C": "kabul etmek",
+      "D": "engellemek",
+      "E": "umursamaz",
+      "F": "varlık"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "question": "\"Surface\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima etmek",
+      "B": "yüzey",
+      "C": "cihaz",
+      "D": "çok küçük",
+      "E": "tuhaf",
+      "F": "mücadele etmek"
+    },
+    "correct": "B"
+  }
+]

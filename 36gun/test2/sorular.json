@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Volatility\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dağılmak",
+      "B": "huzursuzluk",
+      "C": "tam olarak belirlemek",
+      "D": "oynaklık",
+      "E": "boylam",
+      "F": "asıl nedeni olmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "\"Development\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boşaltmak",
+      "B": "ılıman",
+      "C": "değerlendirmek",
+      "D": "akarsu",
+      "E": "fazlalık",
+      "F": "gelişim"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 3,
+    "question": "\"Intensive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tam olarak belirlemek",
+      "B": "boylam",
+      "C": "değerlendirmek",
+      "D": "yoğun",
+      "E": "dağılmak",
+      "F": "fazlalık"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "\"boylam\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Intensive",
+      "B": "Conclusion",
+      "C": "Temperate",
+      "D": "Volatility",
+      "E": "Sink",
+      "F": "Longitude"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"asıl nedeni olmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Longitude",
+      "B": "Surplus",
+      "C": "Potency",
+      "D": "Collapse",
+      "E": "Development",
+      "F": "Underlie"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"fazlalık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Conclusion",
+      "B": "Intensive",
+      "C": "Surplus",
+      "D": "Stream",
+      "E": "Hamper",
+      "F": "Development"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "\"sonuç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Pinpoint",
+      "B": "Temperate",
+      "C": "Disperse",
+      "D": "Underlie",
+      "E": "Volatility",
+      "F": "Conclusion"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "huzursuzluk",
+      "B": "asıl nedeni olmak",
+      "C": "fazlalık",
+      "D": "somut",
+      "E": "akarsu",
+      "F": "boşaltmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "\"tam olarak belirlemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Longitude",
+      "B": "Sink",
+      "C": "Tangible",
+      "D": "Hamper",
+      "E": "Pinpoint",
+      "F": "Underlie"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "\"Underlie\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddet",
+      "B": "asıl nedeni olmak",
+      "C": "ılıman",
+      "D": "somut",
+      "E": "değerlendirmek",
+      "F": "dağılmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "\"yoğun\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Discharge",
+      "B": "Assess",
+      "C": "Surplus",
+      "D": "Intensive",
+      "E": "Tangible",
+      "F": "Severity"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "\"Severity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğun",
+      "B": "akarsu",
+      "C": "sonuç",
+      "D": "somut",
+      "E": "şiddet",
+      "F": "batmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 13,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç",
+      "B": "değerlendirmek",
+      "C": "boylam",
+      "D": "boşaltmak",
+      "E": "şiddet",
+      "F": "güç"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"güç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Surplus",
+      "B": "Potency",
+      "C": "Development",
+      "D": "Hamper",
+      "E": "Longitude",
+      "F": "Temperate"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "\"dağılmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Intensive",
+      "B": "Pinpoint",
+      "C": "Longitude",
+      "D": "Collapse",
+      "E": "Disperse",
+      "F": "Unrest"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 16,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "sonuç",
+      "C": "boylam",
+      "D": "fazlalık",
+      "E": "akarsu",
+      "F": "gelişim"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Assess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "batmak",
+      "B": "oynaklık",
+      "C": "güç",
+      "D": "değerlendirmek",
+      "E": "akarsu",
+      "F": "ılıman"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "\"çökmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Volatility",
+      "B": "Surplus",
+      "C": "Stream",
+      "D": "Collapse",
+      "E": "Development",
+      "F": "Hamper"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 19,
+    "question": "\"somut\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Tangible",
+      "B": "Sink",
+      "C": "Surplus",
+      "D": "Collapse",
+      "E": "Disperse",
+      "F": "Stream"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gelişim",
+      "B": "engellemek",
+      "C": "oynaklık",
+      "D": "boşaltmak",
+      "E": "asıl nedeni olmak",
+      "F": "boylam"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"boylam\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Volatility",
+      "B": "Potency",
+      "C": "Pinpoint",
+      "D": "Severity",
+      "E": "Longitude",
+      "F": "Unrest"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 22,
+    "question": "\"Development\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "ılıman",
+      "C": "fazlalık",
+      "D": "şiddet",
+      "E": "akarsu",
+      "F": "gelişim"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 23,
+    "question": "\"Surplus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boşaltmak",
+      "B": "ılıman",
+      "C": "somut",
+      "D": "fazlalık",
+      "E": "oynaklık",
+      "F": "akarsu"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tam olarak belirlemek",
+      "B": "boşaltmak",
+      "C": "akarsu",
+      "D": "asıl nedeni olmak",
+      "E": "yoğun",
+      "F": "şiddet"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 25,
+    "question": "\"Temperate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddet",
+      "B": "yoğun",
+      "C": "ılıman",
+      "D": "fazlalık",
+      "E": "boylam",
+      "F": "batmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "\"Disperse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "fazlalık",
+      "B": "dağılmak",
+      "C": "huzursuzluk",
+      "D": "sonuç",
+      "E": "boylam",
+      "F": "batmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "oynaklık",
+      "B": "somut",
+      "C": "sonuç",
+      "D": "engellemek",
+      "E": "ılıman",
+      "F": "yoğun"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "\"huzursuzluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Unrest",
+      "B": "Stream",
+      "C": "Collapse",
+      "D": "Sink",
+      "E": "Severity",
+      "F": "Pinpoint"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğun",
+      "B": "fazlalık",
+      "C": "şiddet",
+      "D": "akarsu",
+      "E": "oynaklık",
+      "F": "huzursuzluk"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "\"Potency\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güç",
+      "B": "huzursuzluk",
+      "C": "ılıman",
+      "D": "oynaklık",
+      "E": "boşaltmak",
+      "F": "somut"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "\"Intensive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güç",
+      "B": "gelişim",
+      "C": "dağılmak",
+      "D": "yoğun",
+      "E": "engellemek",
+      "F": "çökmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "\"sonuç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Development",
+      "B": "Disperse",
+      "C": "Potency",
+      "D": "Tangible",
+      "E": "Unrest",
+      "F": "Conclusion"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 33,
+    "question": "\"Sink\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "akarsu",
+      "B": "şiddet",
+      "C": "sonuç",
+      "D": "somut",
+      "E": "boşaltmak",
+      "F": "batmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "huzursuzluk",
+      "B": "batmak",
+      "C": "güç",
+      "D": "somut",
+      "E": "boylam",
+      "F": "asıl nedeni olmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "\"boylam\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Underlie",
+      "B": "Pinpoint",
+      "C": "Discharge",
+      "D": "Longitude",
+      "E": "Intensive",
+      "F": "Temperate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "fazlalık",
+      "B": "gelişim",
+      "C": "somut",
+      "D": "yoğun",
+      "E": "sonuç",
+      "F": "engellemek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "oynaklık",
+      "B": "boylam",
+      "C": "akarsu",
+      "D": "tam olarak belirlemek",
+      "E": "güç",
+      "F": "değerlendirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 38,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boylam",
+      "B": "fazlalık",
+      "C": "ılıman",
+      "D": "boşaltmak",
+      "E": "tam olarak belirlemek",
+      "F": "akarsu"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "\"huzursuzluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Unrest",
+      "B": "Discharge",
+      "C": "Stream",
+      "D": "Collapse",
+      "E": "Volatility",
+      "F": "Severity"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Intensive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değerlendirmek",
+      "B": "yoğun",
+      "C": "fazlalık",
+      "D": "boşaltmak",
+      "E": "gelişim",
+      "F": "boylam"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Sink",
+      "B": "Development",
+      "C": "Temperate",
+      "D": "Surplus",
+      "E": "Hamper",
+      "F": "Tangible"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 42,
+    "question": "\"çökmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Hamper",
+      "B": "Volatility",
+      "C": "Conclusion",
+      "D": "Collapse",
+      "E": "Pinpoint",
+      "F": "Temperate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "\"tam olarak belirlemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Stream",
+      "B": "Pinpoint",
+      "C": "Intensive",
+      "D": "Severity",
+      "E": "Underlie",
+      "F": "Tangible"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çökmek",
+      "B": "gelişim",
+      "C": "boylam",
+      "D": "değerlendirmek",
+      "E": "tam olarak belirlemek",
+      "F": "batmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 45,
+    "question": "\"boşaltmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Discharge",
+      "B": "Development",
+      "C": "Underlie",
+      "D": "Unrest",
+      "E": "Surplus",
+      "F": "Temperate"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "\"ılıman\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Collapse",
+      "B": "Intensive",
+      "C": "Potency",
+      "D": "Temperate",
+      "E": "Sink",
+      "F": "Conclusion"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "\"Unrest\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dağılmak",
+      "B": "fazlalık",
+      "C": "asıl nedeni olmak",
+      "D": "tam olarak belirlemek",
+      "E": "boşaltmak",
+      "F": "huzursuzluk"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "\"boylam\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Disperse",
+      "B": "Longitude",
+      "C": "Underlie",
+      "D": "Hamper",
+      "E": "Pinpoint",
+      "F": "Volatility"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Hamper",
+      "B": "Conclusion",
+      "C": "Development",
+      "D": "Severity",
+      "E": "Surplus",
+      "F": "Underlie"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 50,
+    "question": "\"sonuç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Tangible",
+      "B": "Assess",
+      "C": "Unrest",
+      "D": "Conclusion",
+      "E": "Longitude",
+      "F": "Temperate"
+    },
+    "correct": "D"
+  }
+]

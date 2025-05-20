@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Eruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çözmek",
+      "B": "ikna edici",
+      "C": "gizemli",
+      "D": "işbirlikçi",
+      "E": "anlaşılır",
+      "F": "patlama, püskürme"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 2,
+    "question": "\"Surpass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşılır",
+      "B": "aşmak, ötesine geçmek",
+      "C": "göktaşı",
+      "D": "ortak çalışmaya dayanan",
+      "E": "esrarengiz",
+      "F": "uyandırmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlü",
+      "B": "basit",
+      "C": "alan",
+      "D": "tutarsızlık",
+      "E": "soyu tükenmiş",
+      "F": "uymak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 4,
+    "question": "\"Annihilate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç",
+      "B": "uymak",
+      "C": "yok etmek, ortadan kaldırmak",
+      "D": "anlaşılır",
+      "E": "işbirlikçi",
+      "F": "alan"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "question": "\"Attain\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşılır",
+      "B": "sığ",
+      "C": "ferahlama",
+      "D": "uyuşmazlık",
+      "E": "ulaşmak, elde etmek",
+      "F": "basit"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 6,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bölge",
+      "B": "ulaşmak",
+      "C": "çare aramak",
+      "D": "güçlü",
+      "E": "soyu tükenmiş",
+      "F": "patlama"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 7,
+    "question": "\"Relief\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rahatlama, ferahlama",
+      "B": "soyu tükenmiş",
+      "C": "uymak",
+      "D": "çalışmak",
+      "E": "aşmak",
+      "F": "güçlü"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "\"Eruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşılır",
+      "B": "ortadan kaldırmak",
+      "C": "ikna edici",
+      "D": "çalışmak",
+      "E": "kırsal",
+      "F": "patlama, püskürme"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "\"Rural\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ortadan kaldırmak",
+      "B": "çalışmak",
+      "C": "kırsal",
+      "D": "patlama",
+      "E": "elde etmek",
+      "F": "ulaşmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "\"Compelling\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tutarsızlık",
+      "B": "zirve",
+      "C": "yok etmek",
+      "D": "anlaşılır",
+      "E": "ulaşmak",
+      "F": "ikna edici, etkileyici, güçlü"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"Surpass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uymak",
+      "B": "aşmak, ötesine geçmek",
+      "C": "esrarengiz",
+      "D": "çabalamak",
+      "E": "sonuç",
+      "F": "ferahlama"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "\"Straightforward\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uyuşmazlık",
+      "B": "açık, anlaşılır, basit",
+      "C": "çare aramak",
+      "D": "saha",
+      "E": "tutarsızlık",
+      "F": "rahatlama"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gizemli",
+      "B": "yok etmek",
+      "C": "soyu tükenmiş",
+      "D": "uyuşmazlık",
+      "E": "anlaşılır",
+      "F": "saha"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"Comply with\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşılır",
+      "B": "ortak çalışmaya dayanan",
+      "C": "çözmek",
+      "D": "kırsal",
+      "E": "uymak",
+      "F": "uyuşmazlık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 15,
+    "question": "\"Mysterious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gizemli, esrarengiz",
+      "B": "ferahlama",
+      "C": "işbirlikçi",
+      "D": "göktaşı",
+      "E": "patlama",
+      "F": "alan"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "\"Attain\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "esrarengiz",
+      "B": "ikna edici",
+      "C": "uymak",
+      "D": "ulaşmak, elde etmek",
+      "E": "açık",
+      "F": "çare aramak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "\"Collaborative\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uyuşmazlık",
+      "B": "elde etmek",
+      "C": "işbirlikçi, ortak çalışmaya dayanan",
+      "D": "rahatlama",
+      "E": "esrarengiz",
+      "F": "ikna edici"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "soyu tükenmiş",
+      "B": "zirve",
+      "C": "elde etmek",
+      "D": "basit",
+      "E": "esrarengiz",
+      "F": "kesin karar vermek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "\"Meteorite\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aşmak",
+      "B": "sonuç",
+      "C": "ortadan kaldırmak",
+      "D": "göktaşı",
+      "E": "çözmek",
+      "F": "rahatlama"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "\"Eruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "canlandırmak",
+      "B": "sığ",
+      "C": "patlama, püskürme",
+      "D": "ortak çalışmaya dayanan",
+      "E": "esrarengiz",
+      "F": "aşmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "\"Attain\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "soyu tükenmiş",
+      "B": "sığ",
+      "C": "ulaşmak, elde etmek",
+      "D": "bölge",
+      "E": "basit",
+      "F": "uymak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "\"Comply with\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uymak",
+      "B": "ortadan kaldırmak",
+      "C": "ötesine geçmek",
+      "D": "elde etmek",
+      "E": "işbirlikçi",
+      "F": "çabalamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "\"Discrepancy\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ortak çalışmaya dayanan",
+      "B": "canlandırmak",
+      "C": "esrarengiz",
+      "D": "uyuşmazlık, tutarsızlık, çelişki",
+      "E": "yok etmek",
+      "F": "alan"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "\"Eruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "canlandırmak",
+      "B": "basit",
+      "C": "anlaşılır",
+      "D": "güçlü",
+      "E": "patlama, püskürme",
+      "F": "esrarengiz"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "\"Surpass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çelişki",
+      "B": "aşmak, ötesine geçmek",
+      "C": "çare aramak",
+      "D": "patlama",
+      "E": "alan",
+      "F": "sonuç"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "\"Compelling\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşılır",
+      "B": "ferahlama",
+      "C": "ikna edici, etkileyici, güçlü",
+      "D": "açık",
+      "E": "ulaşmak",
+      "F": "doruk"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "\"Relief\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "etkileyici",
+      "B": "rahatlama, ferahlama",
+      "C": "patlama",
+      "D": "elde etmek",
+      "E": "ötesine geçmek",
+      "F": "yok etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşılır",
+      "B": "uyandırmak",
+      "C": "elde etmek",
+      "D": "soyu tükenmiş",
+      "E": "uymak",
+      "F": "ulaşmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "\"Realm\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "doruk",
+      "B": "güçlü",
+      "C": "ortadan kaldırmak",
+      "D": "basit",
+      "E": "gizemli",
+      "F": "alan, saha, bölge"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 30,
+    "question": "\"Arouse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ötesine geçmek",
+      "B": "uyandırmak, canlandırmak",
+      "C": "patlama",
+      "D": "çare aramak",
+      "E": "sığ",
+      "F": "tutarsızlık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "question": "\"Relief\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çabalamak",
+      "B": "elde etmek",
+      "C": "yok etmek",
+      "D": "rahatlama, ferahlama",
+      "E": "ortadan kaldırmak",
+      "F": "ikna edici"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "\"Attain\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ulaşmak, elde etmek",
+      "B": "doruk",
+      "C": "çelişki",
+      "D": "kırsal",
+      "E": "basit",
+      "F": "gizemli"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "\"Mysterious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ferahlama",
+      "B": "çabalamak",
+      "C": "püskürme",
+      "D": "uymak",
+      "E": "çare aramak",
+      "F": "gizemli, esrarengiz"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Shallow\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gizemli",
+      "B": "sığ",
+      "C": "aşmak",
+      "D": "ortadan kaldırmak",
+      "E": "çabalamak",
+      "F": "alan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "\"Discrepancy\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "canlandırmak",
+      "B": "sonuç",
+      "C": "ulaşmak",
+      "D": "uyuşmazlık, tutarsızlık, çelişki",
+      "E": "göktaşı",
+      "F": "anlaşılır"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "\"Eruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ikna edici",
+      "B": "çelişki",
+      "C": "patlama, püskürme",
+      "D": "ulaşmak",
+      "E": "basit",
+      "F": "ferahlama"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "\"Realm\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çözmek",
+      "B": "alan, saha, bölge",
+      "C": "sığ",
+      "D": "uymak",
+      "E": "anlaşılır",
+      "F": "güçlü"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 38,
+    "question": "\"Collaborative\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ferahlama",
+      "B": "göktaşı",
+      "C": "basit",
+      "D": "işbirlikçi, ortak çalışmaya dayanan",
+      "E": "ikna edici",
+      "F": "uyuşmazlık"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "\"Seek\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uyuşmazlık",
+      "B": "güçlü",
+      "C": "elde etmek",
+      "D": "çabalamak, çare aramak, çalışmak",
+      "E": "soyu tükenmiş",
+      "F": "patlama"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çelişki",
+      "B": "sonuç",
+      "C": "uymak",
+      "D": "patlama",
+      "E": "göktaşı",
+      "F": "soyu tükenmiş"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "\"Arouse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ötesine geçmek",
+      "B": "uyuşmazlık",
+      "C": "uyandırmak, canlandırmak",
+      "D": "basit",
+      "E": "gizemli",
+      "F": "ortak çalışmaya dayanan"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Rural\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tutarsızlık",
+      "B": "kırsal",
+      "C": "sonuç",
+      "D": "soyu tükenmiş",
+      "E": "zirve",
+      "F": "uyuşmazlık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "question": "\"Arouse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çare aramak",
+      "B": "uyandırmak, canlandırmak",
+      "C": "gizemli",
+      "D": "ortak çalışmaya dayanan",
+      "E": "alan",
+      "F": "uymak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "\"Culmination\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "esrarengiz",
+      "B": "kırsal",
+      "C": "göktaşı",
+      "D": "doruk, zirve, sonuç",
+      "E": "patlama",
+      "F": "çalışmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "\"Rural\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çelişki",
+      "B": "sığ",
+      "C": "gizemli",
+      "D": "kırsal",
+      "E": "elde etmek",
+      "F": "esrarengiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "\"Meteorite\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göktaşı",
+      "B": "esrarengiz",
+      "C": "çalışmak",
+      "D": "işbirlikçi",
+      "E": "zirve",
+      "F": "püskürme"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "\"Seek\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çabalamak, çare aramak, çalışmak",
+      "B": "çelişki",
+      "C": "alan",
+      "D": "ikna edici",
+      "E": "ulaşmak",
+      "F": "bölge"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "\"Straightforward\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uymak",
+      "B": "açık, anlaşılır, basit",
+      "C": "canlandırmak",
+      "D": "uyuşmazlık",
+      "E": "rahatlama",
+      "F": "çare aramak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "\"Resolve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "etkileyici",
+      "B": "güçlü",
+      "C": "sonuç",
+      "D": "çare aramak",
+      "E": "bölge",
+      "F": "çözmek, kesin karar vermek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Rural\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin karar vermek",
+      "B": "uyuşmazlık",
+      "C": "kırsal",
+      "D": "bölge",
+      "E": "etkileyici",
+      "F": "çare aramak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 51,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "soyu tükenmiş",
+      "B": "yok etmek",
+      "C": "ikna edici",
+      "D": "çözmek",
+      "E": "tutarsızlık",
+      "F": "gizemli"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "\"Mysterious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin karar vermek",
+      "B": "uyuşmazlık",
+      "C": "gizemli, esrarengiz",
+      "D": "uyandırmak",
+      "E": "çabalamak",
+      "F": "ötesine geçmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 53,
+    "question": "\"Realm\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ortadan kaldırmak",
+      "B": "çelişki",
+      "C": "kesin karar vermek",
+      "D": "ortak çalışmaya dayanan",
+      "E": "alan, saha, bölge",
+      "F": "patlama"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 54,
+    "question": "\"Rural\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "püskürme",
+      "B": "uyandırmak",
+      "C": "patlama",
+      "D": "gizemli",
+      "E": "kırsal",
+      "F": "uyuşmazlık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 55,
+    "question": "\"Annihilate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çelişki",
+      "B": "göktaşı",
+      "C": "zirve",
+      "D": "yok etmek, ortadan kaldırmak",
+      "E": "kırsal",
+      "F": "sonuç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 56,
+    "question": "\"Shallow\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "püskürme",
+      "B": "kırsal",
+      "C": "yok etmek",
+      "D": "saha",
+      "E": "açık",
+      "F": "sığ"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 57,
+    "question": "\"Realm\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ulaşmak",
+      "B": "sonuç",
+      "C": "alan, saha, bölge",
+      "D": "soyu tükenmiş",
+      "E": "çare aramak",
+      "F": "aşmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 58,
+    "question": "\"Annihilate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "etkileyici",
+      "B": "patlama",
+      "C": "yok etmek, ortadan kaldırmak",
+      "D": "uyuşmazlık",
+      "E": "çalışmak",
+      "F": "sığ"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "\"Compelling\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "esrarengiz",
+      "B": "patlama",
+      "C": "göktaşı",
+      "D": "yok etmek",
+      "E": "ikna edici, etkileyici, güçlü",
+      "F": "açık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 60,
+    "question": "\"Discrepancy\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uyuşmazlık, tutarsızlık, çelişki",
+      "B": "esrarengiz",
+      "C": "kesin karar vermek",
+      "D": "uyandırmak",
+      "E": "çare aramak",
+      "F": "güçlü"
+    },
+    "correct": "A"
+  }
+]

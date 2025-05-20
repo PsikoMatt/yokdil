@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Expend\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygulamak",
+      "B": "zorunlu",
+      "C": "harcamak, tüketmek",
+      "D": "açlık",
+      "E": "enkaz",
+      "F": "önleyici"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "\"Feasible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "harcamak",
+      "B": "artık",
+      "C": "titiz",
+      "D": "koruyucu",
+      "E": "makul, uygulanabilir",
+      "F": "temsil etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 3,
+    "question": "\"Obsolete\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "vazgeçilmez",
+      "B": "koruyucu",
+      "C": "makul",
+      "D": "refah içinde",
+      "E": "kirlilik",
+      "F": "modası geçmiş, demode, eskimiş"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 4,
+    "question": "\"Prosperous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-den kaynaklanmak",
+      "B": "tortusal",
+      "C": "bozukluk",
+      "D": "önleyici",
+      "E": "kirlilik",
+      "F": "zengin, refah içinde"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"Orbit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygulamak",
+      "B": "harcamak",
+      "C": "zengin",
+      "D": "-den kaynaklanmak",
+      "E": "yörünge",
+      "F": "bozukluk"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 6,
+    "question": "\"Irrelevant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kusur",
+      "B": "ilgisiz, alakasız",
+      "C": "eskimiş",
+      "D": "uygulamak",
+      "E": "üstesinden gelmek",
+      "F": "makul"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "\"Debris\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ilgisiz",
+      "B": "kusur",
+      "C": "enkaz, kalıntı, yıkıntı",
+      "D": "temsil etmek",
+      "E": "uygulamak",
+      "F": "örneklemek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Preventive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "modası geçmiş",
+      "B": "önleyici, koruyucu",
+      "C": "makul",
+      "D": "uygulamak",
+      "E": "harcamak",
+      "F": "yörünge"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "\"Irrelevant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kirlilik",
+      "B": "vazgeçilmez",
+      "C": "her zaman",
+      "D": "örneklemek",
+      "E": "ilgisiz, alakasız",
+      "F": "zengin"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "\"Expend\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "harcamak, tüketmek",
+      "B": "artık",
+      "C": "örneklemek",
+      "D": "uygulamak",
+      "E": "açlık",
+      "F": "enkaz"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "\"Obsolete\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daima",
+      "B": "modası geçmiş, demode, eskimiş",
+      "C": "zorunlu",
+      "D": "ilgisiz",
+      "E": "yörünge",
+      "F": "tortusal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "\"Meticulous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önleyici",
+      "B": "titiz, dikkatli",
+      "C": "tortusal",
+      "D": "kalıntı",
+      "E": "uygulamak",
+      "F": "vazgeçilmez"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "\"Indispensable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bozukluk",
+      "B": "vazgeçilmez, zorunlu",
+      "C": "yıkıntı",
+      "D": "zengin",
+      "E": "önleyici",
+      "F": "kalıntı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "\"Exemplify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "örneklemek, temsil etmek",
+      "B": "zorunlu",
+      "C": "kalıntı",
+      "D": "başa çıkmak",
+      "E": "makul",
+      "F": "üstesinden gelmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "\"Impurity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eskimiş",
+      "B": "bozukluk",
+      "C": "vazgeçilmez",
+      "D": "uygulamak",
+      "E": "kirlilik",
+      "F": "demode"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 16,
+    "question": "\"Indispensable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kusur",
+      "B": "-den kaynaklanmak",
+      "C": "vazgeçilmez, zorunlu",
+      "D": "başa çıkmak",
+      "E": "ilgisiz",
+      "F": "yağlamak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Orbit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tortusal",
+      "B": "önleyici",
+      "C": "ilgisiz",
+      "D": "refah içinde",
+      "E": "her zaman",
+      "F": "yörünge"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 18,
+    "question": "\"Impurity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "refah içinde",
+      "B": "-den kaynaklanmak",
+      "C": "alakasız",
+      "D": "kirlilik",
+      "E": "vazgeçilmez",
+      "F": "koruyucu"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 19,
+    "question": "\"Debris\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "enkaz, kalıntı, yıkıntı",
+      "B": "yağlamak",
+      "C": "tortusal",
+      "D": "başa çıkmak",
+      "E": "yörünge",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "\"Invariably\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tortusal",
+      "B": "zorla kabul ettirmek",
+      "C": "uygulamak",
+      "D": "her zaman, daima",
+      "E": "bozukluk",
+      "F": "zorunlu"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"Feasible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "örneklemek",
+      "B": "modası geçmiş",
+      "C": "harcamak",
+      "D": "makul, uygulanabilir",
+      "E": "-den kaynaklanmak",
+      "F": "dikkatli"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Invariably\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zorunlu",
+      "B": "enkaz",
+      "C": "artık",
+      "D": "yağlamak",
+      "E": "her zaman, daima",
+      "F": "yıkıntı"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "\"Defect\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açlık",
+      "B": "kirlilik",
+      "C": "uygulamak",
+      "D": "dikkatli",
+      "E": "kusur, bozukluk",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 24,
+    "question": "\"Obsolete\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ilgisiz",
+      "B": "üstesinden gelmek",
+      "C": "uygulanabilir",
+      "D": "artık",
+      "E": "uygulamak",
+      "F": "modası geçmiş, demode, eskimiş"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 25,
+    "question": "\"Starvation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zengin",
+      "B": "yağlamak",
+      "C": "uygulamak",
+      "D": "açlık",
+      "E": "temsil etmek",
+      "F": "zorla kabul ettirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "\"Impurity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "üstesinden gelmek",
+      "B": "kirlilik",
+      "C": "uygulanabilir",
+      "D": "uygulamak",
+      "E": "makul",
+      "F": "alakasız"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "\"Prosperous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zengin, refah içinde",
+      "B": "koruyucu",
+      "C": "kusur",
+      "D": "vazgeçilmez",
+      "E": "her zaman",
+      "F": "temsil etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "\"Handle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "temsil etmek",
+      "B": "harcamak",
+      "C": "zorunlu",
+      "D": "üstesinden gelmek, başa çıkmak",
+      "E": "dikkatli",
+      "F": "titiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "\"Starvation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açlık",
+      "B": "ilgisiz",
+      "C": "uygulamak",
+      "D": "daima",
+      "E": "tortusal",
+      "F": "kirlilik"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "\"Preventive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yörünge",
+      "B": "harcamak",
+      "C": "her zaman",
+      "D": "eskimiş",
+      "E": "önleyici, koruyucu",
+      "F": "makul"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 31,
+    "question": "\"Orbit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yörünge",
+      "B": "yıkıntı",
+      "C": "önleyici",
+      "D": "kusur",
+      "E": "tortusal",
+      "F": "açlık"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "\"Exemplify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "örneklemek, temsil etmek",
+      "B": "vazgeçilmez",
+      "C": "ilgisiz",
+      "D": "modası geçmiş",
+      "E": "tüketmek",
+      "F": "bozukluk"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "\"Debris\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yağlamak",
+      "B": "uygulamak",
+      "C": "kusur",
+      "D": "artık",
+      "E": "demode",
+      "F": "enkaz, kalıntı, yıkıntı"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Feasible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "örneklemek",
+      "B": "açlık",
+      "C": "makul, uygulanabilir",
+      "D": "harcamak",
+      "E": "kalıntı",
+      "F": "temsil etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "\"Orbit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açlık",
+      "B": "koruyucu",
+      "C": "yörünge",
+      "D": "enkaz",
+      "E": "önleyici",
+      "F": "tortusal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "\"Indispensable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yıkıntı",
+      "B": "vazgeçilmez, zorunlu",
+      "C": "zorla kabul ettirmek",
+      "D": "makul",
+      "E": "uygulamak",
+      "F": "açlık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "\"Exemplify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "modası geçmiş",
+      "B": "refah içinde",
+      "C": "örneklemek, temsil etmek",
+      "D": "kirlilik",
+      "E": "her zaman",
+      "F": "kalıntı"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "question": "\"Expend\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yağlamak",
+      "B": "harcamak, tüketmek",
+      "C": "koruyucu",
+      "D": "ilgisiz",
+      "E": "zengin",
+      "F": "başa çıkmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "\"Residual\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dikkatli",
+      "B": "eskimiş",
+      "C": "modası geçmiş",
+      "D": "ilgisiz",
+      "E": "artık, tortusal",
+      "F": "bozukluk"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 40,
+    "question": "\"Debris\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zengin",
+      "B": "üstesinden gelmek",
+      "C": "enkaz, kalıntı, yıkıntı",
+      "D": "tüketmek",
+      "E": "uygulanabilir",
+      "F": "başa çıkmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "\"Enforce\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygulanabilir",
+      "B": "uygulamak, zorla kabul ettirmek",
+      "C": "kirlilik",
+      "D": "başa çıkmak",
+      "E": "koruyucu",
+      "F": "açlık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 42,
+    "question": "\"Prosperous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "daima",
+      "B": "modası geçmiş",
+      "C": "tortusal",
+      "D": "örneklemek",
+      "E": "kusur",
+      "F": "zengin, refah içinde"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 43,
+    "question": "\"Defect\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "temsil etmek",
+      "B": "refah içinde",
+      "C": "üstesinden gelmek",
+      "D": "başa çıkmak",
+      "E": "örneklemek",
+      "F": "kusur, bozukluk"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 44,
+    "question": "\"Invariably\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kirlilik",
+      "B": "üstesinden gelmek",
+      "C": "tüketmek",
+      "D": "titiz",
+      "E": "her zaman, daima",
+      "F": "uygulamak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 45,
+    "question": "\"Stem from\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-den kaynaklanmak",
+      "B": "önleyici",
+      "C": "vazgeçilmez",
+      "D": "dikkatli",
+      "E": "örneklemek",
+      "F": "modası geçmiş"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "\"Indispensable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "örneklemek",
+      "B": "zengin",
+      "C": "vazgeçilmez, zorunlu",
+      "D": "kalıntı",
+      "E": "alakasız",
+      "F": "uygulanabilir"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Preventive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "harcamak",
+      "B": "modası geçmiş",
+      "C": "makul",
+      "D": "açlık",
+      "E": "alakasız",
+      "F": "önleyici, koruyucu"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "\"Irrelevant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "modası geçmiş",
+      "B": "ilgisiz, alakasız",
+      "C": "refah içinde",
+      "D": "enkaz",
+      "E": "bozukluk",
+      "F": "vazgeçilmez"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "\"Stem from\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kalıntı",
+      "B": "kusur",
+      "C": "her zaman",
+      "D": "yıkıntı",
+      "E": "başa çıkmak",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Defect\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "demode",
+      "B": "titiz",
+      "C": "tortusal",
+      "D": "örneklemek",
+      "E": "kusur, bozukluk",
+      "F": "ilgisiz"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 51,
+    "question": "\"Lubricate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yağlamak",
+      "B": "refah içinde",
+      "C": "zorla kabul ettirmek",
+      "D": "zengin",
+      "E": "artık",
+      "F": "demode"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "\"Residual\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "artık, tortusal",
+      "B": "bozukluk",
+      "C": "uygulamak",
+      "D": "dikkatli",
+      "E": "temsil etmek",
+      "F": "uygulanabilir"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "\"Irrelevant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ilgisiz, alakasız",
+      "B": "-den kaynaklanmak",
+      "C": "temsil etmek",
+      "D": "daima",
+      "E": "harcamak",
+      "F": "örneklemek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "\"Exemplify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zorunlu",
+      "B": "-den kaynaklanmak",
+      "C": "kusur",
+      "D": "harcamak",
+      "E": "örneklemek, temsil etmek",
+      "F": "dikkatli"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 55,
+    "question": "\"Starvation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önleyici",
+      "B": "açlık",
+      "C": "zorunlu",
+      "D": "alakasız",
+      "E": "daima",
+      "F": "dikkatli"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 56,
+    "question": "\"Indispensable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tortusal",
+      "B": "kusur",
+      "C": "başa çıkmak",
+      "D": "zengin",
+      "E": "vazgeçilmez, zorunlu",
+      "F": "uygulamak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 57,
+    "question": "\"Exemplify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "enkaz",
+      "B": "uygulanabilir",
+      "C": "eskimiş",
+      "D": "örneklemek, temsil etmek",
+      "E": "refah içinde",
+      "F": "modası geçmiş"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 58,
+    "question": "\"Expend\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önleyici",
+      "B": "harcamak, tüketmek",
+      "C": "ilgisiz",
+      "D": "bozukluk",
+      "E": "uygulanabilir",
+      "F": "demode"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 59,
+    "question": "\"Stem from\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "başa çıkmak",
+      "B": "harcamak",
+      "C": "tortusal",
+      "D": "-den kaynaklanmak",
+      "E": "yörünge",
+      "F": "titiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "question": "\"Orbit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "üstesinden gelmek",
+      "B": "kusur",
+      "C": "zorla kabul ettirmek",
+      "D": "yörünge",
+      "E": "koruyucu",
+      "F": "uygulanabilir"
+    },
+    "correct": "D"
+  }
+]

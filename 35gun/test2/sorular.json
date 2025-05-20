@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Sensitive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yüzey",
+      "B": "kanıt",
+      "C": "hassas",
+      "D": "tuhaf",
+      "E": "cihaz",
+      "F": "önemli"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "\"Bizarre\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kabul etmek",
+      "B": "değiştirmek",
+      "C": "tuhaf",
+      "D": "zirve",
+      "E": "sorumluluk",
+      "F": "yaygın"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"Interfere\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yüzey",
+      "B": "umursamaz",
+      "C": "tuhaf",
+      "D": "engellemek",
+      "E": "sorumluluk",
+      "F": "önemli"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "\"Embody\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yüzey",
+      "B": "değiştirmek",
+      "C": "direnmek",
+      "D": "önemli",
+      "E": "kanıt",
+      "F": "somutlaştırmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"direnmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Sensitive",
+      "B": "Resist",
+      "C": "Shift",
+      "D": "Indifferent",
+      "E": "Summit",
+      "F": "Minute"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "\"somutlaştırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Interfere",
+      "B": "Indifferent",
+      "C": "Existence",
+      "D": "Resist",
+      "E": "Gadget",
+      "F": "Embody"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 7,
+    "question": "\"Proof\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somutlaştırmak",
+      "B": "ima etmek",
+      "C": "değiştirmek",
+      "D": "önemli",
+      "E": "engellemek",
+      "F": "kanıt"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "\"Gadget\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çöplük",
+      "B": "engellemek",
+      "C": "değiştirmek",
+      "D": "yüzey",
+      "E": "cihaz",
+      "F": "çok küçük"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 9,
+    "question": "\"Struggle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cihaz",
+      "B": "mücadele etmek",
+      "C": "engellemek",
+      "D": "direnmek",
+      "E": "kanıt",
+      "F": "değiştirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "\"mücadele etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Obligation",
+      "B": "Struggle",
+      "C": "Summit",
+      "D": "Resist",
+      "E": "Admit",
+      "F": "Proof"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "\"değiştirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Minute",
+      "B": "Shift",
+      "C": "Bizarre",
+      "D": "Proof",
+      "E": "Summit",
+      "F": "Significant"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "\"Surface\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yüzey",
+      "B": "ima etmek",
+      "C": "engellemek",
+      "D": "direnmek",
+      "E": "tuhaf",
+      "F": "somutlaştırmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"Resist\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değiştirmek",
+      "B": "direnmek",
+      "C": "varlık",
+      "D": "mücadele etmek",
+      "E": "çok küçük",
+      "F": "kabul etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "\"Interfere\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "somutlaştırmak",
+      "C": "engellemek",
+      "D": "mücadele etmek",
+      "E": "çöplük",
+      "F": "tuhaf"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "\"önemli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Interfere",
+      "B": "Indifferent",
+      "C": "Hint",
+      "D": "Surface",
+      "E": "Sensitive",
+      "F": "Significant"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 16,
+    "question": "\"varlık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Obligation",
+      "B": "Existence",
+      "C": "Shift",
+      "D": "Landfill",
+      "E": "Prevalent",
+      "F": "Sensitive"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 17,
+    "question": "\"Resist\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yaygın",
+      "B": "zirve",
+      "C": "engellemek",
+      "D": "umursamaz",
+      "E": "direnmek",
+      "F": "çöplük"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 18,
+    "question": "\"Surface\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "varlık",
+      "B": "değiştirmek",
+      "C": "kabul etmek",
+      "D": "yüzey",
+      "E": "önemli",
+      "F": "mücadele etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 19,
+    "question": "\"Landfill\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli",
+      "B": "varlık",
+      "C": "çöplük",
+      "D": "zirve",
+      "E": "umursamaz",
+      "F": "kanıt"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çok küçük",
+      "B": "sorumluluk",
+      "C": "tuhaf",
+      "D": "umursamaz",
+      "E": "yaygın",
+      "F": "cihaz"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "\"Obligation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima etmek",
+      "B": "hassas",
+      "C": "sorumluluk",
+      "D": "kabul etmek",
+      "E": "tuhaf",
+      "F": "değiştirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "\"Landfill\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yüzey",
+      "B": "önemli",
+      "C": "değiştirmek",
+      "D": "somutlaştırmak",
+      "E": "çöplük",
+      "F": "sorumluluk"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "\"umursamaz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Surface",
+      "B": "Gadget",
+      "C": "Admit",
+      "D": "Indifferent",
+      "E": "Interfere",
+      "F": "Embody"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mücadele etmek",
+      "B": "çok küçük",
+      "C": "hassas",
+      "D": "kabul etmek",
+      "E": "somutlaştırmak",
+      "F": "engellemek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"somutlaştırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Significant",
+      "B": "Minute",
+      "C": "Resist",
+      "D": "Admit",
+      "E": "Embody",
+      "F": "Existence"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 26,
+    "question": "\"tuhaf\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Minute",
+      "B": "Landfill",
+      "C": "Admit",
+      "D": "Bizarre",
+      "E": "Shift",
+      "F": "Proof"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "\"zirve\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Embody",
+      "B": "Interfere",
+      "C": "Hint",
+      "D": "Resist",
+      "E": "Proof",
+      "F": "Summit"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 28,
+    "question": "\"Proof\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli",
+      "B": "varlık",
+      "C": "yaygın",
+      "D": "değiştirmek",
+      "E": "tuhaf",
+      "F": "kanıt"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 29,
+    "question": "\"Surface\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değiştirmek",
+      "B": "somutlaştırmak",
+      "C": "engellemek",
+      "D": "yüzey",
+      "E": "hassas",
+      "F": "mücadele etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "\"ima etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Hint",
+      "B": "Landfill",
+      "C": "Prevalent",
+      "D": "Admit",
+      "E": "Proof",
+      "F": "Bizarre"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "\"sorumluluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Existence",
+      "B": "Obligation",
+      "C": "Prevalent",
+      "D": "Sensitive",
+      "E": "Minute",
+      "F": "Interfere"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "\"mücadele etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Struggle",
+      "B": "Bizarre",
+      "C": "Existence",
+      "D": "Admit",
+      "E": "Summit",
+      "F": "Minute"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "\"Prevalent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima etmek",
+      "B": "yaygın",
+      "C": "zirve",
+      "D": "hassas",
+      "E": "değiştirmek",
+      "F": "kanıt"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "\"Existence\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umursamaz",
+      "B": "cihaz",
+      "C": "kanıt",
+      "D": "engellemek",
+      "E": "varlık",
+      "F": "direnmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"Minute\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "varlık",
+      "B": "çöplük",
+      "C": "mücadele etmek",
+      "D": "direnmek",
+      "E": "kanıt",
+      "F": "çok küçük"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "\"Resist\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çok küçük",
+      "B": "zirve",
+      "C": "umursamaz",
+      "D": "kanıt",
+      "E": "varlık",
+      "F": "direnmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 37,
+    "question": "\"sorumluluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Proof",
+      "B": "Embody",
+      "C": "Obligation",
+      "D": "Admit",
+      "E": "Resist",
+      "F": "Significant"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "question": "\"Bizarre\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değiştirmek",
+      "B": "çok küçük",
+      "C": "direnmek",
+      "D": "cihaz",
+      "E": "tuhaf",
+      "F": "sorumluluk"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "\"Sensitive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ima etmek",
+      "B": "varlık",
+      "C": "kanıt",
+      "D": "hassas",
+      "E": "mücadele etmek",
+      "F": "önemli"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "\"Shift\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çok küçük",
+      "B": "ima etmek",
+      "C": "somutlaştırmak",
+      "D": "değiştirmek",
+      "E": "yaygın",
+      "F": "zirve"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "\"Significant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hassas",
+      "B": "yaygın",
+      "C": "engellemek",
+      "D": "yüzey",
+      "E": "önemli",
+      "F": "değiştirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 42,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Sensitive",
+      "B": "Embody",
+      "C": "Significant",
+      "D": "Interfere",
+      "E": "Prevalent",
+      "F": "Shift"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "\"mücadele etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Interfere",
+      "B": "Summit",
+      "C": "Struggle",
+      "D": "Indifferent",
+      "E": "Sensitive",
+      "F": "Gadget"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "\"cihaz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Prevalent",
+      "B": "Surface",
+      "C": "Resist",
+      "D": "Interfere",
+      "E": "Gadget",
+      "F": "Hint"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 45,
+    "question": "\"Obligation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sorumluluk",
+      "B": "ima etmek",
+      "C": "kabul etmek",
+      "D": "yüzey",
+      "E": "çok küçük",
+      "F": "varlık"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "\"Embody\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umursamaz",
+      "B": "varlık",
+      "C": "somutlaştırmak",
+      "D": "hassas",
+      "E": "cihaz",
+      "F": "mücadele etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"kanıt\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Shift",
+      "B": "Landfill",
+      "C": "Proof",
+      "D": "Summit",
+      "E": "Surface",
+      "F": "Bizarre"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 48,
+    "question": "\"kabul etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Struggle",
+      "B": "Obligation",
+      "C": "Prevalent",
+      "D": "Significant",
+      "E": "Admit",
+      "F": "Resist"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 49,
+    "question": "\"somutlaştırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Prevalent",
+      "B": "Significant",
+      "C": "Hint",
+      "D": "Embody",
+      "E": "Admit",
+      "F": "Indifferent"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 50,
+    "question": "\"mücadele etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Hint",
+      "B": "Significant",
+      "C": "Struggle",
+      "D": "Shift",
+      "E": "Prevalent",
+      "F": "Landfill"
+    },
+    "correct": "C"
+  }
+]

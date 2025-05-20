@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Surplus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boylam",
+      "B": "fazlalık",
+      "C": "gelişim",
+      "D": "yoğun",
+      "E": "huzursuzluk",
+      "F": "ılıman"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "\"Assess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "tam olarak belirlemek",
+      "C": "çökmek",
+      "D": "değerlendirmek",
+      "E": "boylam",
+      "F": "asıl nedeni olmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 3,
+    "question": "\"Volatility\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "batmak",
+      "B": "boşaltmak",
+      "C": "engellemek",
+      "D": "oynaklık",
+      "E": "güç",
+      "F": "asıl nedeni olmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "\"Surplus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddet",
+      "B": "değerlendirmek",
+      "C": "batmak",
+      "D": "huzursuzluk",
+      "E": "oynaklık",
+      "F": "fazlalık"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"Pinpoint\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "huzursuzluk",
+      "B": "fazlalık",
+      "C": "oynaklık",
+      "D": "tam olarak belirlemek",
+      "E": "yoğun",
+      "F": "güç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "\"Potency\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "fazlalık",
+      "B": "dağılmak",
+      "C": "engellemek",
+      "D": "şiddet",
+      "E": "akarsu",
+      "F": "güç"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 7,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tam olarak belirlemek",
+      "B": "çökmek",
+      "C": "engellemek",
+      "D": "boşaltmak",
+      "E": "akarsu",
+      "F": "asıl nedeni olmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 8,
+    "question": "\"Surplus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değerlendirmek",
+      "B": "oynaklık",
+      "C": "ılıman",
+      "D": "fazlalık",
+      "E": "dağılmak",
+      "F": "boşaltmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 9,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boşaltmak",
+      "B": "oynaklık",
+      "C": "engellemek",
+      "D": "sonuç",
+      "E": "değerlendirmek",
+      "F": "gelişim"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "\"Development\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "batmak",
+      "B": "sonuç",
+      "C": "değerlendirmek",
+      "D": "dağılmak",
+      "E": "huzursuzluk",
+      "F": "gelişim"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddet",
+      "B": "akarsu",
+      "C": "somut",
+      "D": "çökmek",
+      "E": "batmak",
+      "F": "değerlendirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "\"Volatility\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çökmek",
+      "B": "şiddet",
+      "C": "tam olarak belirlemek",
+      "D": "batmak",
+      "E": "oynaklık",
+      "F": "gelişim"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 13,
+    "question": "\"Conclusion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değerlendirmek",
+      "B": "gelişim",
+      "C": "asıl nedeni olmak",
+      "D": "oynaklık",
+      "E": "sonuç",
+      "F": "akarsu"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 14,
+    "question": "\"Sink\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "batmak",
+      "C": "çökmek",
+      "D": "sonuç",
+      "E": "güç",
+      "F": "fazlalık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boşaltmak",
+      "B": "batmak",
+      "C": "akarsu",
+      "D": "ılıman",
+      "E": "somut",
+      "F": "asıl nedeni olmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "asıl nedeni olmak",
+      "B": "somut",
+      "C": "dağılmak",
+      "D": "engellemek",
+      "E": "batmak",
+      "F": "boylam"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 17,
+    "question": "\"Pinpoint\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dağılmak",
+      "B": "asıl nedeni olmak",
+      "C": "tam olarak belirlemek",
+      "D": "boşaltmak",
+      "E": "değerlendirmek",
+      "F": "sonuç"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "dağılmak",
+      "C": "çökmek",
+      "D": "ılıman",
+      "E": "yoğun",
+      "F": "güç"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "\"Volatility\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güç",
+      "B": "oynaklık",
+      "C": "boşaltmak",
+      "D": "fazlalık",
+      "E": "şiddet",
+      "F": "batmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "akarsu",
+      "C": "yoğun",
+      "D": "boşaltmak",
+      "E": "gelişim",
+      "F": "değerlendirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "\"Assess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çökmek",
+      "B": "asıl nedeni olmak",
+      "C": "gelişim",
+      "D": "değerlendirmek",
+      "E": "boşaltmak",
+      "F": "şiddet"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Potency\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "fazlalık",
+      "B": "somut",
+      "C": "güç",
+      "D": "batmak",
+      "E": "değerlendirmek",
+      "F": "çökmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "akarsu",
+      "B": "değerlendirmek",
+      "C": "ılıman",
+      "D": "somut",
+      "E": "şiddet",
+      "F": "boylam"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 24,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güç",
+      "B": "akarsu",
+      "C": "dağılmak",
+      "D": "asıl nedeni olmak",
+      "E": "oynaklık",
+      "F": "fazlalık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"Collapse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tam olarak belirlemek",
+      "B": "batmak",
+      "C": "somut",
+      "D": "gelişim",
+      "E": "sonuç",
+      "F": "çökmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 26,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boşaltmak",
+      "B": "somut",
+      "C": "şiddet",
+      "D": "akarsu",
+      "E": "engellemek",
+      "F": "çökmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "\"Severity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "akarsu",
+      "B": "fazlalık",
+      "C": "güç",
+      "D": "şiddet",
+      "E": "batmak",
+      "F": "dağılmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 28,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "fazlalık",
+      "B": "boşaltmak",
+      "C": "akarsu",
+      "D": "gelişim",
+      "E": "güç",
+      "F": "huzursuzluk"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 29,
+    "question": "\"Sink\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "huzursuzluk",
+      "B": "boşaltmak",
+      "C": "şiddet",
+      "D": "batmak",
+      "E": "engellemek",
+      "F": "yoğun"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "\"Collapse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğun",
+      "B": "ılıman",
+      "C": "somut",
+      "D": "çökmek",
+      "E": "oynaklık",
+      "F": "huzursuzluk"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 31,
+    "question": "\"Severity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddet",
+      "B": "dağılmak",
+      "C": "güç",
+      "D": "değerlendirmek",
+      "E": "huzursuzluk",
+      "F": "sonuç"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç",
+      "B": "güç",
+      "C": "akarsu",
+      "D": "boylam",
+      "E": "şiddet",
+      "F": "boşaltmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 33,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tam olarak belirlemek",
+      "B": "sonuç",
+      "C": "boşaltmak",
+      "D": "çökmek",
+      "E": "fazlalık",
+      "F": "akarsu"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boylam",
+      "B": "ılıman",
+      "C": "güç",
+      "D": "oynaklık",
+      "E": "çökmek",
+      "F": "değerlendirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boylam",
+      "B": "somut",
+      "C": "asıl nedeni olmak",
+      "D": "engellemek",
+      "E": "huzursuzluk",
+      "F": "dağılmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddet",
+      "B": "batmak",
+      "C": "sonuç",
+      "D": "engellemek",
+      "E": "boylam",
+      "F": "oynaklık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 37,
+    "question": "\"Severity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddet",
+      "B": "asıl nedeni olmak",
+      "C": "güç",
+      "D": "tam olarak belirlemek",
+      "E": "dağılmak",
+      "F": "boylam"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "\"Pinpoint\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boşaltmak",
+      "B": "asıl nedeni olmak",
+      "C": "güç",
+      "D": "tam olarak belirlemek",
+      "E": "engellemek",
+      "F": "batmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "\"Conclusion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boylam",
+      "B": "engellemek",
+      "C": "sonuç",
+      "D": "huzursuzluk",
+      "E": "değerlendirmek",
+      "F": "oynaklık"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 40,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boylam",
+      "B": "asıl nedeni olmak",
+      "C": "batmak",
+      "D": "boşaltmak",
+      "E": "sonuç",
+      "F": "tam olarak belirlemek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "\"Assess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğun",
+      "B": "somut",
+      "C": "değerlendirmek",
+      "D": "fazlalık",
+      "E": "ılıman",
+      "F": "asıl nedeni olmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Conclusion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç",
+      "B": "oynaklık",
+      "C": "akarsu",
+      "D": "huzursuzluk",
+      "E": "batmak",
+      "F": "somut"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "\"Assess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "akarsu",
+      "B": "çökmek",
+      "C": "değerlendirmek",
+      "D": "boylam",
+      "E": "oynaklık",
+      "F": "şiddet"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "\"Tangible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "huzursuzluk",
+      "C": "ılıman",
+      "D": "sonuç",
+      "E": "çökmek",
+      "F": "güç"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "\"Development\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "akarsu",
+      "B": "engellemek",
+      "C": "oynaklık",
+      "D": "gelişim",
+      "E": "boylam",
+      "F": "tam olarak belirlemek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "\"Severity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gelişim",
+      "B": "boşaltmak",
+      "C": "tam olarak belirlemek",
+      "D": "yoğun",
+      "E": "ılıman",
+      "F": "şiddet"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 47,
+    "question": "\"Disperse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "fazlalık",
+      "B": "şiddet",
+      "C": "boşaltmak",
+      "D": "akarsu",
+      "E": "engellemek",
+      "F": "dağılmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dağılmak",
+      "B": "güç",
+      "C": "engellemek",
+      "D": "boşaltmak",
+      "E": "huzursuzluk",
+      "F": "batmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "\"Pinpoint\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "boylam",
+      "B": "huzursuzluk",
+      "C": "fazlalık",
+      "D": "yoğun",
+      "E": "değerlendirmek",
+      "F": "tam olarak belirlemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Discharge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç",
+      "B": "güç",
+      "C": "boşaltmak",
+      "D": "gelişim",
+      "E": "oynaklık",
+      "F": "boylam"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 51,
+    "question": "\"Intensive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "değerlendirmek",
+      "C": "asıl nedeni olmak",
+      "D": "çökmek",
+      "E": "yoğun",
+      "F": "dağılmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 52,
+    "question": "\"Surplus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğun",
+      "B": "asıl nedeni olmak",
+      "C": "fazlalık",
+      "D": "oynaklık",
+      "E": "şiddet",
+      "F": "güç"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 53,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğun",
+      "B": "dağılmak",
+      "C": "huzursuzluk",
+      "D": "değerlendirmek",
+      "E": "boşaltmak",
+      "F": "akarsu"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "\"Temperate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ılıman",
+      "B": "değerlendirmek",
+      "C": "fazlalık",
+      "D": "boşaltmak",
+      "E": "oynaklık",
+      "F": "engellemek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "\"Volatility\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "oynaklık",
+      "B": "değerlendirmek",
+      "C": "huzursuzluk",
+      "D": "tam olarak belirlemek",
+      "E": "boylam",
+      "F": "şiddet"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "\"Longitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gelişim",
+      "B": "boylam",
+      "C": "engellemek",
+      "D": "akarsu",
+      "E": "huzursuzluk",
+      "F": "yoğun"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 57,
+    "question": "\"Assess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ılıman",
+      "B": "boşaltmak",
+      "C": "sonuç",
+      "D": "değerlendirmek",
+      "E": "şiddet",
+      "F": "dağılmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 58,
+    "question": "\"Surplus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "oynaklık",
+      "B": "ılıman",
+      "C": "boylam",
+      "D": "asıl nedeni olmak",
+      "E": "şiddet",
+      "F": "fazlalık"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 59,
+    "question": "\"Hamper\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çökmek",
+      "B": "sonuç",
+      "C": "batmak",
+      "D": "engellemek",
+      "E": "boşaltmak",
+      "F": "güç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "question": "\"Stream\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gelişim",
+      "B": "engellemek",
+      "C": "oynaklık",
+      "D": "akarsu",
+      "E": "yoğun",
+      "F": "şiddet"
+    },
+    "correct": "D"
+  }
+]

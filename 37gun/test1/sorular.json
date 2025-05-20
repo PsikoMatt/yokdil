@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Flora and fauna\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "bitki ve hayvan türü",
+      "C": "dayanmak",
+      "D": "terk etmek",
+      "E": "telafi etmek",
+      "F": "olanak sağlayan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "\"Align\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hizalamak",
+      "B": "yetenekli",
+      "C": "salınım",
+      "D": "damıtma",
+      "E": "yönlendirmek",
+      "F": "sınır"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "\"Unfold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ortaya çıkarmak",
+      "B": "dayanmak",
+      "C": "yetenekli",
+      "D": "yönlendirmek",
+      "E": "hizalamak",
+      "F": "bitki ve hayvan türü"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "\"Conducive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olanak sağlayan",
+      "B": "hizalamak",
+      "C": "bir araya getirmek",
+      "D": "dayanmak",
+      "E": "damıtma",
+      "F": "sonuç çıkarmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "\"Compile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "beklemek",
+      "B": "bir araya getirmek",
+      "C": "yönlendirmek",
+      "D": "hizalamak",
+      "E": "telafi etmek",
+      "F": "olanak sağlayan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "\"Be based on\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "önemli ölçüde",
+      "C": "dayanmak",
+      "D": "salınım",
+      "E": "bir araya getirmek",
+      "F": "damıtma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "\"Emission\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "ortaya çıkarmak",
+      "C": "damıtma",
+      "D": "bir araya getirmek",
+      "E": "salınım",
+      "F": "hizalamak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 8,
+    "question": "\"Steer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aksama",
+      "B": "yönlendirmek",
+      "C": "sınır",
+      "D": "dayanmak",
+      "E": "beklemek",
+      "F": "tüketmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "\"Desperate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç çıkarmak",
+      "B": "umutsuz",
+      "C": "ortaya çıkarmak",
+      "D": "tüketmek",
+      "E": "salınım",
+      "F": "bitki ve hayvan türü"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "\"Boundary\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hizalamak",
+      "B": "terk etmek",
+      "C": "yetenekli",
+      "D": "sınır",
+      "E": "sonuç çıkarmak",
+      "F": "telafi etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "\"Compensate for\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "tüketmek",
+      "C": "terk etmek",
+      "D": "beklemek",
+      "E": "telafi etmek",
+      "F": "damıtma"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "\"Steer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "beklemek",
+      "C": "önemli ölçüde",
+      "D": "umutsuz",
+      "E": "damıtma",
+      "F": "telafi etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"Unfold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "terk etmek",
+      "B": "geri çekilmek",
+      "C": "aksama",
+      "D": "damıtma",
+      "E": "telafi etmek",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 14,
+    "question": "\"Disruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yetenekli",
+      "B": "terk etmek",
+      "C": "salınım",
+      "D": "sonuç çıkarmak",
+      "E": "telafi etmek",
+      "F": "aksama"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 15,
+    "question": "\"Steer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "beklemek",
+      "B": "sınır",
+      "C": "dayanmak",
+      "D": "yönlendirmek",
+      "E": "önemli ölçüde",
+      "F": "sonuç çıkarmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "\"Capable of\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "yetenekli",
+      "C": "sonuç çıkarmak",
+      "D": "ortaya çıkarmak",
+      "E": "olanak sağlayan",
+      "F": "salınım"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 17,
+    "question": "\"Infer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bitki ve hayvan türü",
+      "B": "damıtma",
+      "C": "salınım",
+      "D": "sonuç çıkarmak",
+      "E": "telafi etmek",
+      "F": "geri çekilmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "\"Compensate for\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bir araya getirmek",
+      "B": "beklemek",
+      "C": "olanak sağlayan",
+      "D": "hizalamak",
+      "E": "aksama",
+      "F": "telafi etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 19,
+    "question": "\"Capable of\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "telafi etmek",
+      "C": "yetenekli",
+      "D": "beklemek",
+      "E": "bir araya getirmek",
+      "F": "terk etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "\"Emission\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "salınım",
+      "B": "önemli ölçüde",
+      "C": "ortaya çıkarmak",
+      "D": "umutsuz",
+      "E": "bir araya getirmek",
+      "F": "sonuç çıkarmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "\"Boundary\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "salınım",
+      "B": "telafi etmek",
+      "C": "dayanmak",
+      "D": "yetenekli",
+      "E": "bitki ve hayvan türü",
+      "F": "sınır"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 22,
+    "question": "\"Emission\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "salınım",
+      "B": "dayanmak",
+      "C": "yetenekli",
+      "D": "tüketmek",
+      "E": "aksama",
+      "F": "sonuç çıkarmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "\"Abandon\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bir araya getirmek",
+      "B": "terk etmek",
+      "C": "yönlendirmek",
+      "D": "telafi etmek",
+      "E": "salınım",
+      "F": "aksama"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "\"Conducive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç çıkarmak",
+      "B": "sınır",
+      "C": "olanak sağlayan",
+      "D": "damıtma",
+      "E": "salınım",
+      "F": "geri çekilmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 25,
+    "question": "\"Boundary\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bir araya getirmek",
+      "B": "beklemek",
+      "C": "ortaya çıkarmak",
+      "D": "önemli ölçüde",
+      "E": "damıtma",
+      "F": "sınır"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 26,
+    "question": "\"Compensate for\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hizalamak",
+      "B": "sonuç çıkarmak",
+      "C": "telafi etmek",
+      "D": "önemli ölçüde",
+      "E": "yönlendirmek",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "\"Withdraw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "geri çekilmek",
+      "C": "sonuç çıkarmak",
+      "D": "olanak sağlayan",
+      "E": "sınır",
+      "F": "salınım"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "\"Anticipate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "beklemek",
+      "C": "önemli ölçüde",
+      "D": "tüketmek",
+      "E": "ortaya çıkarmak",
+      "F": "bir araya getirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "\"Be based on\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olanak sağlayan",
+      "B": "salınım",
+      "C": "bitki ve hayvan türü",
+      "D": "dayanmak",
+      "E": "aksama",
+      "F": "terk etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "\"Consume\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "damıtma",
+      "B": "ortaya çıkarmak",
+      "C": "terk etmek",
+      "D": "salınım",
+      "E": "sonuç çıkarmak",
+      "F": "tüketmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "\"Unfold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sınır",
+      "B": "yetenekli",
+      "C": "ortaya çıkarmak",
+      "D": "sonuç çıkarmak",
+      "E": "beklemek",
+      "F": "telafi etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "\"Desperate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç çıkarmak",
+      "B": "bir araya getirmek",
+      "C": "yetenekli",
+      "D": "terk etmek",
+      "E": "umutsuz",
+      "F": "geri çekilmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 33,
+    "question": "\"Align\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hizalamak",
+      "B": "terk etmek",
+      "C": "umutsuz",
+      "D": "yetenekli",
+      "E": "bir araya getirmek",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "\"Abandon\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ortaya çıkarmak",
+      "B": "yetenekli",
+      "C": "sonuç çıkarmak",
+      "D": "umutsuz",
+      "E": "beklemek",
+      "F": "terk etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 35,
+    "question": "\"Conducive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bitki ve hayvan türü",
+      "B": "olanak sağlayan",
+      "C": "telafi etmek",
+      "D": "sonuç çıkarmak",
+      "E": "aksama",
+      "F": "geri çekilmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"Considerably\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hizalamak",
+      "B": "bitki ve hayvan türü",
+      "C": "geri çekilmek",
+      "D": "önemli ölçüde",
+      "E": "olanak sağlayan",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "question": "\"Infer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bir araya getirmek",
+      "B": "sınır",
+      "C": "geri çekilmek",
+      "D": "sonuç çıkarmak",
+      "E": "aksama",
+      "F": "telafi etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Withdraw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bitki ve hayvan türü",
+      "B": "damıtma",
+      "C": "geri çekilmek",
+      "D": "aksama",
+      "E": "yönlendirmek",
+      "F": "yetenekli"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "\"Capable of\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umutsuz",
+      "B": "bir araya getirmek",
+      "C": "salınım",
+      "D": "geri çekilmek",
+      "E": "terk etmek",
+      "F": "yetenekli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 40,
+    "question": "\"Consume\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "beklemek",
+      "C": "dayanmak",
+      "D": "tüketmek",
+      "E": "bitki ve hayvan türü",
+      "F": "bir araya getirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "\"Unfold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "önemli ölçüde",
+      "C": "olanak sağlayan",
+      "D": "aksama",
+      "E": "bir araya getirmek",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 42,
+    "question": "\"Flora and fauna\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "bitki ve hayvan türü",
+      "C": "sonuç çıkarmak",
+      "D": "aksama",
+      "E": "damıtma",
+      "F": "olanak sağlayan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "question": "\"Abandon\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bir araya getirmek",
+      "B": "hizalamak",
+      "C": "geri çekilmek",
+      "D": "terk etmek",
+      "E": "tüketmek",
+      "F": "sınır"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "\"Capable of\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sınır",
+      "B": "olanak sağlayan",
+      "C": "bir araya getirmek",
+      "D": "salınım",
+      "E": "yetenekli",
+      "F": "telafi etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 45,
+    "question": "\"Boundary\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aksama",
+      "B": "ortaya çıkarmak",
+      "C": "bitki ve hayvan türü",
+      "D": "umutsuz",
+      "E": "terk etmek",
+      "F": "sınır"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 46,
+    "question": "\"Desperate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "ortaya çıkarmak",
+      "C": "umutsuz",
+      "D": "salınım",
+      "E": "tüketmek",
+      "F": "olanak sağlayan"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Compensate for\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aksama",
+      "B": "sınır",
+      "C": "damıtma",
+      "D": "önemli ölçüde",
+      "E": "telafi etmek",
+      "F": "hizalamak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 48,
+    "question": "\"Align\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri çekilmek",
+      "B": "salınım",
+      "C": "tüketmek",
+      "D": "terk etmek",
+      "E": "sonuç çıkarmak",
+      "F": "hizalamak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "\"Be based on\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sınır",
+      "B": "umutsuz",
+      "C": "beklemek",
+      "D": "hizalamak",
+      "E": "ortaya çıkarmak",
+      "F": "dayanmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Distillation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "damıtma",
+      "B": "telafi etmek",
+      "C": "terk etmek",
+      "D": "salınım",
+      "E": "yönlendirmek",
+      "F": "hizalamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "\"Desperate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olanak sağlayan",
+      "B": "ortaya çıkarmak",
+      "C": "bitki ve hayvan türü",
+      "D": "geri çekilmek",
+      "E": "salınım",
+      "F": "umutsuz"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 52,
+    "question": "\"Be based on\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "damıtma",
+      "B": "ortaya çıkarmak",
+      "C": "olanak sağlayan",
+      "D": "bitki ve hayvan türü",
+      "E": "dayanmak",
+      "F": "yönlendirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 53,
+    "question": "\"Anticipate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bir araya getirmek",
+      "B": "sınır",
+      "C": "salınım",
+      "D": "damıtma",
+      "E": "aksama",
+      "F": "beklemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "\"Distillation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yönlendirmek",
+      "B": "damıtma",
+      "C": "önemli ölçüde",
+      "D": "bir araya getirmek",
+      "E": "sonuç çıkarmak",
+      "F": "olanak sağlayan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 55,
+    "question": "\"Desperate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hizalamak",
+      "B": "terk etmek",
+      "C": "umutsuz",
+      "D": "ortaya çıkarmak",
+      "E": "beklemek",
+      "F": "dayanmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "\"Disruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "terk etmek",
+      "B": "aksama",
+      "C": "hizalamak",
+      "D": "yetenekli",
+      "E": "bir araya getirmek",
+      "F": "dayanmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 57,
+    "question": "\"Infer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli ölçüde",
+      "B": "terk etmek",
+      "C": "bir araya getirmek",
+      "D": "sınır",
+      "E": "sonuç çıkarmak",
+      "F": "ortaya çıkarmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 58,
+    "question": "\"Flora and fauna\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli ölçüde",
+      "B": "bitki ve hayvan türü",
+      "C": "damıtma",
+      "D": "salınım",
+      "E": "terk etmek",
+      "F": "sınır"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 59,
+    "question": "\"Steer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dayanmak",
+      "B": "salınım",
+      "C": "damıtma",
+      "D": "beklemek",
+      "E": "aksama",
+      "F": "yönlendirmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 60,
+    "question": "\"Considerably\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli ölçüde",
+      "B": "sonuç çıkarmak",
+      "C": "beklemek",
+      "D": "aksama",
+      "E": "hizalamak",
+      "F": "damıtma"
+    },
+    "correct": "A"
+  }
+]

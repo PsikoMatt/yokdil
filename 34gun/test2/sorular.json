@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Evolve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bozulma",
+      "B": "çarpıcı",
+      "C": "artırmak",
+      "D": "hafifletmek",
+      "E": "evrim geçirmek",
+      "F": "magmatik"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 2,
+    "question": "\"Violate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "ihlal etmek",
+      "C": "hafifletmek",
+      "D": "evrim geçirmek",
+      "E": "bulaşıcı",
+      "F": "magmatik"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "\"magmatik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Fertilizer",
+      "B": "Impetus",
+      "C": "Domestic",
+      "D": "Constellation",
+      "E": "Infectious",
+      "F": "Igneous"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 4,
+    "question": "\"hafifletmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Augment",
+      "B": "Impetus",
+      "C": "Unprecedented",
+      "D": "Uneven",
+      "E": "Related to",
+      "F": "Alleviate"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"artırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Augment",
+      "B": "Wipe out",
+      "C": "Igneous",
+      "D": "Condensation",
+      "E": "Evolve",
+      "F": "Domestic"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 6,
+    "question": "\"Condensation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "takımyıldız",
+      "B": "artırmak",
+      "C": "tatmin edici",
+      "D": "çarpıcı",
+      "E": "yoğuşma",
+      "F": "ölüm"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 7,
+    "question": "\"itici güç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Dramatic",
+      "B": "Wipe out",
+      "C": "Violate",
+      "D": "Demise",
+      "E": "Coherent",
+      "F": "Impetus"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "bulaşıcı",
+      "C": "ölüm",
+      "D": "ihlal etmek",
+      "E": "yok etmek",
+      "F": "gübre"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "\"yok etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Wipe out",
+      "B": "Uneven",
+      "C": "Constellation",
+      "D": "Violate",
+      "E": "Evolve",
+      "F": "Alleviate"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "\"ile ilgili\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Related to",
+      "B": "Unprecedented",
+      "C": "Violate",
+      "D": "Dramatic",
+      "E": "Alleviate",
+      "F": "Evolve"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "\"ihlal etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Degradation",
+      "B": "Augment",
+      "C": "Dramatic",
+      "D": "Unprecedented",
+      "E": "Violate",
+      "F": "Demise"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "\"Violate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "bozulma",
+      "C": "ile ilgili",
+      "D": "ihlal etmek",
+      "E": "yok etmek",
+      "F": "evrim geçirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "question": "\"bozulma\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Degradation",
+      "B": "Related to",
+      "C": "Fertilizer",
+      "D": "Dramatic",
+      "E": "Unprecedented",
+      "F": "Evolve"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "\"ihlal etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Impetus",
+      "B": "Alleviate",
+      "C": "Dramatic",
+      "D": "Constellation",
+      "E": "Violate",
+      "F": "Infectious"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 15,
+    "question": "\"evcil\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Domestic",
+      "B": "Constellation",
+      "C": "Condensation",
+      "D": "Igneous",
+      "E": "Unprecedented",
+      "F": "Dramatic"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "\"ile ilgili\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Wipe out",
+      "B": "Satisfactory",
+      "C": "Condensation",
+      "D": "Demise",
+      "E": "Related to",
+      "F": "Infectious"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 17,
+    "question": "\"itici güç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Igneous",
+      "B": "Wipe out",
+      "C": "Related to",
+      "D": "Unprecedented",
+      "E": "Alleviate",
+      "F": "Impetus"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 18,
+    "question": "\"Domestic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "gübre",
+      "C": "takımyıldız",
+      "D": "tatmin edici",
+      "E": "yoğuşma",
+      "F": "tutarlı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "\"yok etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Wipe out",
+      "B": "Violate",
+      "C": "Infectious",
+      "D": "Dramatic",
+      "E": "Satisfactory",
+      "F": "Igneous"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "\"evrim geçirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Satisfactory",
+      "B": "Igneous",
+      "C": "Evolve",
+      "D": "Wipe out",
+      "E": "Dramatic",
+      "F": "Degradation"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "\"Degradation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tatmin edici",
+      "B": "bulaşıcı",
+      "C": "yok etmek",
+      "D": "bozulma",
+      "E": "emsalsiz",
+      "F": "hafifletmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"takımyıldız\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Satisfactory",
+      "B": "Domestic",
+      "C": "Constellation",
+      "D": "Augment",
+      "E": "Violate",
+      "F": "Wipe out"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "\"ihlal etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Violate",
+      "B": "Fertilizer",
+      "C": "Infectious",
+      "D": "Unprecedented",
+      "E": "Wipe out",
+      "F": "Evolve"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "\"Condensation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hafifletmek",
+      "B": "takımyıldız",
+      "C": "magmatik",
+      "D": "yoğuşma",
+      "E": "yok etmek",
+      "F": "ile ilgili"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "\"değişken\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Demise",
+      "B": "Uneven",
+      "C": "Wipe out",
+      "D": "Related to",
+      "E": "Infectious",
+      "F": "Constellation"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "\"yok etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Satisfactory",
+      "B": "Impetus",
+      "C": "Fertilizer",
+      "D": "Demise",
+      "E": "Domestic",
+      "F": "Wipe out"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 27,
+    "question": "\"hafifletmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Uneven",
+      "B": "Alleviate",
+      "C": "Augment",
+      "D": "Infectious",
+      "E": "Related to",
+      "F": "Impetus"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "\"yok etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Related to",
+      "B": "Impetus",
+      "C": "Unprecedented",
+      "D": "Satisfactory",
+      "E": "Wipe out",
+      "F": "Fertilizer"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 29,
+    "question": "\"ile ilgili\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Alleviate",
+      "B": "Related to",
+      "C": "Infectious",
+      "D": "Wipe out",
+      "E": "Degradation",
+      "F": "Condensation"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "takımyıldız",
+      "B": "evcil",
+      "C": "yoğuşma",
+      "D": "değişken",
+      "E": "tatmin edici",
+      "F": "yok etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "\"evcil\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Violate",
+      "B": "Igneous",
+      "C": "Domestic",
+      "D": "Augment",
+      "E": "Infectious",
+      "F": "Degradation"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ölüm",
+      "B": "takımyıldız",
+      "C": "emsalsiz",
+      "D": "bulaşıcı",
+      "E": "bozulma",
+      "F": "evrim geçirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "\"itici güç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Unprecedented",
+      "B": "Augment",
+      "C": "Satisfactory",
+      "D": "Demise",
+      "E": "Igneous",
+      "F": "Impetus"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Dramatic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "itici güç",
+      "B": "değişken",
+      "C": "takımyıldız",
+      "D": "çarpıcı",
+      "E": "magmatik",
+      "F": "emsalsiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "\"gübre\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Degradation",
+      "B": "Dramatic",
+      "C": "Fertilizer",
+      "D": "Infectious",
+      "E": "Coherent",
+      "F": "Alleviate"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "\"Infectious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "çarpıcı",
+      "C": "artırmak",
+      "D": "emsalsiz",
+      "E": "değişken",
+      "F": "yoğuşma"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "\"takımyıldız\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Infectious",
+      "B": "Igneous",
+      "C": "Augment",
+      "D": "Constellation",
+      "E": "Uneven",
+      "F": "Unprecedented"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Impetus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "itici güç",
+      "B": "takımyıldız",
+      "C": "ile ilgili",
+      "D": "tatmin edici",
+      "E": "ölüm",
+      "F": "evrim geçirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "\"Augment\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "artırmak",
+      "B": "emsalsiz",
+      "C": "ihlal etmek",
+      "D": "itici güç",
+      "E": "ile ilgili",
+      "F": "değişken"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğuşma",
+      "B": "emsalsiz",
+      "C": "tatmin edici",
+      "D": "evrim geçirmek",
+      "E": "tutarlı",
+      "F": "bulaşıcı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "\"ölüm\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Coherent",
+      "B": "Uneven",
+      "C": "Satisfactory",
+      "D": "Evolve",
+      "E": "Degradation",
+      "F": "Demise"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 42,
+    "question": "\"magmatik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Wipe out",
+      "B": "Impetus",
+      "C": "Igneous",
+      "D": "Uneven",
+      "E": "Coherent",
+      "F": "Infectious"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "\"Satisfactory\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek",
+      "B": "tatmin edici",
+      "C": "evcil",
+      "D": "değişken",
+      "E": "bulaşıcı",
+      "F": "çarpıcı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "\"Dramatic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ihlal etmek",
+      "B": "çarpıcı",
+      "C": "ile ilgili",
+      "D": "tutarlı",
+      "E": "tatmin edici",
+      "F": "itici güç"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "\"bozulma\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Dramatic",
+      "B": "Augment",
+      "C": "Degradation",
+      "D": "Alleviate",
+      "E": "Igneous",
+      "F": "Demise"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "\"çarpıcı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Igneous",
+      "B": "Infectious",
+      "C": "Dramatic",
+      "D": "Satisfactory",
+      "E": "Constellation",
+      "F": "Impetus"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"bulaşıcı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Igneous",
+      "B": "Violate",
+      "C": "Alleviate",
+      "D": "Infectious",
+      "E": "Augment",
+      "F": "Constellation"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 48,
+    "question": "\"bozulma\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Violate",
+      "B": "Degradation",
+      "C": "Domestic",
+      "D": "Fertilizer",
+      "E": "Infectious",
+      "F": "Wipe out"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "\"Alleviate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "hafifletmek",
+      "C": "itici güç",
+      "D": "artırmak",
+      "E": "ihlal etmek",
+      "F": "evrim geçirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "\"Wipe out\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gübre",
+      "B": "evcil",
+      "C": "yok etmek",
+      "D": "ile ilgili",
+      "E": "itici güç",
+      "F": "hafifletmek"
+    },
+    "correct": "C"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Annihilate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek, ortadan kaldırmak",
+      "B": "güçlü",
+      "C": "patlama",
+      "D": "uyandırmak",
+      "E": "anlaşılır",
+      "F": "çabalamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "\"ortadan kaldırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Comply with",
+      "B": "Annihilate",
+      "C": "Arouse",
+      "D": "Mysterious",
+      "E": "Culmination",
+      "F": "Extinct"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "\"esrarengiz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Seek",
+      "B": "Mysterious",
+      "C": "Collaborative",
+      "D": "Extinct",
+      "E": "Relief",
+      "F": "Resolve"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "question": "\"alan\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Seek",
+      "B": "Rural",
+      "C": "Mysterious",
+      "D": "Eruption",
+      "E": "Attain",
+      "F": "Realm"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"Attain\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çözmek",
+      "B": "anlaşılır",
+      "C": "güçlü",
+      "D": "ferahlama",
+      "E": "saha",
+      "F": "ulaşmak, elde etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"Rural\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uyuşmazlık",
+      "B": "işbirlikçi",
+      "C": "kırsal",
+      "D": "güçlü",
+      "E": "esrarengiz",
+      "F": "sığ"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "\"kırsal\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Realm",
+      "B": "Meteorite",
+      "C": "Resolve",
+      "D": "Eruption",
+      "E": "Rural",
+      "F": "Attain"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 8,
+    "question": "\"tutarsızlık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Meteorite",
+      "B": "Shallow",
+      "C": "Discrepancy",
+      "D": "Attain",
+      "E": "Relief",
+      "F": "Rural"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "\"Relief\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "etkileyici",
+      "B": "çabalamak",
+      "C": "sonuç",
+      "D": "soyu tükenmiş",
+      "E": "rahatlama, ferahlama",
+      "F": "saha"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "\"Attain\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açık",
+      "B": "ferahlama",
+      "C": "gizemli",
+      "D": "göktaşı",
+      "E": "ulaşmak, elde etmek",
+      "F": "anlaşılır"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 11,
+    "question": "\"ortak çalışmaya dayanan\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Collaborative",
+      "B": "Annihilate",
+      "C": "Discrepancy",
+      "D": "Extinct",
+      "E": "Comply with",
+      "F": "Resolve"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "\"soyu tükenmiş\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Seek",
+      "B": "Culmination",
+      "C": "Extinct",
+      "D": "Discrepancy",
+      "E": "Relief",
+      "F": "Eruption"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "\"Meteorite\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gizemli",
+      "B": "çözmek",
+      "C": "göktaşı",
+      "D": "elde etmek",
+      "E": "sığ",
+      "F": "patlama"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"Rural\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çabalamak",
+      "B": "anlaşılır",
+      "C": "ortak çalışmaya dayanan",
+      "D": "esrarengiz",
+      "E": "çalışmak",
+      "F": "kırsal"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 15,
+    "question": "\"çabalamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Seek",
+      "B": "Meteorite",
+      "C": "Mysterious",
+      "D": "Arouse",
+      "E": "Straightforward",
+      "F": "Culmination"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "\"Annihilate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek, ortadan kaldırmak",
+      "B": "çözmek",
+      "C": "esrarengiz",
+      "D": "zirve",
+      "E": "püskürme",
+      "F": "uymak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "\"Relief\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uyandırmak",
+      "B": "doruk",
+      "C": "tutarsızlık",
+      "D": "ortadan kaldırmak",
+      "E": "rahatlama, ferahlama",
+      "F": "basit"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 18,
+    "question": "\"Annihilate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "patlama",
+      "B": "ikna edici",
+      "C": "yok etmek, ortadan kaldırmak",
+      "D": "alan",
+      "E": "uyuşmazlık",
+      "F": "anlaşılır"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Culmination\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "soyu tükenmiş",
+      "B": "doruk, zirve, sonuç",
+      "C": "uyuşmazlık",
+      "D": "bölge",
+      "E": "basit",
+      "F": "çare aramak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "\"çare aramak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Meteorite",
+      "B": "Seek",
+      "C": "Annihilate",
+      "D": "Discrepancy",
+      "E": "Mysterious",
+      "F": "Realm"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "\"sığ\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Rural",
+      "B": "Shallow",
+      "C": "Arouse",
+      "D": "Resolve",
+      "E": "Mysterious",
+      "F": "Meteorite"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 22,
+    "question": "\"Comply with\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uymak",
+      "B": "açık",
+      "C": "uyandırmak",
+      "D": "püskürme",
+      "E": "ortadan kaldırmak",
+      "F": "sığ"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "\"Attain\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlü",
+      "B": "alan",
+      "C": "ulaşmak, elde etmek",
+      "D": "çare aramak",
+      "E": "tutarsızlık",
+      "F": "kırsal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "question": "\"sığ\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Attain",
+      "B": "Shallow",
+      "C": "Extinct",
+      "D": "Mysterious",
+      "E": "Collaborative",
+      "F": "Annihilate"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"sonuç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Compelling",
+      "B": "Extinct",
+      "C": "Seek",
+      "D": "Culmination",
+      "E": "Relief",
+      "F": "Annihilate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "\"Realm\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uyandırmak",
+      "B": "doruk",
+      "C": "alan, saha, bölge",
+      "D": "püskürme",
+      "E": "gizemli",
+      "F": "basit"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "\"Discrepancy\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ortadan kaldırmak",
+      "B": "uyuşmazlık, tutarsızlık, çelişki",
+      "C": "uymak",
+      "D": "kesin karar vermek",
+      "E": "ulaşmak",
+      "F": "etkileyici"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "\"Straightforward\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rahatlama",
+      "B": "açık, anlaşılır, basit",
+      "C": "saha",
+      "D": "uymak",
+      "E": "doruk",
+      "F": "ikna edici"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "\"işbirlikçi\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Realm",
+      "B": "Mysterious",
+      "C": "Relief",
+      "D": "Shallow",
+      "E": "Collaborative",
+      "F": "Meteorite"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 30,
+    "question": "\"Relief\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rahatlama, ferahlama",
+      "B": "ulaşmak",
+      "C": "sonuç",
+      "D": "zirve",
+      "E": "ortak çalışmaya dayanan",
+      "F": "ötesine geçmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "\"çabalamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Culmination",
+      "B": "Shallow",
+      "C": "Eruption",
+      "D": "Seek",
+      "E": "Compelling",
+      "F": "Annihilate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "\"işbirlikçi\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Relief",
+      "B": "Surpass",
+      "C": "Compelling",
+      "D": "Collaborative",
+      "E": "Extinct",
+      "F": "Mysterious"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "\"soyu tükenmiş\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Attain",
+      "B": "Compelling",
+      "C": "Extinct",
+      "D": "Rural",
+      "E": "Eruption",
+      "F": "Relief"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "\"Discrepancy\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "basit",
+      "B": "kesin karar vermek",
+      "C": "uyuşmazlık, tutarsızlık, çelişki",
+      "D": "rahatlama",
+      "E": "elde etmek",
+      "F": "anlaşılır"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "\"Relief\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çabalamak",
+      "B": "rahatlama, ferahlama",
+      "C": "çalışmak",
+      "D": "aşmak",
+      "E": "çare aramak",
+      "F": "elde etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"Extinct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sonuç",
+      "B": "anlaşılır",
+      "C": "soyu tükenmiş",
+      "D": "açık",
+      "E": "çalışmak",
+      "F": "ulaşmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "\"Mysterious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gizemli, esrarengiz",
+      "B": "uyandırmak",
+      "C": "etkileyici",
+      "D": "göktaşı",
+      "E": "uymak",
+      "F": "ötesine geçmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "\"canlandırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Annihilate",
+      "B": "Mysterious",
+      "C": "Arouse",
+      "D": "Surpass",
+      "E": "Comply with",
+      "F": "Attain"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "\"patlama\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Realm",
+      "B": "Mysterious",
+      "C": "Annihilate",
+      "D": "Arouse",
+      "E": "Eruption",
+      "F": "Culmination"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 40,
+    "question": "\"elde etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Discrepancy",
+      "B": "Culmination",
+      "C": "Extinct",
+      "D": "Collaborative",
+      "E": "Comply with",
+      "F": "Attain"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "\"canlandırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Surpass",
+      "B": "Culmination",
+      "C": "Seek",
+      "D": "Compelling",
+      "E": "Arouse",
+      "F": "Shallow"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 42,
+    "question": "\"Eruption\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çelişki",
+      "B": "bölge",
+      "C": "patlama, püskürme",
+      "D": "canlandırmak",
+      "E": "kesin karar vermek",
+      "F": "saha"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "\"aşmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Collaborative",
+      "B": "Eruption",
+      "C": "Meteorite",
+      "D": "Surpass",
+      "E": "Realm",
+      "F": "Mysterious"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "\"çare aramak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Realm",
+      "B": "Arouse",
+      "C": "Eruption",
+      "D": "Resolve",
+      "E": "Seek",
+      "F": "Attain"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 45,
+    "question": "\"Collaborative\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rahatlama",
+      "B": "işbirlikçi, ortak çalışmaya dayanan",
+      "C": "aşmak",
+      "D": "anlaşılır",
+      "E": "çabalamak",
+      "F": "açık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "\"açık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Mysterious",
+      "B": "Collaborative",
+      "C": "Arouse",
+      "D": "Meteorite",
+      "E": "Straightforward",
+      "F": "Seek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 47,
+    "question": "\"Seek\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açık",
+      "B": "çabalamak, çare aramak, çalışmak",
+      "C": "işbirlikçi",
+      "D": "anlaşılır",
+      "E": "rahatlama",
+      "F": "doruk"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "\"uymak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Culmination",
+      "B": "Realm",
+      "C": "Annihilate",
+      "D": "Resolve",
+      "E": "Seek",
+      "F": "Comply with"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "\"soyu tükenmiş\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Compelling",
+      "B": "Culmination",
+      "C": "Rural",
+      "D": "Discrepancy",
+      "E": "Extinct",
+      "F": "Arouse"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "\"Straightforward\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ulaşmak",
+      "B": "kesin karar vermek",
+      "C": "uyandırmak",
+      "D": "doruk",
+      "E": "gizemli",
+      "F": "açık, anlaşılır, basit"
+    },
+    "correct": "F"
+  }
+]

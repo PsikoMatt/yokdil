@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Deliberately\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çeşitlilik",
+      "B": "kasten, bilerek, kasıtlı olarak",
+      "C": "hız",
+      "D": "tuz oranı",
+      "E": "çözüm",
+      "F": "güçsüzleştirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "\"ayrı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Separate",
+      "B": "Deliberately",
+      "C": "Stick to",
+      "D": "Diversity",
+      "E": "Infrastructure",
+      "F": "Velocity"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "\"ayrılmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Interval",
+      "B": "Velocity",
+      "C": "Deliberately",
+      "D": "Stick to",
+      "E": "Eminent",
+      "F": "Separate"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 4,
+    "question": "\"Drastically\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli ölçüde",
+      "B": "açlık",
+      "C": "ayrı",
+      "D": "sürat",
+      "E": "sadık kalmak",
+      "F": "çözüm"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "\"Occupy\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "işgal etmek, yer kaplamak",
+      "B": "esin",
+      "C": "seçkin",
+      "D": "altyapı",
+      "E": "ilham",
+      "F": "enlem"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 6,
+    "question": "\"çeşitlilik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Occupy",
+      "B": "Latitude",
+      "C": "Weaken",
+      "D": "Date back",
+      "E": "Diversity",
+      "F": "Drastically"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 7,
+    "question": "\"altyapı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Deliberately",
+      "B": "Latitude",
+      "C": "Infrastructure",
+      "D": "Stick to",
+      "E": "Resolution",
+      "F": "Drastically"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Date back\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hata",
+      "B": "çözüm",
+      "C": "önemli ölçüde",
+      "D": "hız",
+      "E": "geçmişe dayanmak",
+      "F": "ayırmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 9,
+    "question": "\"Salinity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "seçkin",
+      "B": "enlem",
+      "C": "çözüm",
+      "D": "tuzluluk, tuz oranı",
+      "E": "kap",
+      "F": "işgal etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "\"içilebilir\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Vessel",
+      "B": "Separate",
+      "C": "Stick to",
+      "D": "Inspiration",
+      "E": "Velocity",
+      "F": "Potable"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"Resolution\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "seçkin",
+      "B": "çözünürlük",
+      "C": "hız",
+      "D": "hata",
+      "E": "kasıtlı olarak",
+      "F": "ilham"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "\"Weaken\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zayıflatmak, güçsüzleştirmek",
+      "B": "kıtlık",
+      "C": "tuz oranı",
+      "D": "hata",
+      "E": "gemi",
+      "F": "altyapı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"seçkin\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Weaken",
+      "B": "Vessel",
+      "C": "Interval",
+      "D": "Eminent",
+      "E": "Famine",
+      "F": "Date back"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "\"bağlı kalmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Deliberately",
+      "B": "Date back",
+      "C": "Diversity",
+      "D": "Stick to",
+      "E": "Weaken",
+      "F": "Separate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "\"Date back\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çeşitlilik",
+      "B": "azim",
+      "C": "hata",
+      "D": "içilebilir",
+      "E": "güçsüzleştirmek",
+      "F": "geçmişe dayanmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 16,
+    "question": "\"Drastically\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çözüm",
+      "B": "ara",
+      "C": "kasten",
+      "D": "sadık kalmak",
+      "E": "ilham",
+      "F": "önemli ölçüde"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 17,
+    "question": "\"Velocity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "esin",
+      "B": "karar",
+      "C": "tuzluluk",
+      "D": "kasten",
+      "E": "çeşitlilik",
+      "F": "hız, sürat"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 18,
+    "question": "\"Latitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gemi",
+      "B": "bağlı kalmak",
+      "C": "güçsüzleştirmek",
+      "D": "ayrı",
+      "E": "çözüm",
+      "F": "enlem"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 19,
+    "question": "\"ayırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Deliberately",
+      "B": "Separate",
+      "C": "Date back",
+      "D": "Resolution",
+      "E": "Infrastructure",
+      "F": "Inspiration"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "\"güçsüzleştirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Eminent",
+      "B": "Weaken",
+      "C": "Salinity",
+      "D": "Infrastructure",
+      "E": "Potable",
+      "F": "Inspiration"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "\"çeşitlilik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Stick to",
+      "B": "Infrastructure",
+      "C": "Failure",
+      "D": "Diversity",
+      "E": "Resolution",
+      "F": "Inspiration"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Weaken\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "başarısızlık",
+      "B": "altyapı",
+      "C": "azim",
+      "D": "bağlı kalmak",
+      "E": "zayıflatmak, güçsüzleştirmek",
+      "F": "tanınmış"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "\"güçsüzleştirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Inspiration",
+      "B": "Famine",
+      "C": "Diversity",
+      "D": "Interval",
+      "E": "Weaken",
+      "F": "Latitude"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 24,
+    "question": "\"tuzluluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Inspiration",
+      "B": "Stick to",
+      "C": "Salinity",
+      "D": "Deliberately",
+      "E": "Failure",
+      "F": "Diversity"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 25,
+    "question": "\"Latitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "seçkin",
+      "B": "ayırmak",
+      "C": "enlem",
+      "D": "hız",
+      "E": "azim",
+      "F": "karar"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "\"tuz oranı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Stick to",
+      "B": "Inspiration",
+      "C": "Salinity",
+      "D": "Famine",
+      "E": "Failure",
+      "F": "Deliberately"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "\"güçsüzleştirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Velocity",
+      "B": "Interval",
+      "C": "Weaken",
+      "D": "Latitude",
+      "E": "Salinity",
+      "F": "Infrastructure"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"aralık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Famine",
+      "B": "Salinity",
+      "C": "Interval",
+      "D": "Separate",
+      "E": "Resolution",
+      "F": "Eminent"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 29,
+    "question": "\"Occupy\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "açlık",
+      "B": "çözüm",
+      "C": "işgal etmek, yer kaplamak",
+      "D": "tuzluluk",
+      "E": "ayrılmak",
+      "F": "önemli ölçüde"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "\"Potable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "enlem",
+      "B": "kap",
+      "C": "ayrı",
+      "D": "ayrılmak",
+      "E": "içilebilir",
+      "F": "bağlı kalmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 31,
+    "question": "\"Date back\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ayrı",
+      "B": "geçmişe dayanmak",
+      "C": "güçsüzleştirmek",
+      "D": "çeşitlilik",
+      "E": "sürat",
+      "F": "sadık kalmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "\"ilham\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Date back",
+      "B": "Inspiration",
+      "C": "Occupy",
+      "D": "Deliberately",
+      "E": "Infrastructure",
+      "F": "Eminent"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "\"Resolution\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "başarısızlık",
+      "B": "çözünürlük",
+      "C": "ilham",
+      "D": "altyapı",
+      "E": "seçkin",
+      "F": "enlem"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "\"içilebilir\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Potable",
+      "B": "Diversity",
+      "C": "Interval",
+      "D": "Velocity",
+      "E": "Resolution",
+      "F": "Date back"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "\"Weaken\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "damar",
+      "B": "zayıflatmak, güçsüzleştirmek",
+      "C": "işgal etmek",
+      "D": "ayrı",
+      "E": "seçkin",
+      "F": "bağlı kalmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"zayıflatmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Weaken",
+      "B": "Occupy",
+      "C": "Famine",
+      "D": "Velocity",
+      "E": "Diversity",
+      "F": "Failure"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "\"Stick to\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bilerek",
+      "B": "altyapı",
+      "C": "tanınmış",
+      "D": "bağlı kalmak, sadık kalmak",
+      "E": "yer kaplamak",
+      "F": "çözüm"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"çeşitlilik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Salinity",
+      "B": "Diversity",
+      "C": "Occupy",
+      "D": "Separate",
+      "E": "Latitude",
+      "F": "Resolution"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "\"altyapı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Occupy",
+      "B": "Interval",
+      "C": "Infrastructure",
+      "D": "Separate",
+      "E": "Weaken",
+      "F": "Date back"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 40,
+    "question": "\"önemli ölçüde\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Interval",
+      "B": "Failure",
+      "C": "Separate",
+      "D": "Deliberately",
+      "E": "Drastically",
+      "F": "Date back"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 41,
+    "question": "\"sürat\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Infrastructure",
+      "B": "Date back",
+      "C": "Separate",
+      "D": "Occupy",
+      "E": "Velocity",
+      "F": "Vessel"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 42,
+    "question": "\"tanınmış\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Vessel",
+      "B": "Resolution",
+      "C": "Failure",
+      "D": "Potable",
+      "E": "Eminent",
+      "F": "Diversity"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 43,
+    "question": "\"Infrastructure\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bozukluk",
+      "B": "kasıtlı olarak",
+      "C": "altyapı",
+      "D": "ayrılmak",
+      "E": "tuz oranı",
+      "F": "ara"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "\"altyapı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Famine",
+      "B": "Deliberately",
+      "C": "Salinity",
+      "D": "Infrastructure",
+      "E": "Occupy",
+      "F": "Resolution"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "\"tanınmış\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Infrastructure",
+      "B": "Eminent",
+      "C": "Deliberately",
+      "D": "Interval",
+      "E": "Velocity",
+      "F": "Stick to"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "\"önemli ölçüde\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Separate",
+      "B": "Eminent",
+      "C": "Drastically",
+      "D": "Famine",
+      "E": "Latitude",
+      "F": "Diversity"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Potable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aralık",
+      "B": "başarısızlık",
+      "C": "kap",
+      "D": "önemli ölçüde",
+      "E": "içilebilir",
+      "F": "çeşitlilik"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 48,
+    "question": "\"aralık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Weaken",
+      "B": "Occupy",
+      "C": "Inspiration",
+      "D": "Date back",
+      "E": "Diversity",
+      "F": "Interval"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "\"geçmişe dayanmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Latitude",
+      "B": "Date back",
+      "C": "Separate",
+      "D": "Resolution",
+      "E": "Interval",
+      "F": "Stick to"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "\"Eminent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tanınmış, seçkin",
+      "B": "çözüm",
+      "C": "ara",
+      "D": "kıtlık",
+      "E": "zayıflatmak",
+      "F": "aralık"
+    },
+    "correct": "A"
+  }
+]

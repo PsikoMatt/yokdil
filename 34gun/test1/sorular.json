@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Degradation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "itici güç",
+      "C": "ölüm",
+      "D": "gübre",
+      "E": "bozulma",
+      "F": "ile ilgili"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 2,
+    "question": "\"Uneven\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "takımyıldız",
+      "C": "değişken",
+      "D": "tutarlı",
+      "E": "magmatik",
+      "F": "ölüm"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"Alleviate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ihlal etmek",
+      "B": "evcil",
+      "C": "çarpıcı",
+      "D": "değişken",
+      "E": "hafifletmek",
+      "F": "magmatik"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 4,
+    "question": "\"Degradation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bozulma",
+      "B": "tutarlı",
+      "C": "magmatik",
+      "D": "çarpıcı",
+      "E": "itici güç",
+      "F": "gübre"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hafifletmek",
+      "B": "değişken",
+      "C": "ölüm",
+      "D": "yoğuşma",
+      "E": "emsalsiz",
+      "F": "takımyıldız"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"Satisfactory\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tutarlı",
+      "B": "ile ilgili",
+      "C": "tatmin edici",
+      "D": "evcil",
+      "E": "hafifletmek",
+      "F": "ihlal etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "\"Fertilizer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gübre",
+      "B": "yok etmek",
+      "C": "bulaşıcı",
+      "D": "tatmin edici",
+      "E": "takımyıldız",
+      "F": "ile ilgili"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "gübre",
+      "C": "artırmak",
+      "D": "çarpıcı",
+      "E": "itici güç",
+      "F": "takımyıldız"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "\"Condensation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğuşma",
+      "B": "ihlal etmek",
+      "C": "itici güç",
+      "D": "hafifletmek",
+      "E": "yok etmek",
+      "F": "gübre"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "evrim geçirmek",
+      "C": "magmatik",
+      "D": "gübre",
+      "E": "takımyıldız",
+      "F": "tatmin edici"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "\"Dramatic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tatmin edici",
+      "B": "yoğuşma",
+      "C": "çarpıcı",
+      "D": "ile ilgili",
+      "E": "evcil",
+      "F": "bulaşıcı"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "\"Related to\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "gübre",
+      "C": "hafifletmek",
+      "D": "ile ilgili",
+      "E": "artırmak",
+      "F": "yoğuşma"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "question": "\"Alleviate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tatmin edici",
+      "B": "bozulma",
+      "C": "takımyıldız",
+      "D": "değişken",
+      "E": "çarpıcı",
+      "F": "hafifletmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 14,
+    "question": "\"Evolve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "takımyıldız",
+      "B": "ile ilgili",
+      "C": "emsalsiz",
+      "D": "evrim geçirmek",
+      "E": "gübre",
+      "F": "itici güç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "\"Satisfactory\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "değişken",
+      "C": "tatmin edici",
+      "D": "çarpıcı",
+      "E": "evrim geçirmek",
+      "F": "bulaşıcı"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "değişken",
+      "C": "emsalsiz",
+      "D": "tatmin edici",
+      "E": "ölüm",
+      "F": "hafifletmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Alleviate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "bozulma",
+      "C": "hafifletmek",
+      "D": "artırmak",
+      "E": "itici güç",
+      "F": "yoğuşma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"Violate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "magmatik",
+      "B": "evrim geçirmek",
+      "C": "ihlal etmek",
+      "D": "tutarlı",
+      "E": "yok etmek",
+      "F": "tatmin edici"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"Degradation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bozulma",
+      "B": "evrim geçirmek",
+      "C": "evcil",
+      "D": "magmatik",
+      "E": "hafifletmek",
+      "F": "çarpıcı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "artırmak",
+      "B": "tutarlı",
+      "C": "evrim geçirmek",
+      "D": "emsalsiz",
+      "E": "değişken",
+      "F": "hafifletmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"Satisfactory\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gübre",
+      "B": "yok etmek",
+      "C": "bulaşıcı",
+      "D": "tatmin edici",
+      "E": "evcil",
+      "F": "ihlal etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Infectious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "çarpıcı",
+      "C": "bozulma",
+      "D": "bulaşıcı",
+      "E": "tutarlı",
+      "F": "itici güç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 23,
+    "question": "\"Augment\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "artırmak",
+      "B": "bozulma",
+      "C": "tutarlı",
+      "D": "hafifletmek",
+      "E": "değişken",
+      "F": "evrim geçirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "\"Igneous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tatmin edici",
+      "B": "magmatik",
+      "C": "çarpıcı",
+      "D": "bulaşıcı",
+      "E": "takımyıldız",
+      "F": "itici güç"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"Augment\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "ile ilgili",
+      "C": "evrim geçirmek",
+      "D": "artırmak",
+      "E": "değişken",
+      "F": "emsalsiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tatmin edici",
+      "B": "yok etmek",
+      "C": "gübre",
+      "D": "takımyıldız",
+      "E": "değişken",
+      "F": "ihlal etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "\"Demise\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "takımyıldız",
+      "C": "ölüm",
+      "D": "ile ilgili",
+      "E": "bulaşıcı",
+      "F": "hafifletmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "magmatik",
+      "B": "ihlal etmek",
+      "C": "değişken",
+      "D": "yok etmek",
+      "E": "takımyıldız",
+      "F": "evcil"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 29,
+    "question": "\"Wipe out\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek",
+      "B": "evcil",
+      "C": "bulaşıcı",
+      "D": "evrim geçirmek",
+      "E": "emsalsiz",
+      "F": "tutarlı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ihlal etmek",
+      "B": "hafifletmek",
+      "C": "takımyıldız",
+      "D": "emsalsiz",
+      "E": "ile ilgili",
+      "F": "artırmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "question": "\"Domestic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek",
+      "B": "ile ilgili",
+      "C": "evcil",
+      "D": "gübre",
+      "E": "emsalsiz",
+      "F": "itici güç"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "\"Evolve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hafifletmek",
+      "B": "evrim geçirmek",
+      "C": "çarpıcı",
+      "D": "ölüm",
+      "E": "ile ilgili",
+      "F": "yok etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "\"Condensation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "yoğuşma",
+      "C": "evrim geçirmek",
+      "D": "bozulma",
+      "E": "çarpıcı",
+      "F": "ile ilgili"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "\"Uneven\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "değişken",
+      "B": "bozulma",
+      "C": "artırmak",
+      "D": "ile ilgili",
+      "E": "evcil",
+      "F": "magmatik"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "\"Coherent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tatmin edici",
+      "B": "artırmak",
+      "C": "değişken",
+      "D": "bulaşıcı",
+      "E": "tutarlı",
+      "F": "ihlal etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 36,
+    "question": "\"Violate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ölüm",
+      "B": "bozulma",
+      "C": "ihlal etmek",
+      "D": "evrim geçirmek",
+      "E": "emsalsiz",
+      "F": "çarpıcı"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "\"Infectious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek",
+      "B": "ölüm",
+      "C": "ile ilgili",
+      "D": "bozulma",
+      "E": "tatmin edici",
+      "F": "bulaşıcı"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 38,
+    "question": "\"Fertilizer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "tutarlı",
+      "C": "magmatik",
+      "D": "gübre",
+      "E": "çarpıcı",
+      "F": "bulaşıcı"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "hafifletmek",
+      "C": "ihlal etmek",
+      "D": "gübre",
+      "E": "yoğuşma",
+      "F": "yok etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Fertilizer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "yok etmek",
+      "C": "gübre",
+      "D": "itici güç",
+      "E": "ihlal etmek",
+      "F": "artırmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "\"Igneous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "ihlal etmek",
+      "C": "magmatik",
+      "D": "gübre",
+      "E": "emsalsiz",
+      "F": "çarpıcı"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Condensation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "artırmak",
+      "B": "emsalsiz",
+      "C": "hafifletmek",
+      "D": "magmatik",
+      "E": "yoğuşma",
+      "F": "tatmin edici"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 43,
+    "question": "\"Evolve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "emsalsiz",
+      "C": "değişken",
+      "D": "evcil",
+      "E": "takımyıldız",
+      "F": "evrim geçirmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 44,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "emsalsiz",
+      "B": "evcil",
+      "C": "tutarlı",
+      "D": "yok etmek",
+      "E": "değişken",
+      "F": "evrim geçirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "\"Wipe out\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bulaşıcı",
+      "B": "yoğuşma",
+      "C": "yok etmek",
+      "D": "evcil",
+      "E": "tatmin edici",
+      "F": "emsalsiz"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "artırmak",
+      "B": "bozulma",
+      "C": "yoğuşma",
+      "D": "takımyıldız",
+      "E": "itici güç",
+      "F": "gübre"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "\"Wipe out\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ihlal etmek",
+      "B": "değişken",
+      "C": "yok etmek",
+      "D": "ile ilgili",
+      "E": "magmatik",
+      "F": "bozulma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 48,
+    "question": "\"Degradation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "magmatik",
+      "B": "bulaşıcı",
+      "C": "evcil",
+      "D": "ile ilgili",
+      "E": "bozulma",
+      "F": "değişken"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 49,
+    "question": "\"Satisfactory\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "hafifletmek",
+      "C": "çarpıcı",
+      "D": "tatmin edici",
+      "E": "artırmak",
+      "F": "itici güç"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 50,
+    "question": "\"Alleviate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gübre",
+      "B": "hafifletmek",
+      "C": "emsalsiz",
+      "D": "bozulma",
+      "E": "çarpıcı",
+      "F": "değişken"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 51,
+    "question": "\"Violate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ölüm",
+      "B": "değişken",
+      "C": "ihlal etmek",
+      "D": "tatmin edici",
+      "E": "takımyıldız",
+      "F": "magmatik"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "\"Satisfactory\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yoğuşma",
+      "B": "çarpıcı",
+      "C": "ile ilgili",
+      "D": "gübre",
+      "E": "tatmin edici",
+      "F": "değişken"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 53,
+    "question": "\"Uneven\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çarpıcı",
+      "B": "tatmin edici",
+      "C": "emsalsiz",
+      "D": "değişken",
+      "E": "yok etmek",
+      "F": "gübre"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 54,
+    "question": "\"Fertilizer\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gübre",
+      "B": "magmatik",
+      "C": "ölüm",
+      "D": "bulaşıcı",
+      "E": "hafifletmek",
+      "F": "çarpıcı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "\"Constellation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hafifletmek",
+      "B": "evcil",
+      "C": "magmatik",
+      "D": "çarpıcı",
+      "E": "takımyıldız",
+      "F": "tatmin edici"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 56,
+    "question": "\"Dramatic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek",
+      "B": "çarpıcı",
+      "C": "artırmak",
+      "D": "itici güç",
+      "E": "ihlal etmek",
+      "F": "takımyıldız"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 57,
+    "question": "\"Unprecedented\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "evcil",
+      "B": "yok etmek",
+      "C": "ölüm",
+      "D": "çarpıcı",
+      "E": "emsalsiz",
+      "F": "yoğuşma"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 58,
+    "question": "\"Condensation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yok etmek",
+      "B": "bozulma",
+      "C": "takımyıldız",
+      "D": "ile ilgili",
+      "E": "yoğuşma",
+      "F": "evrim geçirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 59,
+    "question": "\"Wipe out\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ölüm",
+      "B": "yok etmek",
+      "C": "takımyıldız",
+      "D": "ihlal etmek",
+      "E": "değişken",
+      "F": "evrim geçirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 60,
+    "question": "\"Impetus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çarpıcı",
+      "B": "ile ilgili",
+      "C": "itici güç",
+      "D": "evrim geçirmek",
+      "E": "ölüm",
+      "F": "takımyıldız"
+    },
+    "correct": "C"
+  }
+]

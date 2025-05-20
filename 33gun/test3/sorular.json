@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"zorla kabul ettirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Debris",
+      "B": "Enforce",
+      "C": "Prosperous",
+      "D": "Defect",
+      "E": "Expend",
+      "F": "Meticulous"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "\"yörünge\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Starvation",
+      "B": "Impurity",
+      "C": "Orbit",
+      "D": "Residual",
+      "E": "Handle",
+      "F": "Exemplify"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"refah içinde\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Handle",
+      "B": "Prosperous",
+      "C": "Residual",
+      "D": "Defect",
+      "E": "Meticulous",
+      "F": "Preventive"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "question": "\"temsil etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Exemplify",
+      "B": "Enforce",
+      "C": "Obsolete",
+      "D": "Preventive",
+      "E": "Residual",
+      "F": "Impurity"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "\"önleyici\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Handle",
+      "B": "Preventive",
+      "C": "Starvation",
+      "D": "Residual",
+      "E": "Obsolete",
+      "F": "Meticulous"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "\"zorunlu\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Orbit",
+      "B": "Feasible",
+      "C": "Handle",
+      "D": "Residual",
+      "E": "Indispensable",
+      "F": "Expend"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 7,
+    "question": "\"yıkıntı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Debris",
+      "B": "Preventive",
+      "C": "Irrelevant",
+      "D": "Impurity",
+      "E": "Handle",
+      "F": "Starvation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "\"önleyici\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Residual",
+      "B": "Lubricate",
+      "C": "Starvation",
+      "D": "Expend",
+      "E": "Preventive",
+      "F": "Handle"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 9,
+    "question": "\"Irrelevant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-den kaynaklanmak",
+      "B": "kalıntı",
+      "C": "harcamak",
+      "D": "dikkatli",
+      "E": "ilgisiz, alakasız",
+      "F": "kusur"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "\"Feasible\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-den kaynaklanmak",
+      "B": "makul, uygulanabilir",
+      "C": "tüketmek",
+      "D": "yörünge",
+      "E": "eskimiş",
+      "F": "enkaz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "\"uygulanabilir\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Starvation",
+      "B": "Prosperous",
+      "C": "Handle",
+      "D": "Feasible",
+      "E": "Orbit",
+      "F": "Exemplify"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "\"Prosperous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zengin, refah içinde",
+      "B": "artık",
+      "C": "her zaman",
+      "D": "açlık",
+      "E": "daima",
+      "F": "uygulanabilir"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"Irrelevant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "koruyucu",
+      "B": "ilgisiz, alakasız",
+      "C": "artık",
+      "D": "harcamak",
+      "E": "refah içinde",
+      "F": "örneklemek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "\"üstesinden gelmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Expend",
+      "B": "Prosperous",
+      "C": "Residual",
+      "D": "Handle",
+      "E": "Irrelevant",
+      "F": "Stem from"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "\"önleyici\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Stem from",
+      "B": "Irrelevant",
+      "C": "Meticulous",
+      "D": "Invariably",
+      "E": "Preventive",
+      "F": "Exemplify"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 16,
+    "question": "\"zengin\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Indispensable",
+      "B": "Impurity",
+      "C": "Prosperous",
+      "D": "Starvation",
+      "E": "Defect",
+      "F": "Obsolete"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Enforce\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ilgisiz",
+      "B": "yağlamak",
+      "C": "kirlilik",
+      "D": "enkaz",
+      "E": "uygulamak, zorla kabul ettirmek",
+      "F": "kalıntı"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 18,
+    "question": "\"örneklemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Debris",
+      "B": "Obsolete",
+      "C": "Indispensable",
+      "D": "Preventive",
+      "E": "Exemplify",
+      "F": "Defect"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 19,
+    "question": "\"kirlilik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Expend",
+      "B": "Impurity",
+      "C": "Obsolete",
+      "D": "Irrelevant",
+      "E": "Enforce",
+      "F": "Invariably"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "\"tortusal\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Residual",
+      "B": "Stem from",
+      "C": "Exemplify",
+      "D": "Enforce",
+      "E": "Defect",
+      "F": "Starvation"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "\"zorunlu\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Defect",
+      "B": "Preventive",
+      "C": "Irrelevant",
+      "D": "Meticulous",
+      "E": "Indispensable",
+      "F": "Residual"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 22,
+    "question": "\"önleyici\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Residual",
+      "B": "Exemplify",
+      "C": "Invariably",
+      "D": "Preventive",
+      "E": "Meticulous",
+      "F": "Enforce"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 23,
+    "question": "\"Handle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "makul",
+      "B": "her zaman",
+      "C": "üstesinden gelmek, başa çıkmak",
+      "D": "titiz",
+      "E": "vazgeçilmez",
+      "F": "eskimiş"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "question": "\"eskimiş\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Exemplify",
+      "B": "Impurity",
+      "C": "Obsolete",
+      "D": "Handle",
+      "E": "Indispensable",
+      "F": "Meticulous"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 25,
+    "question": "\"Residual\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ilgisiz",
+      "B": "refah içinde",
+      "C": "artık, tortusal",
+      "D": "-den kaynaklanmak",
+      "E": "yörünge",
+      "F": "başa çıkmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "\"dikkatli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Debris",
+      "B": "Preventive",
+      "C": "Impurity",
+      "D": "Meticulous",
+      "E": "Obsolete",
+      "F": "Handle"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "\"refah içinde\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Irrelevant",
+      "B": "Prosperous",
+      "C": "Residual",
+      "D": "Obsolete",
+      "E": "Lubricate",
+      "F": "Enforce"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "\"Orbit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dikkatli",
+      "B": "yörünge",
+      "C": "üstesinden gelmek",
+      "D": "eskimiş",
+      "E": "açlık",
+      "F": "enkaz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "\"bozukluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Enforce",
+      "B": "Debris",
+      "C": "Obsolete",
+      "D": "Prosperous",
+      "E": "Defect",
+      "F": "Invariably"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 30,
+    "question": "\"her zaman\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Starvation",
+      "B": "Exemplify",
+      "C": "Defect",
+      "D": "Invariably",
+      "E": "Indispensable",
+      "F": "Meticulous"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 31,
+    "question": "\"-den kaynaklanmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Feasible",
+      "B": "Handle",
+      "C": "Invariably",
+      "D": "Preventive",
+      "E": "Exemplify",
+      "F": "Stem from"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 32,
+    "question": "\"Impurity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eskimiş",
+      "B": "kirlilik",
+      "C": "ilgisiz",
+      "D": "uygulanabilir",
+      "E": "artık",
+      "F": "yıkıntı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "\"Obsolete\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bozukluk",
+      "B": "koruyucu",
+      "C": "modası geçmiş, demode, eskimiş",
+      "D": "refah içinde",
+      "E": "artık",
+      "F": "tüketmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "\"yağlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Preventive",
+      "B": "Obsolete",
+      "C": "Exemplify",
+      "D": "Residual",
+      "E": "Lubricate",
+      "F": "Impurity"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"zorla kabul ettirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Feasible",
+      "B": "Enforce",
+      "C": "Expend",
+      "D": "Exemplify",
+      "E": "Defect",
+      "F": "Meticulous"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"Preventive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yıkıntı",
+      "B": "makul",
+      "C": "önleyici, koruyucu",
+      "D": "tortusal",
+      "E": "zorunlu",
+      "F": "zorla kabul ettirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "\"yörünge\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Stem from",
+      "B": "Starvation",
+      "C": "Handle",
+      "D": "Orbit",
+      "E": "Invariably",
+      "F": "Expend"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Handle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygulamak",
+      "B": "kalıntı",
+      "C": "üstesinden gelmek, başa çıkmak",
+      "D": "açlık",
+      "E": "kirlilik",
+      "F": "her zaman"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "\"Meticulous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "enkaz",
+      "B": "titiz, dikkatli",
+      "C": "kalıntı",
+      "D": "demode",
+      "E": "temsil etmek",
+      "F": "yağlamak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "\"Exemplify\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "örneklemek, temsil etmek",
+      "B": "dikkatli",
+      "C": "enkaz",
+      "D": "daima",
+      "E": "artık",
+      "F": "zorunlu"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "\"örneklemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Exemplify",
+      "B": "Meticulous",
+      "C": "Handle",
+      "D": "Expend",
+      "E": "Enforce",
+      "F": "Invariably"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "\"kirlilik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Meticulous",
+      "B": "Impurity",
+      "C": "Handle",
+      "D": "Orbit",
+      "E": "Invariably",
+      "F": "Prosperous"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "question": "\"titiz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Obsolete",
+      "B": "Exemplify",
+      "C": "Meticulous",
+      "D": "Impurity",
+      "E": "Defect",
+      "F": "Handle"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "\"yağlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Lubricate",
+      "B": "Exemplify",
+      "C": "Feasible",
+      "D": "Enforce",
+      "E": "Defect",
+      "F": "Preventive"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "\"kusur\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Residual",
+      "B": "Feasible",
+      "C": "Defect",
+      "D": "Meticulous",
+      "E": "Indispensable",
+      "F": "Orbit"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "\"daima\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Stem from",
+      "B": "Orbit",
+      "C": "Irrelevant",
+      "D": "Handle",
+      "E": "Defect",
+      "F": "Invariably"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 47,
+    "question": "\"Preventive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zorunlu",
+      "B": "önleyici, koruyucu",
+      "C": "demode",
+      "D": "titiz",
+      "E": "zorla kabul ettirmek",
+      "F": "-den kaynaklanmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "\"Prosperous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygulanabilir",
+      "B": "zengin, refah içinde",
+      "C": "yağlamak",
+      "D": "zorunlu",
+      "E": "yıkıntı",
+      "F": "kusur"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "\"Handle\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kirlilik",
+      "B": "kusur",
+      "C": "uygulamak",
+      "D": "alakasız",
+      "E": "üstesinden gelmek, başa çıkmak",
+      "F": "önleyici"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "\"ilgisiz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Enforce",
+      "B": "Irrelevant",
+      "C": "Handle",
+      "D": "Prosperous",
+      "E": "Indispensable",
+      "F": "Invariably"
+    },
+    "correct": "B"
+  }
+]
