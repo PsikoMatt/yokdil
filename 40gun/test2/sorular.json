@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Transparent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tohum",
+      "B": "dahil etmek",
+      "C": "sürekli olarak",
+      "D": "yalnızca",
+      "E": "şeffaf",
+      "F": "olgunluk"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 2,
+    "question": "\"Detrimental\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kapsamlı",
+      "B": "şeffaf",
+      "C": "sınırlamak",
+      "D": "tohum",
+      "E": "zararlı",
+      "F": "yalnızca"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 3,
+    "question": "\"yalnızca\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Merely",
+      "B": "Be regarded as",
+      "C": "Shaded",
+      "D": "Jeopardize",
+      "E": "Amplitude",
+      "F": "Upgrade"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "\"tohum\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Jeopardize",
+      "B": "Detrimental",
+      "C": "Merely",
+      "D": "Spoil",
+      "E": "Seed",
+      "F": "Dissipate"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 5,
+    "question": "\"Spoil\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çarçur etmek",
+      "B": "bozulmak",
+      "C": "dahil etmek",
+      "D": "tehlikeye atmak",
+      "E": "geliştirmek",
+      "F": "yalnızca"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "\"Considerable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gölgeli",
+      "B": "önemli ölçüde",
+      "C": "bozulmak",
+      "D": "kapsamlı",
+      "E": "genlik",
+      "F": "olgunluk"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "\"Integral\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ayrılmaz",
+      "B": "önemli ölçüde",
+      "C": "şeffaf",
+      "D": "sınırlamak",
+      "E": "olgunluk",
+      "F": "geri döndürülemez"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "\"Amplitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sürekli olarak",
+      "B": "sınırlamak",
+      "C": "genlik",
+      "D": "yalnızca",
+      "E": "gölgeli",
+      "F": "olarak kabul edilmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "\"Shaded\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geliştirmek",
+      "B": "çarçur etmek",
+      "C": "sürekli olarak",
+      "D": "dahil etmek",
+      "E": "geri döndürülemez",
+      "F": "gölgeli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 10,
+    "question": "\"Upgrade\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri döndürülemez",
+      "B": "olgunluk",
+      "C": "olarak kabul edilmek",
+      "D": "ayrılmaz",
+      "E": "zararlı",
+      "F": "geliştirmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"Be regarded as\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olgunluk",
+      "B": "bozulmak",
+      "C": "gölgeli",
+      "D": "olarak kabul edilmek",
+      "E": "tohum",
+      "F": "sınırlamak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "\"bozulmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Feverishly",
+      "B": "Considerable",
+      "C": "Jeopardize",
+      "D": "Incorporate",
+      "E": "Upgrade",
+      "F": "Spoil"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 13,
+    "question": "\"Considerable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yalnızca",
+      "B": "şeffaf",
+      "C": "tehlikeye atmak",
+      "D": "olgunluk",
+      "E": "önemli ölçüde",
+      "F": "kapsamlı"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 14,
+    "question": "\"Transparent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çarçur etmek",
+      "B": "ayrılmaz",
+      "C": "sınırlamak",
+      "D": "kapsamlı",
+      "E": "olarak kabul edilmek",
+      "F": "şeffaf"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 15,
+    "question": "\"çarçur etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Upgrade",
+      "B": "Considerable",
+      "C": "Incorporate",
+      "D": "Restrict",
+      "E": "Dissipate",
+      "F": "Merely"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 16,
+    "question": "\"Comprehensive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sürekli olarak",
+      "B": "tehlikeye atmak",
+      "C": "geri döndürülemez",
+      "D": "çarçur etmek",
+      "E": "sınırlamak",
+      "F": "kapsamlı"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 17,
+    "question": "\"sürekli olarak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Comprehensive",
+      "B": "Restrict",
+      "C": "Feverishly",
+      "D": "Integral",
+      "E": "Consistently",
+      "F": "Jeopardize"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 18,
+    "question": "\"Upgrade\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geliştirmek",
+      "B": "çarçur etmek",
+      "C": "bozulmak",
+      "D": "yalnızca",
+      "E": "tehlikeye atmak",
+      "F": "olarak kabul edilmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "\"genlik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Maturity",
+      "B": "Upgrade",
+      "C": "Considerable",
+      "D": "Seed",
+      "E": "Merely",
+      "F": "Amplitude"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 20,
+    "question": "\"olgunluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Be regarded as",
+      "B": "Amplitude",
+      "C": "Incorporate",
+      "D": "Restrict",
+      "E": "Maturity",
+      "F": "Considerable"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 21,
+    "question": "\"Restrict\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri döndürülemez",
+      "B": "önemli ölçüde",
+      "C": "gölgeli",
+      "D": "sınırlamak",
+      "E": "harıl harıl",
+      "F": "sürekli olarak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Seed\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sınırlamak",
+      "B": "tohum",
+      "C": "harıl harıl",
+      "D": "geri döndürülemez",
+      "E": "sürekli olarak",
+      "F": "çarçur etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "question": "\"Incorporate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şeffaf",
+      "B": "genlik",
+      "C": "tohum",
+      "D": "geliştirmek",
+      "E": "geri döndürülemez",
+      "F": "dahil etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 24,
+    "question": "\"Seed\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olgunluk",
+      "B": "tohum",
+      "C": "gölgeli",
+      "D": "sürekli olarak",
+      "E": "geri döndürülemez",
+      "F": "olarak kabul edilmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"çarçur etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Maturity",
+      "B": "Dissipate",
+      "C": "Integral",
+      "D": "Be regarded as",
+      "E": "Considerable",
+      "F": "Shaded"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "\"Consistently\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "harıl harıl",
+      "B": "sürekli olarak",
+      "C": "kapsamlı",
+      "D": "tohum",
+      "E": "yalnızca",
+      "F": "gölgeli"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "\"Jeopardize\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "genlik",
+      "B": "çarçur etmek",
+      "C": "sınırlamak",
+      "D": "şeffaf",
+      "E": "önemli ölçüde",
+      "F": "tehlikeye atmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 28,
+    "question": "\"sınırlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Jeopardize",
+      "B": "Dissipate",
+      "C": "Restrict",
+      "D": "Detrimental",
+      "E": "Seed",
+      "F": "Considerable"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 29,
+    "question": "\"Be regarded as\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geri döndürülemez",
+      "B": "olarak kabul edilmek",
+      "C": "sürekli olarak",
+      "D": "gölgeli",
+      "E": "çarçur etmek",
+      "F": "şeffaf"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "\"genlik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Incorporate",
+      "B": "Spoil",
+      "C": "Comprehensive",
+      "D": "Seed",
+      "E": "Irreversible",
+      "F": "Amplitude"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 31,
+    "question": "\"geliştirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Integral",
+      "B": "Amplitude",
+      "C": "Consistently",
+      "D": "Upgrade",
+      "E": "Jeopardize",
+      "F": "Irreversible"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "\"Detrimental\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olgunluk",
+      "B": "bozulmak",
+      "C": "sınırlamak",
+      "D": "zararlı",
+      "E": "geri döndürülemez",
+      "F": "çarçur etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "\"Upgrade\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olgunluk",
+      "B": "geliştirmek",
+      "C": "tehlikeye atmak",
+      "D": "olarak kabul edilmek",
+      "E": "geri döndürülemez",
+      "F": "kapsamlı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "\"Shaded\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olarak kabul edilmek",
+      "B": "önemli ölçüde",
+      "C": "sürekli olarak",
+      "D": "yalnızca",
+      "E": "gölgeli",
+      "F": "harıl harıl"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"önemli ölçüde\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Transparent",
+      "B": "Considerable",
+      "C": "Dissipate",
+      "D": "Comprehensive",
+      "E": "Merely",
+      "F": "Be regarded as"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"şeffaf\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Be regarded as",
+      "B": "Merely",
+      "C": "Transparent",
+      "D": "Seed",
+      "E": "Integral",
+      "F": "Upgrade"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "\"çarçur etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Comprehensive",
+      "B": "Considerable",
+      "C": "Maturity",
+      "D": "Restrict",
+      "E": "Be regarded as",
+      "F": "Dissipate"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 38,
+    "question": "\"olgunluk\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Considerable",
+      "B": "Upgrade",
+      "C": "Amplitude",
+      "D": "Consistently",
+      "E": "Maturity",
+      "F": "Dissipate"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "\"Transparent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şeffaf",
+      "B": "harıl harıl",
+      "C": "sürekli olarak",
+      "D": "çarçur etmek",
+      "E": "geliştirmek",
+      "F": "dahil etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"bozulmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Maturity",
+      "B": "Spoil",
+      "C": "Feverishly",
+      "D": "Seed",
+      "E": "Jeopardize",
+      "F": "Dissipate"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "\"Restrict\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tohum",
+      "B": "çarçur etmek",
+      "C": "genlik",
+      "D": "olgunluk",
+      "E": "dahil etmek",
+      "F": "sınırlamak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 42,
+    "question": "\"tohum\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Seed",
+      "B": "Consistently",
+      "C": "Incorporate",
+      "D": "Detrimental",
+      "E": "Amplitude",
+      "F": "Merely"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "\"Maturity\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ayrılmaz",
+      "B": "genlik",
+      "C": "olgunluk",
+      "D": "bozulmak",
+      "E": "geliştirmek",
+      "F": "kapsamlı"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "\"Amplitude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "olgunluk",
+      "B": "şeffaf",
+      "C": "zararlı",
+      "D": "genlik",
+      "E": "tehlikeye atmak",
+      "F": "geri döndürülemez"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "\"sınırlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Spoil",
+      "B": "Restrict",
+      "C": "Incorporate",
+      "D": "Be regarded as",
+      "E": "Transparent",
+      "F": "Upgrade"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "\"Transparent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önemli ölçüde",
+      "B": "genlik",
+      "C": "çarçur etmek",
+      "D": "şeffaf",
+      "E": "dahil etmek",
+      "F": "yalnızca"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "\"genlik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Amplitude",
+      "B": "Spoil",
+      "C": "Considerable",
+      "D": "Feverishly",
+      "E": "Detrimental",
+      "F": "Consistently"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "\"Spoil\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bozulmak",
+      "B": "olarak kabul edilmek",
+      "C": "kapsamlı",
+      "D": "çarçur etmek",
+      "E": "harıl harıl",
+      "F": "sürekli olarak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "\"yalnızca\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Feverishly",
+      "B": "Maturity",
+      "C": "Dissipate",
+      "D": "Comprehensive",
+      "E": "Merely",
+      "F": "Integral"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "\"Comprehensive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geliştirmek",
+      "B": "kapsamlı",
+      "C": "geri döndürülemez",
+      "D": "yalnızca",
+      "E": "önemli ölçüde",
+      "F": "gölgeli"
+    },
+    "correct": "B"
+  }
+]

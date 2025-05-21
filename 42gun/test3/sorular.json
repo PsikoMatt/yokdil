@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Controversial\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zorlu",
+      "B": "samanyolu",
+      "C": "inşa etmek",
+      "D": "tartışmalı",
+      "E": "kazanım",
+      "F": "ilham vermek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "\"Challenging\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bölmek",
+      "B": "büyük çoğunlukla",
+      "C": "zorlu",
+      "D": "öğrenmek",
+      "E": "karmaşık",
+      "F": "temsil etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Split",
+      "B": "Instantly",
+      "C": "Impede",
+      "D": "Nucleus",
+      "E": "Construct",
+      "F": "Proximity"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "\"inşa etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Construct",
+      "B": "Controversial",
+      "C": "Represent",
+      "D": "Predominantly",
+      "E": "Intricate",
+      "F": "Recognition"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "\"samanyolu\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Split",
+      "B": "Scope",
+      "C": "Milky way",
+      "D": "Construct",
+      "E": "Inspire",
+      "F": "Proximity"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "question": "\"Scope\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "büyük çoğunlukla",
+      "B": "çekirdek",
+      "C": "kapsam",
+      "D": "engellemek",
+      "E": "samanyolu",
+      "F": "ilham vermek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "\"Gauge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "karmaşık",
+      "B": "ölçmek",
+      "C": "çekirdek",
+      "D": "tartışmalı",
+      "E": "yakınlık",
+      "F": "-ile sonuçlanmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "\"tartışmalı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Controversial",
+      "B": "Scope",
+      "C": "Frigid",
+      "D": "Proximity",
+      "E": "Result in",
+      "F": "Predominantly"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "\"Impede\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tartışmalı",
+      "B": "aniden",
+      "C": "-ile sonuçlanmak",
+      "D": "ilham vermek",
+      "E": "kapsam",
+      "F": "engellemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 10,
+    "question": "\"Predominantly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "öğrenmek",
+      "B": "samanyolu",
+      "C": "karmaşık",
+      "D": "bölmek",
+      "E": "ölçmek",
+      "F": "büyük çoğunlukla"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 11,
+    "question": "\"Nucleus\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çekirdek",
+      "B": "kazanım",
+      "C": "tartışmalı",
+      "D": "ilham vermek",
+      "E": "inşa etmek",
+      "F": "büyük çoğunlukla"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "\"inşa etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Construct",
+      "B": "Nucleus",
+      "C": "Instantly",
+      "D": "Intricate",
+      "E": "Controversial",
+      "F": "Represent"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"Intricate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zorlu",
+      "B": "aniden",
+      "C": "karmaşık",
+      "D": "inşa etmek",
+      "E": "yakınlık",
+      "F": "temsil etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"kazanım\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Proximity",
+      "B": "Impede",
+      "C": "Acquisition",
+      "D": "Controversial",
+      "E": "Predominantly",
+      "F": "Recognition"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "\"Split\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "samanyolu",
+      "B": "bölmek",
+      "C": "karmaşık",
+      "D": "tanıma",
+      "E": "kapsam",
+      "F": "temsil etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "question": "\"Instantly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-ile sonuçlanmak",
+      "B": "öğrenmek",
+      "C": "büyük çoğunlukla",
+      "D": "aniden",
+      "E": "ölçmek",
+      "F": "inşa etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "\"kazanım\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Instantly",
+      "B": "Construct",
+      "C": "Controversial",
+      "D": "Milky way",
+      "E": "Acquisition",
+      "F": "Nucleus"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 18,
+    "question": "\"büyük çoğunlukla\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Instantly",
+      "B": "Gauge",
+      "C": "Predominantly",
+      "D": "Impede",
+      "E": "Inspire",
+      "F": "Result in"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "\"yakınlık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Predominantly",
+      "B": "Instantly",
+      "C": "Recognition",
+      "D": "Result in",
+      "E": "Proximity",
+      "F": "Milky way"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 20,
+    "question": "\"Find out\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yakınlık",
+      "B": "kazanım",
+      "C": "dondurucu",
+      "D": "-ile sonuçlanmak",
+      "E": "tartışmalı",
+      "F": "öğrenmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 21,
+    "question": "\"Milky way\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "inşa etmek",
+      "B": "aniden",
+      "C": "temsil etmek",
+      "D": "dondurucu",
+      "E": "samanyolu",
+      "F": "karmaşık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 22,
+    "question": "\"çekirdek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Impede",
+      "B": "Challenging",
+      "C": "Nucleus",
+      "D": "Predominantly",
+      "E": "Intricate",
+      "F": "Find out"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "\"ilham vermek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Intricate",
+      "B": "Scope",
+      "C": "Inspire",
+      "D": "Milky way",
+      "E": "Instantly",
+      "F": "Split"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "question": "\"karmaşık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Scope",
+      "B": "Impede",
+      "C": "Instantly",
+      "D": "Frigid",
+      "E": "Intricate",
+      "F": "Milky way"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "\"tartışmalı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Result in",
+      "B": "Predominantly",
+      "C": "Gauge",
+      "D": "Impede",
+      "E": "Nucleus",
+      "F": "Controversial"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 26,
+    "question": "\"karmaşık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Milky way",
+      "B": "Split",
+      "C": "Represent",
+      "D": "Intricate",
+      "E": "Scope",
+      "F": "Proximity"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "\"Inspire\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ilham vermek",
+      "B": "öğrenmek",
+      "C": "ölçmek",
+      "D": "tanıma",
+      "E": "karmaşık",
+      "F": "büyük çoğunlukla"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "\"tartışmalı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Split",
+      "B": "Predominantly",
+      "C": "Construct",
+      "D": "Represent",
+      "E": "Challenging",
+      "F": "Controversial"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 29,
+    "question": "\"Intricate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aniden",
+      "B": "tanıma",
+      "C": "karmaşık",
+      "D": "tartışmalı",
+      "E": "kapsam",
+      "F": "öğrenmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "\"Result in\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tanıma",
+      "B": "büyük çoğunlukla",
+      "C": "-ile sonuçlanmak",
+      "D": "engellemek",
+      "E": "dondurucu",
+      "F": "samanyolu"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "question": "\"Intricate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "temsil etmek",
+      "B": "-ile sonuçlanmak",
+      "C": "tanıma",
+      "D": "inşa etmek",
+      "E": "ilham vermek",
+      "F": "karmaşık"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 32,
+    "question": "\"Result in\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ölçmek",
+      "B": "samanyolu",
+      "C": "yakınlık",
+      "D": "-ile sonuçlanmak",
+      "E": "kazanım",
+      "F": "kapsam"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "\"Predominantly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bölmek",
+      "B": "ilham vermek",
+      "C": "aniden",
+      "D": "inşa etmek",
+      "E": "samanyolu",
+      "F": "büyük çoğunlukla"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"kapsam\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Scope",
+      "B": "Gauge",
+      "C": "Find out",
+      "D": "Recognition",
+      "E": "Challenging",
+      "F": "Nucleus"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "\"Intricate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "samanyolu",
+      "B": "karmaşık",
+      "C": "öğrenmek",
+      "D": "engellemek",
+      "E": "ölçmek",
+      "F": "ilham vermek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"Frigid\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dondurucu",
+      "B": "bölmek",
+      "C": "-ile sonuçlanmak",
+      "D": "ölçmek",
+      "E": "aniden",
+      "F": "karmaşık"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "\"Controversial\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ölçmek",
+      "B": "çekirdek",
+      "C": "tanıma",
+      "D": "tartışmalı",
+      "E": "büyük çoğunlukla",
+      "F": "-ile sonuçlanmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Acquisition\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çekirdek",
+      "B": "kazanım",
+      "C": "kapsam",
+      "D": "ilham vermek",
+      "E": "öğrenmek",
+      "F": "bölmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "\"Result in\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yakınlık",
+      "B": "çekirdek",
+      "C": "kazanım",
+      "D": "-ile sonuçlanmak",
+      "E": "bölmek",
+      "F": "ölçmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "\"çekirdek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Nucleus",
+      "B": "Inspire",
+      "C": "Split",
+      "D": "Milky way",
+      "E": "Result in",
+      "F": "Predominantly"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "\"bölmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Gauge",
+      "B": "Recognition",
+      "C": "Split",
+      "D": "Scope",
+      "E": "Proximity",
+      "F": "Inspire"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Inspire\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kazanım",
+      "B": "tartışmalı",
+      "C": "ilham vermek",
+      "D": "öğrenmek",
+      "E": "bölmek",
+      "F": "büyük çoğunlukla"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "\"Result in\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-ile sonuçlanmak",
+      "B": "aniden",
+      "C": "dondurucu",
+      "D": "çekirdek",
+      "E": "inşa etmek",
+      "F": "temsil etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "\"Construct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "-ile sonuçlanmak",
+      "B": "kapsam",
+      "C": "inşa etmek",
+      "D": "kazanım",
+      "E": "tanıma",
+      "F": "yakınlık"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 45,
+    "question": "\"tartışmalı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Inspire",
+      "B": "Controversial",
+      "C": "Nucleus",
+      "D": "Find out",
+      "E": "Proximity",
+      "F": "Acquisition"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "\"Construct\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "aniden",
+      "B": "temsil etmek",
+      "C": "inşa etmek",
+      "D": "yakınlık",
+      "E": "karmaşık",
+      "F": "büyük çoğunlukla"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Find out\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tartışmalı",
+      "B": "öğrenmek",
+      "C": "büyük çoğunlukla",
+      "D": "ilham vermek",
+      "E": "kapsam",
+      "F": "zorlu"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "\"Predominantly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bölmek",
+      "B": "tanıma",
+      "C": "öğrenmek",
+      "D": "engellemek",
+      "E": "büyük çoğunlukla",
+      "F": "kapsam"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 49,
+    "question": "\"öğrenmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Find out",
+      "B": "Impede",
+      "C": "Intricate",
+      "D": "Represent",
+      "E": "Milky way",
+      "F": "Acquisition"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 50,
+    "question": "\"yakınlık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Inspire",
+      "B": "Impede",
+      "C": "Split",
+      "D": "Scope",
+      "E": "Recognition",
+      "F": "Proximity"
+    },
+    "correct": "F"
+  }
+]

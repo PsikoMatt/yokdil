@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Soar\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yapıştırıcı",
+      "B": "cevher",
+      "C": "direnç",
+      "D": "ikna etmek",
+      "E": "hızla artmak",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 2,
+    "question": "\"Greenhouse gas\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşfetmek",
+      "B": "yapıştırıcı",
+      "C": "sera gazı",
+      "D": "cevher",
+      "E": "engellemek",
+      "F": "kesin"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "\"Feed\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hızla çoğalmak",
+      "B": "kesin",
+      "C": "sahip olmak",
+      "D": "engellemek",
+      "E": "beslemek",
+      "F": "yapıştırıcı"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 4,
+    "question": "\"hızla artmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Possess",
+      "B": "Greenhouse gas",
+      "C": "Soar",
+      "D": "Proliferate",
+      "E": "Violent",
+      "F": "Feed"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "question": "\"Proliferate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "kesin",
+      "C": "beslemek",
+      "D": "bol",
+      "E": "koku",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"koku\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Feed",
+      "B": "Odour",
+      "C": "Abundant",
+      "D": "Explore",
+      "E": "Receive",
+      "F": "Violent"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "\"Greenhouse gas\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yapıştırıcı",
+      "B": "az oranda",
+      "C": "cevher",
+      "D": "göçebe",
+      "E": "koku",
+      "F": "sera gazı"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "\"Soar\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ikna etmek",
+      "B": "şiddetli",
+      "C": "sahip olmak",
+      "D": "hızla artmak",
+      "E": "cevher",
+      "F": "geniş çapta"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 9,
+    "question": "\"sera gazı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Odour",
+      "B": "Feed",
+      "C": "Ore",
+      "D": "Greenhouse gas",
+      "E": "Slightly",
+      "F": "Extensively"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "\"Extensively\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "beslemek",
+      "B": "koku",
+      "C": "sahip olmak",
+      "D": "geniş çapta",
+      "E": "cevher",
+      "F": "şiddetli"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "\"Soar\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sahip olmak",
+      "B": "direnç",
+      "C": "keşfetmek",
+      "D": "az oranda",
+      "E": "hızla artmak",
+      "F": "cevher"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Definite",
+      "B": "Abundant",
+      "C": "Hinder",
+      "D": "Odour",
+      "E": "Feed",
+      "F": "Waste"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "\"Abundant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bol",
+      "B": "atık",
+      "C": "yapıştırıcı",
+      "D": "direnç",
+      "E": "sahip olmak",
+      "F": "az oranda"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "\"Resistance\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "sahip olmak",
+      "C": "direnç",
+      "D": "engellemek",
+      "E": "ikna etmek",
+      "F": "almak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "\"almak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Explore",
+      "B": "Soar",
+      "C": "Receive",
+      "D": "Adhesive",
+      "E": "Proliferate",
+      "F": "Nomadic"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "\"az oranda\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Possess",
+      "B": "Ore",
+      "C": "Extensively",
+      "D": "Waste",
+      "E": "Slightly",
+      "F": "Violent"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 17,
+    "question": "\"almak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Receive",
+      "B": "Adhesive",
+      "C": "Resistance",
+      "D": "Greenhouse gas",
+      "E": "Convince",
+      "F": "Soar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "\"beslemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Waste",
+      "B": "Adhesive",
+      "C": "Soar",
+      "D": "Resistance",
+      "E": "Feed",
+      "F": "Hinder"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 19,
+    "question": "\"yapıştırıcı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Adhesive",
+      "B": "Hinder",
+      "C": "Soar",
+      "D": "Feed",
+      "E": "Waste",
+      "F": "Violent"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "\"cevher\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Greenhouse gas",
+      "B": "Ore",
+      "C": "Abundant",
+      "D": "Resistance",
+      "E": "Feed",
+      "F": "Waste"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "\"direnç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Slightly",
+      "B": "Greenhouse gas",
+      "C": "Ore",
+      "D": "Nomadic",
+      "E": "Convince",
+      "F": "Resistance"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 22,
+    "question": "\"Possess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin",
+      "B": "geniş çapta",
+      "C": "almak",
+      "D": "direnç",
+      "E": "sahip olmak",
+      "F": "engellemek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 23,
+    "question": "\"direnç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Extensively",
+      "B": "Nomadic",
+      "C": "Convince",
+      "D": "Feed",
+      "E": "Resistance",
+      "F": "Slightly"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 24,
+    "question": "\"Convince\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "az oranda",
+      "B": "ikna etmek",
+      "C": "almak",
+      "D": "geniş çapta",
+      "E": "hızla artmak",
+      "F": "yapıştırıcı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"sahip olmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Possess",
+      "B": "Waste",
+      "C": "Explore",
+      "D": "Hinder",
+      "E": "Feed",
+      "F": "Adhesive"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "\"keşfetmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Feed",
+      "B": "Convince",
+      "C": "Ore",
+      "D": "Possess",
+      "E": "Soar",
+      "F": "Explore"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 27,
+    "question": "\"Definite\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin",
+      "B": "ikna etmek",
+      "C": "şiddetli",
+      "D": "keşfetmek",
+      "E": "cevher",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "\"şiddetli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Greenhouse gas",
+      "B": "Adhesive",
+      "C": "Convince",
+      "D": "Violent",
+      "E": "Resistance",
+      "F": "Possess"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "\"direnç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Resistance",
+      "B": "Extensively",
+      "C": "Receive",
+      "D": "Odour",
+      "E": "Greenhouse gas",
+      "F": "Possess"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "\"atık\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Extensively",
+      "B": "Waste",
+      "C": "Feed",
+      "D": "Violent",
+      "E": "Abundant",
+      "F": "Nomadic"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "question": "\"direnç\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Greenhouse gas",
+      "B": "Violent",
+      "C": "Odour",
+      "D": "Adhesive",
+      "E": "Resistance",
+      "F": "Soar"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 32,
+    "question": "\"Violent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "sahip olmak",
+      "C": "keşfetmek",
+      "D": "almak",
+      "E": "direnç",
+      "F": "şiddetli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 33,
+    "question": "\"Ore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "atık",
+      "B": "yapıştırıcı",
+      "C": "keşfetmek",
+      "D": "beslemek",
+      "E": "cevher",
+      "F": "bol"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 34,
+    "question": "\"Proliferate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "az oranda",
+      "B": "koku",
+      "C": "kesin",
+      "D": "bol",
+      "E": "hızla çoğalmak",
+      "F": "ikna etmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"bol\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Slightly",
+      "B": "Possess",
+      "C": "Greenhouse gas",
+      "D": "Explore",
+      "E": "Extensively",
+      "F": "Abundant"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "\"Ore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnç",
+      "B": "hızla çoğalmak",
+      "C": "ikna etmek",
+      "D": "cevher",
+      "E": "sahip olmak",
+      "F": "az oranda"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Ore",
+      "B": "Definite",
+      "C": "Extensively",
+      "D": "Slightly",
+      "E": "Possess",
+      "F": "Hinder"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 38,
+    "question": "\"Greenhouse gas\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yapıştırıcı",
+      "B": "sera gazı",
+      "C": "geniş çapta",
+      "D": "direnç",
+      "E": "şiddetli",
+      "F": "ikna etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "\"Hinder\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "engellemek",
+      "C": "sera gazı",
+      "D": "geniş çapta",
+      "E": "atık",
+      "F": "ikna etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "\"koku\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Violent",
+      "B": "Resistance",
+      "C": "Adhesive",
+      "D": "Nomadic",
+      "E": "Possess",
+      "F": "Odour"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "\"Receive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "almak",
+      "B": "göçebe",
+      "C": "bol",
+      "D": "yapıştırıcı",
+      "E": "sahip olmak",
+      "F": "ikna etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "\"keşfetmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Explore",
+      "B": "Proliferate",
+      "C": "Slightly",
+      "D": "Soar",
+      "E": "Odour",
+      "F": "Abundant"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Explore",
+      "B": "Waste",
+      "C": "Odour",
+      "D": "Hinder",
+      "E": "Convince",
+      "F": "Greenhouse gas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "\"Adhesive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yapıştırıcı",
+      "B": "ikna etmek",
+      "C": "atık",
+      "D": "engellemek",
+      "E": "göçebe",
+      "F": "geniş çapta"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "\"Slightly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ikna etmek",
+      "B": "hızla çoğalmak",
+      "C": "kesin",
+      "D": "az oranda",
+      "E": "direnç",
+      "F": "bol"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "\"Waste\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "atık",
+      "B": "sera gazı",
+      "C": "cevher",
+      "D": "almak",
+      "E": "ikna etmek",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "\"engellemek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Possess",
+      "B": "Receive",
+      "C": "Greenhouse gas",
+      "D": "Hinder",
+      "E": "Soar",
+      "F": "Abundant"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 48,
+    "question": "\"Ore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "az oranda",
+      "B": "cevher",
+      "C": "sera gazı",
+      "D": "sahip olmak",
+      "E": "geniş çapta",
+      "F": "yapıştırıcı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "\"Adhesive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş çapta",
+      "B": "bol",
+      "C": "sera gazı",
+      "D": "az oranda",
+      "E": "yapıştırıcı",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 50,
+    "question": "\"sera gazı\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Odour",
+      "B": "Violent",
+      "C": "Definite",
+      "D": "Nomadic",
+      "E": "Greenhouse gas",
+      "F": "Ore"
+    },
+    "correct": "E"
+  }
+]

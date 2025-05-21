@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Compulsive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "iddia etmek",
+      "B": "kütle",
+      "C": "araştırmak",
+      "D": "mutasyon",
+      "E": "toprağı ekmek",
+      "F": "kontrol edilemeyen"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 2,
+    "question": "\"Nuisance\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baş belası",
+      "B": "mizaç",
+      "C": "kazmak",
+      "D": "uçucu",
+      "E": "geceye özgü",
+      "F": "araştırmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "\"Excavate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kontrol edilemeyen",
+      "B": "kazmak",
+      "C": "dönüşüm",
+      "D": "uygun",
+      "E": "mizaç",
+      "F": "kütle"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "question": "\"Expedition\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "kontrol edilemeyen",
+      "C": "mizaç",
+      "D": "uçucu",
+      "E": "kazmak",
+      "F": "keşif gezisi"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 5,
+    "question": "\"Convenient\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uçucu",
+      "B": "baş belası",
+      "C": "iddia etmek",
+      "D": "keşif gezisi",
+      "E": "uzatmak",
+      "F": "uygun"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"Conversion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kazmak",
+      "B": "baş belası",
+      "C": "geceye özgü",
+      "D": "kontrol edilemeyen",
+      "E": "ızdırap",
+      "F": "dönüşüm"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 7,
+    "question": "\"Mass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kontrol edilemeyen",
+      "B": "kütle",
+      "C": "akıntıya kapılmış",
+      "D": "uçucu",
+      "E": "keşif gezisi",
+      "F": "somut"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "\"Volatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dönüşüm",
+      "B": "uygun",
+      "C": "uçucu",
+      "D": "uzatmak",
+      "E": "kendine güvenen",
+      "F": "baş belası"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "\"Nuisance\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kendine güvenen",
+      "B": "kütle",
+      "C": "baş belası",
+      "D": "kazmak",
+      "E": "mizaç",
+      "F": "dönüşüm"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "\"Volatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dönüşüm",
+      "B": "uçucu",
+      "C": "baş belası",
+      "D": "dikkat dağıtıcı şey",
+      "E": "uygun",
+      "F": "kazmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "\"Concrete\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "kontrol edilemeyen",
+      "C": "kütle",
+      "D": "kendine güvenen",
+      "E": "uzatmak",
+      "F": "dönüşüm"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "\"Confident\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dikkat dağıtıcı şey",
+      "B": "dönüşüm",
+      "C": "ızdırap",
+      "D": "kendine güvenen",
+      "E": "kontrol edilemeyen",
+      "F": "uçucu"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "question": "\"Affliction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "ızdırap",
+      "C": "geceye özgü",
+      "D": "uçucu",
+      "E": "mizaç",
+      "F": "kontrol edilemeyen"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "\"Excavate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mutasyon",
+      "B": "keşif gezisi",
+      "C": "kazmak",
+      "D": "ızdırap",
+      "E": "dönüşüm",
+      "F": "toprağı ekmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "\"Affliction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "iddia etmek",
+      "B": "kontrol edilemeyen",
+      "C": "dönüşüm",
+      "D": "ızdırap",
+      "E": "uzatmak",
+      "F": "kendine güvenen"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "\"Mutation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dönüşüm",
+      "B": "kazmak",
+      "C": "mizaç",
+      "D": "ızdırap",
+      "E": "mutasyon",
+      "F": "kütle"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 17,
+    "question": "\"Nocturnal\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşif gezisi",
+      "B": "kontrol edilemeyen",
+      "C": "geceye özgü",
+      "D": "toprağı ekmek",
+      "E": "uygun",
+      "F": "dikkat dağıtıcı şey"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"Adrift\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mutasyon",
+      "B": "akıntıya kapılmış",
+      "C": "iddia etmek",
+      "D": "somut",
+      "E": "kendine güvenen",
+      "F": "dikkat dağıtıcı şey"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "question": "\"Concrete\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uçucu",
+      "B": "baş belası",
+      "C": "geceye özgü",
+      "D": "somut",
+      "E": "araştırmak",
+      "F": "kazmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "\"Expedition\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dönüşüm",
+      "B": "geceye özgü",
+      "C": "somut",
+      "D": "keşif gezisi",
+      "E": "kontrol edilemeyen",
+      "F": "akıntıya kapılmış"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "\"Excavate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "toprağı ekmek",
+      "B": "mutasyon",
+      "C": "mizaç",
+      "D": "kazmak",
+      "E": "akıntıya kapılmış",
+      "F": "geceye özgü"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Confident\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşif gezisi",
+      "B": "mizaç",
+      "C": "ızdırap",
+      "D": "dönüşüm",
+      "E": "somut",
+      "F": "kendine güvenen"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 23,
+    "question": "\"Mass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kütle",
+      "B": "dikkat dağıtıcı şey",
+      "C": "dönüşüm",
+      "D": "uygun",
+      "E": "kazmak",
+      "F": "geceye özgü"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "\"Excavate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geceye özgü",
+      "B": "kütle",
+      "C": "araştırmak",
+      "D": "mutasyon",
+      "E": "kazmak",
+      "F": "somut"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "\"Confident\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mizaç",
+      "B": "uçucu",
+      "C": "akıntıya kapılmış",
+      "D": "kazmak",
+      "E": "kendine güvenen",
+      "F": "toprağı ekmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 26,
+    "question": "\"Affliction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ızdırap",
+      "B": "uzatmak",
+      "C": "dikkat dağıtıcı şey",
+      "D": "uçucu",
+      "E": "araştırmak",
+      "F": "somut"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "\"Excavate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kazmak",
+      "B": "mizaç",
+      "C": "akıntıya kapılmış",
+      "D": "kütle",
+      "E": "dönüşüm",
+      "F": "geceye özgü"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "\"Cultivate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygun",
+      "B": "toprağı ekmek",
+      "C": "geceye özgü",
+      "D": "araştırmak",
+      "E": "iddia etmek",
+      "F": "kütle"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "\"Mutation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kendine güvenen",
+      "B": "uzatmak",
+      "C": "geceye özgü",
+      "D": "mutasyon",
+      "E": "mizaç",
+      "F": "somut"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "\"Distraction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dikkat dağıtıcı şey",
+      "B": "somut",
+      "C": "keşif gezisi",
+      "D": "akıntıya kapılmış",
+      "E": "mutasyon",
+      "F": "mizaç"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "\"Expedition\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşif gezisi",
+      "B": "dikkat dağıtıcı şey",
+      "C": "uçucu",
+      "D": "araştırmak",
+      "E": "kendine güvenen",
+      "F": "mutasyon"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "\"Nocturnal\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uzatmak",
+      "B": "araştırmak",
+      "C": "geceye özgü",
+      "D": "mizaç",
+      "E": "baş belası",
+      "F": "dönüşüm"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 33,
+    "question": "\"Mass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dikkat dağıtıcı şey",
+      "B": "somut",
+      "C": "baş belası",
+      "D": "akıntıya kapılmış",
+      "E": "dönüşüm",
+      "F": "kütle"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Nuisance\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "araştırmak",
+      "B": "uzatmak",
+      "C": "kontrol edilemeyen",
+      "D": "dikkat dağıtıcı şey",
+      "E": "baş belası",
+      "F": "toprağı ekmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"Affliction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kazmak",
+      "B": "uzatmak",
+      "C": "ızdırap",
+      "D": "araştırmak",
+      "E": "mutasyon",
+      "F": "mizaç"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "\"Volatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uçucu",
+      "B": "kütle",
+      "C": "kontrol edilemeyen",
+      "D": "iddia etmek",
+      "E": "keşif gezisi",
+      "F": "toprağı ekmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "\"Confident\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uygun",
+      "B": "dikkat dağıtıcı şey",
+      "C": "toprağı ekmek",
+      "D": "somut",
+      "E": "geceye özgü",
+      "F": "kendine güvenen"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 38,
+    "question": "\"Nuisance\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "somut",
+      "B": "mutasyon",
+      "C": "kazmak",
+      "D": "ızdırap",
+      "E": "baş belası",
+      "F": "uçucu"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "\"Convenient\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "iddia etmek",
+      "B": "uygun",
+      "C": "uzatmak",
+      "D": "ızdırap",
+      "E": "kazmak",
+      "F": "akıntıya kapılmış"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "\"Disposition\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ızdırap",
+      "B": "uzatmak",
+      "C": "baş belası",
+      "D": "mizaç",
+      "E": "kazmak",
+      "F": "kütle"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "\"Distraction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "toprağı ekmek",
+      "B": "kontrol edilemeyen",
+      "C": "dönüşüm",
+      "D": "mutasyon",
+      "E": "uygun",
+      "F": "dikkat dağıtıcı şey"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 42,
+    "question": "\"Extend\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ızdırap",
+      "B": "uçucu",
+      "C": "uygun",
+      "D": "araştırmak",
+      "E": "uzatmak",
+      "F": "kendine güvenen"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 43,
+    "question": "\"Mass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kütle",
+      "B": "dikkat dağıtıcı şey",
+      "C": "kazmak",
+      "D": "araştırmak",
+      "E": "baş belası",
+      "F": "mizaç"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "\"Claim\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dönüşüm",
+      "B": "iddia etmek",
+      "C": "akıntıya kapılmış",
+      "D": "keşif gezisi",
+      "E": "kazmak",
+      "F": "kendine güvenen"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "\"Mutation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mutasyon",
+      "B": "dikkat dağıtıcı şey",
+      "C": "ızdırap",
+      "D": "uygun",
+      "E": "araştırmak",
+      "F": "uzatmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "\"Convenient\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mizaç",
+      "B": "akıntıya kapılmış",
+      "C": "uçucu",
+      "D": "mutasyon",
+      "E": "uygun",
+      "F": "dönüşüm"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 47,
+    "question": "\"Conversion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "dönüşüm",
+      "B": "kendine güvenen",
+      "C": "baş belası",
+      "D": "mutasyon",
+      "E": "akıntıya kapılmış",
+      "F": "toprağı ekmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "\"Compulsive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kontrol edilemeyen",
+      "B": "iddia etmek",
+      "C": "geceye özgü",
+      "D": "baş belası",
+      "E": "kütle",
+      "F": "keşif gezisi"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "\"Mass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geceye özgü",
+      "B": "kontrol edilemeyen",
+      "C": "akıntıya kapılmış",
+      "D": "uçucu",
+      "E": "iddia etmek",
+      "F": "kütle"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Claim\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ızdırap",
+      "B": "kütle",
+      "C": "uçucu",
+      "D": "kontrol edilemeyen",
+      "E": "iddia etmek",
+      "F": "dönüşüm"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 51,
+    "question": "\"Volatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baş belası",
+      "B": "kütle",
+      "C": "uçucu",
+      "D": "geceye özgü",
+      "E": "dikkat dağıtıcı şey",
+      "F": "kendine güvenen"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "\"Distraction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "iddia etmek",
+      "B": "uçucu",
+      "C": "ızdırap",
+      "D": "somut",
+      "E": "dikkat dağıtıcı şey",
+      "F": "kontrol edilemeyen"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 53,
+    "question": "\"Adrift\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mutasyon",
+      "B": "baş belası",
+      "C": "araştırmak",
+      "D": "kontrol edilemeyen",
+      "E": "somut",
+      "F": "akıntıya kapılmış"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 54,
+    "question": "\"Volatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "uçucu",
+      "B": "akıntıya kapılmış",
+      "C": "kazmak",
+      "D": "keşif gezisi",
+      "E": "mutasyon",
+      "F": "geceye özgü"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "\"Probe\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "iddia etmek",
+      "B": "toprağı ekmek",
+      "C": "araştırmak",
+      "D": "akıntıya kapılmış",
+      "E": "somut",
+      "F": "uygun"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "\"Distraction\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kontrol edilemeyen",
+      "B": "araştırmak",
+      "C": "somut",
+      "D": "dikkat dağıtıcı şey",
+      "E": "mizaç",
+      "F": "toprağı ekmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 57,
+    "question": "\"Excavate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "akıntıya kapılmış",
+      "B": "araştırmak",
+      "C": "uzatmak",
+      "D": "keşif gezisi",
+      "E": "kazmak",
+      "F": "mizaç"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 58,
+    "question": "\"Confident\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geceye özgü",
+      "B": "kendine güvenen",
+      "C": "araştırmak",
+      "D": "mutasyon",
+      "E": "uçucu",
+      "F": "kontrol edilemeyen"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 59,
+    "question": "\"Compulsive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "toprağı ekmek",
+      "B": "uçucu",
+      "C": "araştırmak",
+      "D": "uzatmak",
+      "E": "kontrol edilemeyen",
+      "F": "mizaç"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 60,
+    "question": "\"Mass\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baş belası",
+      "B": "uçucu",
+      "C": "kütle",
+      "D": "keşif gezisi",
+      "E": "uygun",
+      "F": "somut"
+    },
+    "correct": "C"
+  }
+]

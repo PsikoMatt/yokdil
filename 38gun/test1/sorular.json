@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Recurrent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gelgit",
+      "B": "tekrarlayan",
+      "C": "rastgele",
+      "D": "avlamak",
+      "E": "tutulma (ay, güneş)",
+      "F": "baskın"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "\"Precede\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirsiz",
+      "B": "maruz bırakmak",
+      "C": "işlenmemiş",
+      "D": "önce gelmek",
+      "E": "umut verici",
+      "F": "sezgi"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 3,
+    "question": "\"Dominant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baskın",
+      "B": "tekrarlayan",
+      "C": "tutulma (ay, güneş)",
+      "D": "avlamak",
+      "E": "rastgele",
+      "F": "umut verici"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "\"Insight\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "rastgele",
+      "C": "umut verici",
+      "D": "yanlışlıkla",
+      "E": "avlamak",
+      "F": "önce gelmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "\"Eclipse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tekrarlayan",
+      "B": "tutulma (ay, güneş)",
+      "C": "önce gelmek",
+      "D": "yanlışlıkla",
+      "E": "maruz bırakmak",
+      "F": "güçlendirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "\"Versatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tutulma (ay, güneş)",
+      "B": "mercan resifleri",
+      "C": "çok yönlü",
+      "D": "baskın",
+      "E": "mikrop",
+      "F": "avlamak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "\"Germ\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mikrop",
+      "B": "sembolleme",
+      "C": "tekrarlayan",
+      "D": "umut verici",
+      "E": "mercan resifleri",
+      "F": "avlamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "\"Coral reefs\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "maruz bırakmak",
+      "B": "gelgit",
+      "C": "belirsiz",
+      "D": "baskın",
+      "E": "mercan resifleri",
+      "F": "tutulma (ay, güneş)"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 9,
+    "question": "\"Recurrent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlendirmek",
+      "B": "çok yönlü",
+      "C": "sembolleme",
+      "D": "umut verici",
+      "E": "maruz bırakmak",
+      "F": "tekrarlayan"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 10,
+    "question": "\"Coral reefs\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yeni",
+      "B": "rastgele",
+      "C": "mikrop",
+      "D": "mercan resifleri",
+      "E": "sezgi",
+      "F": "güçlendirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "\"Randomly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "tutulma (ay, güneş)",
+      "C": "baskın",
+      "D": "umut verici",
+      "E": "mercan resifleri",
+      "F": "sembolleme"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "\"Insight\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "mercan resifleri",
+      "C": "baskın",
+      "D": "sembolleme",
+      "E": "umut verici",
+      "F": "rastgele"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"Notation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baskın",
+      "B": "sembolleme",
+      "C": "belirsiz",
+      "D": "mercan resifleri",
+      "E": "güçlendirmek",
+      "F": "yeni"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "\"Raw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umut verici",
+      "B": "tekrarlayan",
+      "C": "avlamak",
+      "D": "işlenmemiş",
+      "E": "tutulma (ay, güneş)",
+      "F": "maruz bırakmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 15,
+    "question": "\"Promising\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanlışlıkla",
+      "B": "rastgele",
+      "C": "sembolleme",
+      "D": "baskın",
+      "E": "önce gelmek",
+      "F": "umut verici"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 16,
+    "question": "\"Insight\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "avlamak",
+      "C": "mikrop",
+      "D": "işlenmemiş",
+      "E": "tutulma (ay, güneş)",
+      "F": "maruz bırakmak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "\"Obscure\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hariç tutmak",
+      "B": "tekrarlayan",
+      "C": "belirsiz",
+      "D": "mercan resifleri",
+      "E": "gelgit",
+      "F": "sezgi"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"Versatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "işlenmemiş",
+      "B": "gelgit",
+      "C": "baskın",
+      "D": "tekrarlayan",
+      "E": "rastgele",
+      "F": "çok yönlü"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 19,
+    "question": "\"Germ\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "önce gelmek",
+      "C": "mikrop",
+      "D": "yeni",
+      "E": "güçlendirmek",
+      "F": "çok yönlü"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "\"Expose to\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tekrarlayan",
+      "B": "maruz bırakmak",
+      "C": "sezgi",
+      "D": "çok yönlü",
+      "E": "yanlışlıkla",
+      "F": "işlenmemiş"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "\"Recurrent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baskın",
+      "B": "umut verici",
+      "C": "güçlendirmek",
+      "D": "önce gelmek",
+      "E": "tekrarlayan",
+      "F": "maruz bırakmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 22,
+    "question": "\"Eclipse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önce gelmek",
+      "B": "mikrop",
+      "C": "baskın",
+      "D": "yeni",
+      "E": "hariç tutmak",
+      "F": "tutulma (ay, güneş)"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 23,
+    "question": "\"Novel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tutulma (ay, güneş)",
+      "B": "çok yönlü",
+      "C": "rastgele",
+      "D": "yeni",
+      "E": "mercan resifleri",
+      "F": "belirsiz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "\"Recurrent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önce gelmek",
+      "B": "tekrarlayan",
+      "C": "işlenmemiş",
+      "D": "belirsiz",
+      "E": "yeni",
+      "F": "maruz bırakmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"Novel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlendirmek",
+      "B": "mikrop",
+      "C": "gelgit",
+      "D": "hariç tutmak",
+      "E": "yeni",
+      "F": "mercan resifleri"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 26,
+    "question": "\"Notation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlendirmek",
+      "B": "umut verici",
+      "C": "işlenmemiş",
+      "D": "sembolleme",
+      "E": "avlamak",
+      "F": "yanlışlıkla"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "\"Prey on/upon\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mercan resifleri",
+      "B": "güçlendirmek",
+      "C": "yanlışlıkla",
+      "D": "önce gelmek",
+      "E": "çok yönlü",
+      "F": "avlamak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 28,
+    "question": "\"Coral reefs\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "işlenmemiş",
+      "B": "güçlendirmek",
+      "C": "umut verici",
+      "D": "mercan resifleri",
+      "E": "yeni",
+      "F": "tekrarlayan"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "\"Recurrent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "avlamak",
+      "B": "baskın",
+      "C": "hariç tutmak",
+      "D": "mikrop",
+      "E": "çok yönlü",
+      "F": "tekrarlayan"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 30,
+    "question": "\"Insight\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hariç tutmak",
+      "B": "mercan resifleri",
+      "C": "önce gelmek",
+      "D": "güçlendirmek",
+      "E": "sezgi",
+      "F": "maruz bırakmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 31,
+    "question": "\"Promising\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hariç tutmak",
+      "B": "umut verici",
+      "C": "sembolleme",
+      "D": "gelgit",
+      "E": "maruz bırakmak",
+      "F": "rastgele"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "\"Randomly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "maruz bırakmak",
+      "B": "baskın",
+      "C": "rastgele",
+      "D": "belirsiz",
+      "E": "yanlışlıkla",
+      "F": "gelgit"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 33,
+    "question": "\"Eclipse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tutulma (ay, güneş)",
+      "B": "yanlışlıkla",
+      "C": "umut verici",
+      "D": "sembolleme",
+      "E": "mikrop",
+      "F": "çok yönlü"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "\"Versatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "mikrop",
+      "C": "yanlışlıkla",
+      "D": "sezgi",
+      "E": "çok yönlü",
+      "F": "maruz bırakmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"Promising\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanlışlıkla",
+      "B": "hariç tutmak",
+      "C": "avlamak",
+      "D": "umut verici",
+      "E": "mercan resifleri",
+      "F": "işlenmemiş"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "\"Reinforce\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlendirmek",
+      "B": "rastgele",
+      "C": "mikrop",
+      "D": "avlamak",
+      "E": "umut verici",
+      "F": "yanlışlıkla"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "\"Versatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sembolleme",
+      "B": "önce gelmek",
+      "C": "çok yönlü",
+      "D": "maruz bırakmak",
+      "E": "tutulma (ay, güneş)",
+      "F": "belirsiz"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "question": "\"Dominant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yeni",
+      "B": "maruz bırakmak",
+      "C": "çok yönlü",
+      "D": "hariç tutmak",
+      "E": "baskın",
+      "F": "mercan resifleri"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "\"Prey on/upon\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mercan resifleri",
+      "B": "avlamak",
+      "C": "baskın",
+      "D": "işlenmemiş",
+      "E": "hariç tutmak",
+      "F": "tekrarlayan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "\"Raw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "işlenmemiş",
+      "C": "belirsiz",
+      "D": "mikrop",
+      "E": "gelgit",
+      "F": "yanlışlıkla"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "\"Obscure\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umut verici",
+      "B": "mercan resifleri",
+      "C": "belirsiz",
+      "D": "hariç tutmak",
+      "E": "maruz bırakmak",
+      "F": "çok yönlü"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Recurrent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gelgit",
+      "B": "belirsiz",
+      "C": "tekrarlayan",
+      "D": "işlenmemiş",
+      "E": "hariç tutmak",
+      "F": "baskın"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "\"Notation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sembolleme",
+      "B": "rastgele",
+      "C": "sezgi",
+      "D": "yanlışlıkla",
+      "E": "çok yönlü",
+      "F": "tutulma (ay, güneş)"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "\"Coral reefs\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sembolleme",
+      "B": "tutulma (ay, güneş)",
+      "C": "işlenmemiş",
+      "D": "güçlendirmek",
+      "E": "baskın",
+      "F": "mercan resifleri"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 45,
+    "question": "\"Insight\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "işlenmemiş",
+      "B": "baskın",
+      "C": "gelgit",
+      "D": "avlamak",
+      "E": "sezgi",
+      "F": "maruz bırakmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 46,
+    "question": "\"Reinforce\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "maruz bırakmak",
+      "B": "güçlendirmek",
+      "C": "mikrop",
+      "D": "hariç tutmak",
+      "E": "işlenmemiş",
+      "F": "avlamak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 47,
+    "question": "\"Precede\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önce gelmek",
+      "B": "yeni",
+      "C": "tutulma (ay, güneş)",
+      "D": "sembolleme",
+      "E": "yanlışlıkla",
+      "F": "belirsiz"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "\"Promising\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanlışlıkla",
+      "B": "sembolleme",
+      "C": "umut verici",
+      "D": "avlamak",
+      "E": "sezgi",
+      "F": "güçlendirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "question": "\"Versatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirsiz",
+      "B": "rastgele",
+      "C": "çok yönlü",
+      "D": "sembolleme",
+      "E": "güçlendirmek",
+      "F": "tutulma (ay, güneş)"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 50,
+    "question": "\"Dominant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "güçlendirmek",
+      "C": "sezgi",
+      "D": "baskın",
+      "E": "önce gelmek",
+      "F": "yeni"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "question": "\"Exclude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "hariç tutmak",
+      "C": "maruz bırakmak",
+      "D": "sembolleme",
+      "E": "yanlışlıkla",
+      "F": "işlenmemiş"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 52,
+    "question": "\"Insight\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "tutulma (ay, güneş)",
+      "C": "güçlendirmek",
+      "D": "maruz bırakmak",
+      "E": "mercan resifleri",
+      "F": "avlamak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "\"Raw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baskın",
+      "B": "mikrop",
+      "C": "işlenmemiş",
+      "D": "hariç tutmak",
+      "E": "mercan resifleri",
+      "F": "sezgi"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 54,
+    "question": "\"Obscure\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önce gelmek",
+      "B": "mikrop",
+      "C": "belirsiz",
+      "D": "mercan resifleri",
+      "E": "maruz bırakmak",
+      "F": "yeni"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 55,
+    "question": "\"Novel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "hariç tutmak",
+      "C": "yeni",
+      "D": "mikrop",
+      "E": "baskın",
+      "F": "yanlışlıkla"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "\"Coral reefs\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "baskın",
+      "B": "güçlendirmek",
+      "C": "mercan resifleri",
+      "D": "yeni",
+      "E": "belirsiz",
+      "F": "hariç tutmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 57,
+    "question": "\"Obscure\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "umut verici",
+      "B": "avlamak",
+      "C": "mikrop",
+      "D": "sembolleme",
+      "E": "belirsiz",
+      "F": "tekrarlayan"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 58,
+    "question": "\"Versatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çok yönlü",
+      "B": "yeni",
+      "C": "maruz bırakmak",
+      "D": "umut verici",
+      "E": "hariç tutmak",
+      "F": "tutulma (ay, güneş)"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "\"Tide\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gelgit",
+      "B": "belirsiz",
+      "C": "umut verici",
+      "D": "sembolleme",
+      "E": "rastgele",
+      "F": "mercan resifleri"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 60,
+    "question": "\"Germ\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mikrop",
+      "B": "gelgit",
+      "C": "tekrarlayan",
+      "D": "belirsiz",
+      "E": "maruz bırakmak",
+      "F": "çok yönlü"
+    },
+    "correct": "A"
+  }
+]

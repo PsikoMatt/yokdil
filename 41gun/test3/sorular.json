@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"Arable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gerçekleştirmek",
+      "B": "korumak",
+      "C": "kirletmek",
+      "D": "tarıma elverişli",
+      "E": "anlaşma",
+      "F": "tozlaştırmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirgin",
+      "B": "gerçekleştirmek",
+      "C": "küme",
+      "D": "belirsiz",
+      "E": "düşünmek",
+      "F": "yanma"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "\"tarıma elverişli\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Deepen",
+      "B": "Pollinate",
+      "C": "Conclusive",
+      "D": "Arable",
+      "E": "Acknowledge",
+      "F": "Algae"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "\"küme\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Cluster",
+      "B": "Abuse",
+      "C": "Pollinate",
+      "D": "Combustion",
+      "E": "Arable",
+      "F": "Consider"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "\"Algae\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "havza",
+      "B": "düşünmek",
+      "C": "gerçekleştirmek",
+      "D": "kabul etmek",
+      "E": "yosun",
+      "F": "yanma"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 6,
+    "question": "\"belirgin\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Cluster",
+      "B": "Arable",
+      "C": "Explicit",
+      "D": "Threshold",
+      "E": "Ambiguous",
+      "F": "Conserve"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "\"Ingenious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanma",
+      "B": "geniş",
+      "C": "belirsiz",
+      "D": "gerçekleştirmek",
+      "E": "zekice",
+      "F": "tozlaştırmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 8,
+    "question": "\"Accord\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "düşünmek",
+      "B": "belirgin",
+      "C": "anlaşma",
+      "D": "yanma",
+      "E": "derinleştirmek",
+      "F": "küme"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "\"Arable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "korumak",
+      "B": "tarıma elverişli",
+      "C": "havza",
+      "D": "tozlaştırmak",
+      "E": "kirletmek",
+      "F": "küme"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "\"düşünmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Ambiguous",
+      "B": "Broad",
+      "C": "Pollinate",
+      "D": "Abuse",
+      "E": "Consider",
+      "F": "Ingenious"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 11,
+    "question": "\"yanma\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Basin",
+      "B": "Threshold",
+      "C": "Contaminate",
+      "D": "Ingenious",
+      "E": "Combustion",
+      "F": "Broad"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "korumak",
+      "B": "belirsiz",
+      "C": "istismar etmek",
+      "D": "anlaşma",
+      "E": "gerçekleştirmek",
+      "F": "tarıma elverişli"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "\"zekice\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Consider",
+      "B": "Algae",
+      "C": "Explicit",
+      "D": "Pollinate",
+      "E": "Ingenious",
+      "F": "Deepen"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 14,
+    "question": "\"Contaminate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "küme",
+      "B": "düşünmek",
+      "C": "zekice",
+      "D": "derinleştirmek",
+      "E": "kesin",
+      "F": "kirletmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 15,
+    "question": "\"Basin\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşma",
+      "B": "havza",
+      "C": "eşik",
+      "D": "belirgin",
+      "E": "yanma",
+      "F": "geniş"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "question": "\"küme\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Consider",
+      "B": "Acknowledge",
+      "C": "Combustion",
+      "D": "Cluster",
+      "E": "Arable",
+      "F": "Contaminate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "\"havza\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Ambiguous",
+      "B": "Accord",
+      "C": "Deepen",
+      "D": "Basin",
+      "E": "Contaminate",
+      "F": "Pollinate"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "\"Combustion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "korumak",
+      "B": "küme",
+      "C": "tarıma elverişli",
+      "D": "belirgin",
+      "E": "yanma",
+      "F": "geniş"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 19,
+    "question": "\"belirgin\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Pollinate",
+      "B": "Arable",
+      "C": "Conserve",
+      "D": "Explicit",
+      "E": "Abuse",
+      "F": "Threshold"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "\"Combustion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kabul etmek",
+      "B": "korumak",
+      "C": "eşik",
+      "D": "derinleştirmek",
+      "E": "yanma",
+      "F": "yosun"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 21,
+    "question": "\"Cluster\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin",
+      "B": "küme",
+      "C": "kirletmek",
+      "D": "yanma",
+      "E": "zekice",
+      "F": "belirgin"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 22,
+    "question": "\"Combustion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşma",
+      "B": "küme",
+      "C": "belirgin",
+      "D": "yanma",
+      "E": "derinleştirmek",
+      "F": "istismar etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 23,
+    "question": "\"kabul etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Arable",
+      "B": "Undertake",
+      "C": "Broad",
+      "D": "Combustion",
+      "E": "Acknowledge",
+      "F": "Conserve"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 24,
+    "question": "\"zekice\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Arable",
+      "B": "Conserve",
+      "C": "Basin",
+      "D": "Accord",
+      "E": "Ingenious",
+      "F": "Contaminate"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "\"düşünmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Consider",
+      "B": "Arable",
+      "C": "Threshold",
+      "D": "Deepen",
+      "E": "Accord",
+      "F": "Ingenious"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "\"Deepen\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kabul etmek",
+      "B": "belirsiz",
+      "C": "düşünmek",
+      "D": "derinleştirmek",
+      "E": "yosun",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "\"düşünmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Contaminate",
+      "B": "Broad",
+      "C": "Consider",
+      "D": "Basin",
+      "E": "Explicit",
+      "F": "Conserve"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"kirletmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Combustion",
+      "B": "Threshold",
+      "C": "Cluster",
+      "D": "Broad",
+      "E": "Algae",
+      "F": "Contaminate"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 29,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eşik",
+      "B": "korumak",
+      "C": "anlaşma",
+      "D": "küme",
+      "E": "belirsiz",
+      "F": "yanma"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "\"tozlaştırmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Acknowledge",
+      "B": "Broad",
+      "C": "Explicit",
+      "D": "Algae",
+      "E": "Pollinate",
+      "F": "Contaminate"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 31,
+    "question": "\"belirsiz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Pollinate",
+      "B": "Undertake",
+      "C": "Ambiguous",
+      "D": "Conclusive",
+      "E": "Explicit",
+      "F": "Consider"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "\"kabul etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Arable",
+      "B": "Consider",
+      "C": "Contaminate",
+      "D": "Abuse",
+      "E": "Accord",
+      "F": "Acknowledge"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 33,
+    "question": "\"Undertake\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tozlaştırmak",
+      "B": "gerçekleştirmek",
+      "C": "belirgin",
+      "D": "kirletmek",
+      "E": "zekice",
+      "F": "düşünmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "\"Contaminate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş",
+      "B": "anlaşma",
+      "C": "tozlaştırmak",
+      "D": "yosun",
+      "E": "kirletmek",
+      "F": "kesin"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 35,
+    "question": "\"havza\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Conserve",
+      "B": "Accord",
+      "C": "Explicit",
+      "D": "Combustion",
+      "E": "Basin",
+      "F": "Conclusive"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 36,
+    "question": "\"Threshold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "eşik",
+      "C": "belirsiz",
+      "D": "anlaşma",
+      "E": "havza",
+      "F": "tarıma elverişli"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "\"yosun\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Algae",
+      "B": "Threshold",
+      "C": "Pollinate",
+      "D": "Conserve",
+      "E": "Arable",
+      "F": "Abuse"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "\"derinleştirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Basin",
+      "B": "Deepen",
+      "C": "Conclusive",
+      "D": "Abuse",
+      "E": "Ingenious",
+      "F": "Broad"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "\"anlaşma\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Conserve",
+      "B": "Algae",
+      "C": "Accord",
+      "D": "Basin",
+      "E": "Pollinate",
+      "F": "Threshold"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 40,
+    "question": "\"belirsiz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Combustion",
+      "B": "Conclusive",
+      "C": "Pollinate",
+      "D": "Consider",
+      "E": "Basin",
+      "F": "Ambiguous"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "\"Combustion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanma",
+      "B": "yosun",
+      "C": "tarıma elverişli",
+      "D": "anlaşma",
+      "E": "belirgin",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "\"geniş\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Broad",
+      "B": "Combustion",
+      "C": "Ambiguous",
+      "D": "Conclusive",
+      "E": "Explicit",
+      "F": "Arable"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "\"eşik\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Arable",
+      "B": "Threshold",
+      "C": "Combustion",
+      "D": "Undertake",
+      "E": "Accord",
+      "F": "Contaminate"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "\"havza\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Ingenious",
+      "B": "Explicit",
+      "C": "Undertake",
+      "D": "Basin",
+      "E": "Arable",
+      "F": "Conclusive"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "\"gerçekleştirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Basin",
+      "B": "Conserve",
+      "C": "Threshold",
+      "D": "Pollinate",
+      "E": "Abuse",
+      "F": "Undertake"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 46,
+    "question": "\"kabul etmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Acknowledge",
+      "B": "Accord",
+      "C": "Ambiguous",
+      "D": "Deepen",
+      "E": "Consider",
+      "F": "Undertake"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "\"belirgin\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Abuse",
+      "B": "Conserve",
+      "C": "Algae",
+      "D": "Explicit",
+      "E": "Combustion",
+      "F": "Threshold"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 48,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gerçekleştirmek",
+      "B": "tarıma elverişli",
+      "C": "derinleştirmek",
+      "D": "kesin",
+      "E": "korumak",
+      "F": "küme"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 49,
+    "question": "\"düşünmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Ambiguous",
+      "B": "Combustion",
+      "C": "Basin",
+      "D": "Pollinate",
+      "E": "Contaminate",
+      "F": "Consider"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"yosun\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Conclusive",
+      "B": "Algae",
+      "C": "Deepen",
+      "D": "Ambiguous",
+      "E": "Pollinate",
+      "F": "Ingenious"
+    },
+    "correct": "B"
+  }
+]

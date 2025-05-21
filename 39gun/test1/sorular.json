@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Odour\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "koku",
+      "B": "cevher",
+      "C": "bol",
+      "D": "sera gazı",
+      "E": "göçebe",
+      "F": "ikna etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "\"Extensively\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "beslemek",
+      "B": "az oranda",
+      "C": "direnç",
+      "D": "keşfetmek",
+      "E": "geniş çapta",
+      "F": "sera gazı"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 3,
+    "question": "\"Resistance\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnç",
+      "B": "geniş çapta",
+      "C": "beslemek",
+      "D": "şiddetli",
+      "E": "kesin",
+      "F": "göçebe"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "\"Abundant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "bol",
+      "C": "direnç",
+      "D": "az oranda",
+      "E": "sera gazı",
+      "F": "kesin"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "\"Hinder\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "direnç",
+      "C": "hızla çoğalmak",
+      "D": "koku",
+      "E": "şiddetli",
+      "F": "engellemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"Violent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnç",
+      "B": "şiddetli",
+      "C": "göçebe",
+      "D": "kesin",
+      "E": "sera gazı",
+      "F": "hızla artmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "\"Adhesive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hızla artmak",
+      "B": "cevher",
+      "C": "yapıştırıcı",
+      "D": "almak",
+      "E": "göçebe",
+      "F": "ikna etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Possess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sera gazı",
+      "B": "göçebe",
+      "C": "direnç",
+      "D": "yapıştırıcı",
+      "E": "engellemek",
+      "F": "sahip olmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 9,
+    "question": "\"Extensively\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cevher",
+      "B": "almak",
+      "C": "az oranda",
+      "D": "keşfetmek",
+      "E": "geniş çapta",
+      "F": "koku"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 10,
+    "question": "\"Possess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sahip olmak",
+      "B": "atık",
+      "C": "bol",
+      "D": "direnç",
+      "E": "cevher",
+      "F": "almak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "\"Explore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin",
+      "B": "şiddetli",
+      "C": "keşfetmek",
+      "D": "göçebe",
+      "E": "sera gazı",
+      "F": "sahip olmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "\"Adhesive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "almak",
+      "C": "kesin",
+      "D": "sahip olmak",
+      "E": "az oranda",
+      "F": "yapıştırıcı"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 13,
+    "question": "\"Proliferate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "engellemek",
+      "C": "atık",
+      "D": "hızla çoğalmak",
+      "E": "koku",
+      "F": "az oranda"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "\"Abundant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bol",
+      "B": "direnç",
+      "C": "yapıştırıcı",
+      "D": "az oranda",
+      "E": "atık",
+      "F": "göçebe"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "\"Resistance\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "direnç",
+      "B": "almak",
+      "C": "engellemek",
+      "D": "ikna etmek",
+      "E": "atık",
+      "F": "sera gazı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "\"Receive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hızla çoğalmak",
+      "B": "hızla artmak",
+      "C": "almak",
+      "D": "ikna etmek",
+      "E": "sahip olmak",
+      "F": "şiddetli"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Greenhouse gas\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hızla artmak",
+      "B": "sera gazı",
+      "C": "koku",
+      "D": "ikna etmek",
+      "E": "sahip olmak",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "\"Ore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cevher",
+      "B": "göçebe",
+      "C": "atık",
+      "D": "yapıştırıcı",
+      "E": "sahip olmak",
+      "F": "ikna etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "\"Explore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddetli",
+      "B": "ikna etmek",
+      "C": "sera gazı",
+      "D": "beslemek",
+      "E": "yapıştırıcı",
+      "F": "keşfetmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 20,
+    "question": "\"Abundant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "bol",
+      "B": "almak",
+      "C": "hızla artmak",
+      "D": "hızla çoğalmak",
+      "E": "şiddetli",
+      "F": "koku"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "\"Greenhouse gas\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "ikna etmek",
+      "B": "direnç",
+      "C": "engellemek",
+      "D": "atık",
+      "E": "kesin",
+      "F": "sera gazı"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 22,
+    "question": "\"Explore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşfetmek",
+      "B": "göçebe",
+      "C": "kesin",
+      "D": "hızla artmak",
+      "E": "bol",
+      "F": "cevher"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "\"Definite\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "atık",
+      "B": "geniş çapta",
+      "C": "beslemek",
+      "D": "direnç",
+      "E": "kesin",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 24,
+    "question": "\"Odour\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddetli",
+      "B": "cevher",
+      "C": "hızla çoğalmak",
+      "D": "göçebe",
+      "E": "koku",
+      "F": "atık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 25,
+    "question": "\"Nomadic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "şiddetli",
+      "C": "atık",
+      "D": "keşfetmek",
+      "E": "direnç",
+      "F": "almak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "\"Soar\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "almak",
+      "B": "beslemek",
+      "C": "cevher",
+      "D": "atık",
+      "E": "hızla artmak",
+      "F": "yapıştırıcı"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 27,
+    "question": "\"Violent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "göçebe",
+      "B": "keşfetmek",
+      "C": "şiddetli",
+      "D": "atık",
+      "E": "hızla çoğalmak",
+      "F": "sahip olmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"Ore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "göçebe",
+      "C": "ikna etmek",
+      "D": "bol",
+      "E": "cevher",
+      "F": "almak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 29,
+    "question": "\"Feed\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşfetmek",
+      "B": "sera gazı",
+      "C": "beslemek",
+      "D": "yapıştırıcı",
+      "E": "bol",
+      "F": "cevher"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "\"Receive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "almak",
+      "B": "bol",
+      "C": "keşfetmek",
+      "D": "sahip olmak",
+      "E": "cevher",
+      "F": "az oranda"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "\"Greenhouse gas\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cevher",
+      "B": "sera gazı",
+      "C": "hızla artmak",
+      "D": "direnç",
+      "E": "almak",
+      "F": "kesin"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "\"Ore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "koku",
+      "B": "kesin",
+      "C": "cevher",
+      "D": "az oranda",
+      "E": "bol",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 33,
+    "question": "\"Definite\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hızla çoğalmak",
+      "B": "sera gazı",
+      "C": "beslemek",
+      "D": "atık",
+      "E": "geniş çapta",
+      "F": "kesin"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Hinder\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşfetmek",
+      "B": "engellemek",
+      "C": "kesin",
+      "D": "şiddetli",
+      "E": "göçebe",
+      "F": "yapıştırıcı"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "\"Slightly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş çapta",
+      "B": "yapıştırıcı",
+      "C": "az oranda",
+      "D": "hızla çoğalmak",
+      "E": "direnç",
+      "F": "cevher"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "\"Extensively\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sahip olmak",
+      "B": "direnç",
+      "C": "beslemek",
+      "D": "cevher",
+      "E": "geniş çapta",
+      "F": "keşfetmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 37,
+    "question": "\"Odour\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "almak",
+      "B": "bol",
+      "C": "geniş çapta",
+      "D": "koku",
+      "E": "beslemek",
+      "F": "hızla çoğalmak"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Slightly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sahip olmak",
+      "B": "ikna etmek",
+      "C": "az oranda",
+      "D": "engellemek",
+      "E": "direnç",
+      "F": "beslemek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "\"Waste\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "atık",
+      "B": "beslemek",
+      "C": "geniş çapta",
+      "D": "göçebe",
+      "E": "az oranda",
+      "F": "yapıştırıcı"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Hinder\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "engellemek",
+      "B": "şiddetli",
+      "C": "geniş çapta",
+      "D": "direnç",
+      "E": "az oranda",
+      "F": "cevher"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "\"Feed\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "almak",
+      "B": "hızla artmak",
+      "C": "direnç",
+      "D": "hızla çoğalmak",
+      "E": "sahip olmak",
+      "F": "beslemek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 42,
+    "question": "\"Possess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "şiddetli",
+      "B": "geniş çapta",
+      "C": "kesin",
+      "D": "almak",
+      "E": "sahip olmak",
+      "F": "atık"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 43,
+    "question": "\"Nomadic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yapıştırıcı",
+      "B": "az oranda",
+      "C": "geniş çapta",
+      "D": "cevher",
+      "E": "göçebe",
+      "F": "direnç"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 44,
+    "question": "\"Proliferate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin",
+      "B": "hızla çoğalmak",
+      "C": "göçebe",
+      "D": "cevher",
+      "E": "engellemek",
+      "F": "direnç"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "\"Odour\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşfetmek",
+      "B": "koku",
+      "C": "az oranda",
+      "D": "şiddetli",
+      "E": "engellemek",
+      "F": "atık"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "\"Possess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş çapta",
+      "B": "beslemek",
+      "C": "sahip olmak",
+      "D": "direnç",
+      "E": "hızla artmak",
+      "F": "atık"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "\"Nomadic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "atık",
+      "B": "engellemek",
+      "C": "göçebe",
+      "D": "koku",
+      "E": "beslemek",
+      "F": "kesin"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 48,
+    "question": "\"Abundant\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "atık",
+      "B": "hızla çoğalmak",
+      "C": "ikna etmek",
+      "D": "bol",
+      "E": "sahip olmak",
+      "F": "cevher"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "\"Explore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "koku",
+      "B": "hızla çoğalmak",
+      "C": "bol",
+      "D": "beslemek",
+      "E": "direnç",
+      "F": "keşfetmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Proliferate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cevher",
+      "B": "atık",
+      "C": "şiddetli",
+      "D": "ikna etmek",
+      "E": "hızla çoğalmak",
+      "F": "sera gazı"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 51,
+    "question": "\"Odour\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cevher",
+      "B": "şiddetli",
+      "C": "direnç",
+      "D": "koku",
+      "E": "bol",
+      "F": "kesin"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 52,
+    "question": "\"Possess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşfetmek",
+      "B": "hızla artmak",
+      "C": "engellemek",
+      "D": "sahip olmak",
+      "E": "koku",
+      "F": "sera gazı"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 53,
+    "question": "\"Adhesive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sera gazı",
+      "B": "yapıştırıcı",
+      "C": "hızla artmak",
+      "D": "geniş çapta",
+      "E": "kesin",
+      "F": "ikna etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 54,
+    "question": "\"Nomadic\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yapıştırıcı",
+      "B": "hızla çoğalmak",
+      "C": "almak",
+      "D": "göçebe",
+      "E": "ikna etmek",
+      "F": "kesin"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 55,
+    "question": "\"Soar\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hızla artmak",
+      "B": "atık",
+      "C": "keşfetmek",
+      "D": "göçebe",
+      "E": "ikna etmek",
+      "F": "geniş çapta"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "\"Ore\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cevher",
+      "B": "hızla çoğalmak",
+      "C": "almak",
+      "D": "şiddetli",
+      "E": "bol",
+      "F": "engellemek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "\"Possess\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "keşfetmek",
+      "B": "koku",
+      "C": "yapıştırıcı",
+      "D": "direnç",
+      "E": "sahip olmak",
+      "F": "hızla artmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 58,
+    "question": "\"Extensively\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "cevher",
+      "B": "geniş çapta",
+      "C": "az oranda",
+      "D": "göçebe",
+      "E": "yapıştırıcı",
+      "F": "hızla artmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 59,
+    "question": "\"Greenhouse gas\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "beslemek",
+      "B": "koku",
+      "C": "göçebe",
+      "D": "sera gazı",
+      "E": "keşfetmek",
+      "F": "engellemek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "question": "\"Waste\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "koku",
+      "B": "atık",
+      "C": "hızla artmak",
+      "D": "engellemek",
+      "E": "direnç",
+      "F": "yapıştırıcı"
+    },
+    "correct": "B"
+  }
+]

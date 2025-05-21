@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "\"Threshold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "derinleştirmek",
+      "C": "zekice",
+      "D": "eşik",
+      "E": "kesin",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "\"Arable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gerçekleştirmek",
+      "B": "zekice",
+      "C": "anlaşma",
+      "D": "tarıma elverişli",
+      "E": "korumak",
+      "F": "istismar etmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 3,
+    "question": "\"Acknowledge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tarıma elverişli",
+      "B": "küme",
+      "C": "gerçekleştirmek",
+      "D": "korumak",
+      "E": "belirsiz",
+      "F": "kabul etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 4,
+    "question": "\"Ambiguous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "düşünmek",
+      "B": "geniş",
+      "C": "istismar etmek",
+      "D": "kirletmek",
+      "E": "belirsiz",
+      "F": "belirgin"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 5,
+    "question": "\"Accord\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kirletmek",
+      "B": "düşünmek",
+      "C": "istismar etmek",
+      "D": "yanma",
+      "E": "anlaşma",
+      "F": "tozlaştırmak"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 6,
+    "question": "\"Broad\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş",
+      "B": "eşik",
+      "C": "yanma",
+      "D": "belirgin",
+      "E": "küme",
+      "F": "derinleştirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "tozlaştırmak",
+      "C": "yosun",
+      "D": "zekice",
+      "E": "belirsiz",
+      "F": "korumak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 8,
+    "question": "\"Deepen\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanma",
+      "B": "belirgin",
+      "C": "küme",
+      "D": "tozlaştırmak",
+      "E": "derinleştirmek",
+      "F": "yosun"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 9,
+    "question": "\"Abuse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "zekice",
+      "C": "belirgin",
+      "D": "kabul etmek",
+      "E": "tarıma elverişli",
+      "F": "düşünmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "\"Arable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "belirsiz",
+      "C": "zekice",
+      "D": "tarıma elverişli",
+      "E": "küme",
+      "F": "kesin"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "\"Consider\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirgin",
+      "B": "havza",
+      "C": "kesin",
+      "D": "kabul etmek",
+      "E": "düşünmek",
+      "F": "geniş"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "\"Ambiguous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirgin",
+      "B": "havza",
+      "C": "belirsiz",
+      "D": "düşünmek",
+      "E": "kirletmek",
+      "F": "eşik"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eşik",
+      "B": "derinleştirmek",
+      "C": "korumak",
+      "D": "düşünmek",
+      "E": "anlaşma",
+      "F": "kesin"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "\"Ambiguous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kirletmek",
+      "B": "belirsiz",
+      "C": "zekice",
+      "D": "istismar etmek",
+      "E": "korumak",
+      "F": "tarıma elverişli"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "\"Cluster\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gerçekleştirmek",
+      "B": "küme",
+      "C": "istismar etmek",
+      "D": "belirsiz",
+      "E": "kirletmek",
+      "F": "kesin"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "question": "\"Ambiguous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tarıma elverişli",
+      "B": "geniş",
+      "C": "belirsiz",
+      "D": "kabul etmek",
+      "E": "yanma",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "\"Consider\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tarıma elverişli",
+      "B": "eşik",
+      "C": "düşünmek",
+      "D": "zekice",
+      "E": "korumak",
+      "F": "anlaşma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşma",
+      "B": "tarıma elverişli",
+      "C": "belirsiz",
+      "D": "kabul etmek",
+      "E": "tozlaştırmak",
+      "F": "belirgin"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 19,
+    "question": "\"Abuse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "gerçekleştirmek",
+      "C": "tozlaştırmak",
+      "D": "küme",
+      "E": "eşik",
+      "F": "havza"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tozlaştırmak",
+      "B": "kirletmek",
+      "C": "korumak",
+      "D": "tarıma elverişli",
+      "E": "belirgin",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 21,
+    "question": "\"Conclusive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "düşünmek",
+      "B": "yanma",
+      "C": "anlaşma",
+      "D": "kesin",
+      "E": "kabul etmek",
+      "F": "küme"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Arable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kabul etmek",
+      "B": "anlaşma",
+      "C": "belirsiz",
+      "D": "tozlaştırmak",
+      "E": "zekice",
+      "F": "tarıma elverişli"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 23,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "düşünmek",
+      "B": "belirsiz",
+      "C": "korumak",
+      "D": "eşik",
+      "E": "havza",
+      "F": "derinleştirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "question": "\"Algae\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kesin",
+      "B": "belirgin",
+      "C": "belirsiz",
+      "D": "yosun",
+      "E": "istismar etmek",
+      "F": "küme"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "\"Pollinate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanma",
+      "B": "gerçekleştirmek",
+      "C": "tozlaştırmak",
+      "D": "anlaşma",
+      "E": "geniş",
+      "F": "küme"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "korumak",
+      "B": "kirletmek",
+      "C": "tarıma elverişli",
+      "D": "düşünmek",
+      "E": "tozlaştırmak",
+      "F": "kabul etmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "\"Accord\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "düşünmek",
+      "B": "derinleştirmek",
+      "C": "anlaşma",
+      "D": "kesin",
+      "E": "belirsiz",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "\"Threshold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "küme",
+      "B": "eşik",
+      "C": "yanma",
+      "D": "derinleştirmek",
+      "E": "istismar etmek",
+      "F": "kabul etmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "\"Ingenious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "düşünmek",
+      "B": "tarıma elverişli",
+      "C": "zekice",
+      "D": "anlaşma",
+      "E": "gerçekleştirmek",
+      "F": "yosun"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "\"Undertake\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tarıma elverişli",
+      "B": "zekice",
+      "C": "gerçekleştirmek",
+      "D": "küme",
+      "E": "derinleştirmek",
+      "F": "düşünmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "question": "\"Pollinate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gerçekleştirmek",
+      "B": "yosun",
+      "C": "küme",
+      "D": "düşünmek",
+      "E": "kirletmek",
+      "F": "tozlaştırmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 32,
+    "question": "\"Consider\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "düşünmek",
+      "B": "kesin",
+      "C": "küme",
+      "D": "belirsiz",
+      "E": "kabul etmek",
+      "F": "geniş"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "\"Acknowledge\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "küme",
+      "B": "belirgin",
+      "C": "tozlaştırmak",
+      "D": "kirletmek",
+      "E": "düşünmek",
+      "F": "kabul etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 34,
+    "question": "\"Threshold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eşik",
+      "B": "kabul etmek",
+      "C": "belirgin",
+      "D": "istismar etmek",
+      "E": "derinleştirmek",
+      "F": "tarıma elverişli"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tarıma elverişli",
+      "B": "yanma",
+      "C": "zekice",
+      "D": "düşünmek",
+      "E": "istismar etmek",
+      "F": "korumak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 36,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gerçekleştirmek",
+      "B": "yosun",
+      "C": "küme",
+      "D": "istismar etmek",
+      "E": "belirgin",
+      "F": "anlaşma"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 37,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "geniş",
+      "B": "havza",
+      "C": "korumak",
+      "D": "belirgin",
+      "E": "kesin",
+      "F": "istismar etmek"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "question": "\"Combustion\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirgin",
+      "B": "eşik",
+      "C": "küme",
+      "D": "korumak",
+      "E": "yanma",
+      "F": "düşünmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 39,
+    "question": "\"Cluster\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "küme",
+      "B": "gerçekleştirmek",
+      "C": "kabul etmek",
+      "D": "düşünmek",
+      "E": "eşik",
+      "F": "korumak"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "\"Broad\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zekice",
+      "B": "belirgin",
+      "C": "gerçekleştirmek",
+      "D": "kabul etmek",
+      "E": "yanma",
+      "F": "geniş"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 41,
+    "question": "\"Arable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "anlaşma",
+      "B": "eşik",
+      "C": "tarıma elverişli",
+      "D": "yanma",
+      "E": "kabul etmek",
+      "F": "küme"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eşik",
+      "B": "havza",
+      "C": "geniş",
+      "D": "korumak",
+      "E": "düşünmek",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "\"Threshold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zekice",
+      "B": "düşünmek",
+      "C": "eşik",
+      "D": "geniş",
+      "E": "yanma",
+      "F": "tarıma elverişli"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "\"Basin\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "havza",
+      "B": "yosun",
+      "C": "belirgin",
+      "D": "anlaşma",
+      "E": "kesin",
+      "F": "gerçekleştirmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanma",
+      "B": "belirgin",
+      "C": "tozlaştırmak",
+      "D": "geniş",
+      "E": "küme",
+      "F": "belirsiz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "\"Basin\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "tozlaştırmak",
+      "C": "geniş",
+      "D": "belirgin",
+      "E": "korumak",
+      "F": "havza"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 47,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "havza",
+      "B": "tozlaştırmak",
+      "C": "tarıma elverişli",
+      "D": "kabul etmek",
+      "E": "zekice",
+      "F": "belirgin"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 48,
+    "question": "\"Contaminate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "zekice",
+      "B": "derinleştirmek",
+      "C": "kabul etmek",
+      "D": "korumak",
+      "E": "yanma",
+      "F": "kirletmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "\"Conclusive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "korumak",
+      "C": "havza",
+      "D": "kirletmek",
+      "E": "düşünmek",
+      "F": "kesin"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 50,
+    "question": "\"Ingenious\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "istismar etmek",
+      "B": "zekice",
+      "C": "gerçekleştirmek",
+      "D": "havza",
+      "E": "düşünmek",
+      "F": "derinleştirmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 51,
+    "question": "\"Abuse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "gerçekleştirmek",
+      "B": "anlaşma",
+      "C": "düşünmek",
+      "D": "belirsiz",
+      "E": "eşik",
+      "F": "istismar etmek"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 52,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tarıma elverişli",
+      "B": "belirgin",
+      "C": "küme",
+      "D": "zekice",
+      "E": "derinleştirmek",
+      "F": "eşik"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 53,
+    "question": "\"Threshold\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "havza",
+      "B": "küme",
+      "C": "derinleştirmek",
+      "D": "yosun",
+      "E": "eşik",
+      "F": "zekice"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 54,
+    "question": "\"Arable\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yosun",
+      "B": "zekice",
+      "C": "tarıma elverişli",
+      "D": "gerçekleştirmek",
+      "E": "küme",
+      "F": "yanma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 55,
+    "question": "\"Contaminate\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "kirletmek",
+      "B": "eşik",
+      "C": "düşünmek",
+      "D": "belirgin",
+      "E": "kabul etmek",
+      "F": "küme"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "\"Conserve\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eşik",
+      "B": "kabul etmek",
+      "C": "tozlaştırmak",
+      "D": "yosun",
+      "E": "korumak",
+      "F": "derinleştirmek"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 57,
+    "question": "\"Explicit\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tarıma elverişli",
+      "B": "kirletmek",
+      "C": "belirgin",
+      "D": "korumak",
+      "E": "belirsiz",
+      "F": "yanma"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 58,
+    "question": "\"Accord\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirgin",
+      "B": "eşik",
+      "C": "anlaşma",
+      "D": "küme",
+      "E": "kirletmek",
+      "F": "tarıma elverişli"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "\"Ambiguous\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "eşik",
+      "B": "belirsiz",
+      "C": "zekice",
+      "D": "kirletmek",
+      "E": "derinleştirmek",
+      "F": "belirgin"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 60,
+    "question": "\"Conclusive\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tozlaştırmak",
+      "B": "kesin",
+      "C": "gerçekleştirmek",
+      "D": "havza",
+      "E": "düşünmek",
+      "F": "istismar etmek"
+    },
+    "correct": "B"
+  }
+]

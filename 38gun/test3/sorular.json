@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "\"umut verici\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Reinforce",
+      "B": "Dominant",
+      "C": "Promising",
+      "D": "Inadvertent",
+      "E": "Eclipse",
+      "F": "Obscure"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "\"Randomly\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "hariç tutmak",
+      "B": "umut verici",
+      "C": "tekrarlayan",
+      "D": "rastgele",
+      "E": "önce gelmek",
+      "F": "çok yönlü"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 3,
+    "question": "\"Notation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "işlenmemiş",
+      "B": "avlamak",
+      "C": "sezgi",
+      "D": "önce gelmek",
+      "E": "gelgit",
+      "F": "sembolleme"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 4,
+    "question": "\"mercan resifleri\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Recurrent",
+      "B": "Raw",
+      "C": "Reinforce",
+      "D": "Prey on/upon",
+      "E": "Coral reefs",
+      "F": "Promising"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 5,
+    "question": "\"tekrarlayan\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Germ",
+      "B": "Eclipse",
+      "C": "Dominant",
+      "D": "Tide",
+      "E": "Novel",
+      "F": "Recurrent"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 6,
+    "question": "\"güçlendirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Reinforce",
+      "B": "Prey on/upon",
+      "C": "Versatile",
+      "D": "Raw",
+      "E": "Tide",
+      "F": "Precede"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "\"Inadvertent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlendirmek",
+      "B": "sembolleme",
+      "C": "yanlışlıkla",
+      "D": "avlamak",
+      "E": "tutulma (ay, güneş)",
+      "F": "rastgele"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "\"Tide\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tutulma (ay, güneş)",
+      "B": "sembolleme",
+      "C": "baskın",
+      "D": "sezgi",
+      "E": "gelgit",
+      "F": "rastgele"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 9,
+    "question": "\"Versatile\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "çok yönlü",
+      "B": "gelgit",
+      "C": "güçlendirmek",
+      "D": "sembolleme",
+      "E": "mercan resifleri",
+      "F": "işlenmemiş"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "\"belirsiz\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Promising",
+      "B": "Germ",
+      "C": "Obscure",
+      "D": "Eclipse",
+      "E": "Tide",
+      "F": "Coral reefs"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "\"sembolleme\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Versatile",
+      "B": "Insight",
+      "C": "Germ",
+      "D": "Prey on/upon",
+      "E": "Notation",
+      "F": "Obscure"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 12,
+    "question": "\"Coral reefs\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yeni",
+      "B": "mercan resifleri",
+      "C": "sezgi",
+      "D": "sembolleme",
+      "E": "hariç tutmak",
+      "F": "belirsiz"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "\"Eclipse\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "baskın",
+      "C": "işlenmemiş",
+      "D": "güçlendirmek",
+      "E": "tutulma (ay, güneş)",
+      "F": "sembolleme"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 14,
+    "question": "\"önce gelmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Dominant",
+      "B": "Precede",
+      "C": "Recurrent",
+      "D": "Obscure",
+      "E": "Expose to",
+      "F": "Insight"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "\"Raw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "mercan resifleri",
+      "B": "sezgi",
+      "C": "sembolleme",
+      "D": "maruz bırakmak",
+      "E": "mikrop",
+      "F": "işlenmemiş"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 16,
+    "question": "\"Exclude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "hariç tutmak",
+      "C": "rastgele",
+      "D": "gelgit",
+      "E": "baskın",
+      "F": "önce gelmek"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 17,
+    "question": "\"Coral reefs\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "tekrarlayan",
+      "B": "mikrop",
+      "C": "sembolleme",
+      "D": "mercan resifleri",
+      "E": "umut verici",
+      "F": "tutulma (ay, güneş)"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "\"sembolleme\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Novel",
+      "B": "Coral reefs",
+      "C": "Dominant",
+      "D": "Notation",
+      "E": "Promising",
+      "F": "Versatile"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 19,
+    "question": "\"avlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Novel",
+      "B": "Prey on/upon",
+      "C": "Obscure",
+      "D": "Insight",
+      "E": "Eclipse",
+      "F": "Precede"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "\"tekrarlayan\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Versatile",
+      "B": "Precede",
+      "C": "Raw",
+      "D": "Obscure",
+      "E": "Recurrent",
+      "F": "Novel"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 21,
+    "question": "\"yeni\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Notation",
+      "B": "Promising",
+      "C": "Versatile",
+      "D": "Novel",
+      "E": "Dominant",
+      "F": "Inadvertent"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "\"Exclude\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yeni",
+      "B": "sembolleme",
+      "C": "belirsiz",
+      "D": "çok yönlü",
+      "E": "tekrarlayan",
+      "F": "hariç tutmak"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 23,
+    "question": "\"Reinforce\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "güçlendirmek",
+      "B": "mikrop",
+      "C": "sembolleme",
+      "D": "işlenmemiş",
+      "E": "tekrarlayan",
+      "F": "sezgi"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "\"Novel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanlışlıkla",
+      "B": "yeni",
+      "C": "umut verici",
+      "D": "güçlendirmek",
+      "E": "işlenmemiş",
+      "F": "mikrop"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "\"Notation\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "rastgele",
+      "B": "sembolleme",
+      "C": "tutulma (ay, güneş)",
+      "D": "maruz bırakmak",
+      "E": "tekrarlayan",
+      "F": "hariç tutmak"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "\"umut verici\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Tide",
+      "B": "Versatile",
+      "C": "Promising",
+      "D": "Insight",
+      "E": "Prey on/upon",
+      "F": "Dominant"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "\"güçlendirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Coral reefs",
+      "B": "Prey on/upon",
+      "C": "Tide",
+      "D": "Expose to",
+      "E": "Eclipse",
+      "F": "Reinforce"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 28,
+    "question": "\"sezgi\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Raw",
+      "B": "Tide",
+      "C": "Insight",
+      "D": "Coral reefs",
+      "E": "Germ",
+      "F": "Versatile"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 29,
+    "question": "\"rastgele\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Versatile",
+      "B": "Exclude",
+      "C": "Randomly",
+      "D": "Precede",
+      "E": "Notation",
+      "F": "Tide"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "\"maruz bırakmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Exclude",
+      "B": "Insight",
+      "C": "Expose to",
+      "D": "Novel",
+      "E": "Coral reefs",
+      "F": "Promising"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "question": "\"yeni\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Insight",
+      "B": "Dominant",
+      "C": "Novel",
+      "D": "Tide",
+      "E": "Notation",
+      "F": "Randomly"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "\"tutulma (ay, güneş)\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Eclipse",
+      "B": "Obscure",
+      "C": "Notation",
+      "D": "Dominant",
+      "E": "Coral reefs",
+      "F": "Precede"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "\"güçlendirmek\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Prey on/upon",
+      "B": "Reinforce",
+      "C": "Germ",
+      "D": "Obscure",
+      "E": "Exclude",
+      "F": "Randomly"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "\"mercan resifleri\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Notation",
+      "B": "Exclude",
+      "C": "Coral reefs",
+      "D": "Germ",
+      "E": "Obscure",
+      "F": "Recurrent"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "\"mikrop\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Reinforce",
+      "B": "Germ",
+      "C": "Raw",
+      "D": "Expose to",
+      "E": "Inadvertent",
+      "F": "Tide"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "\"sezgi\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Insight",
+      "B": "Novel",
+      "C": "Notation",
+      "D": "Versatile",
+      "E": "Obscure",
+      "F": "Exclude"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "\"maruz bırakmak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Reinforce",
+      "B": "Eclipse",
+      "C": "Insight",
+      "D": "Expose to",
+      "E": "Tide",
+      "F": "Novel"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "\"Raw\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "işlenmemiş",
+      "B": "umut verici",
+      "C": "tutulma (ay, güneş)",
+      "D": "sembolleme",
+      "E": "maruz bırakmak",
+      "F": "önce gelmek"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "\"Recurrent\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "önce gelmek",
+      "B": "tekrarlayan",
+      "C": "mikrop",
+      "D": "tutulma (ay, güneş)",
+      "E": "belirsiz",
+      "F": "mercan resifleri"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "\"mikrop\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Novel",
+      "B": "Inadvertent",
+      "C": "Tide",
+      "D": "Coral reefs",
+      "E": "Germ",
+      "F": "Reinforce"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 41,
+    "question": "\"Novel\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "önce gelmek",
+      "C": "mercan resifleri",
+      "D": "yeni",
+      "E": "yanlışlıkla",
+      "F": "umut verici"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "\"Obscure\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "belirsiz",
+      "B": "mikrop",
+      "C": "gelgit",
+      "D": "tutulma (ay, güneş)",
+      "E": "önce gelmek",
+      "F": "tekrarlayan"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "\"tekrarlayan\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Recurrent",
+      "B": "Coral reefs",
+      "C": "Exclude",
+      "D": "Inadvertent",
+      "E": "Obscure",
+      "F": "Novel"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "\"avlamak\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Dominant",
+      "B": "Prey on/upon",
+      "C": "Expose to",
+      "D": "Reinforce",
+      "E": "Tide",
+      "F": "Recurrent"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "\"yanlışlıkla\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Versatile",
+      "B": "Tide",
+      "C": "Insight",
+      "D": "Raw",
+      "E": "Inadvertent",
+      "F": "Promising"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 46,
+    "question": "\"umut verici\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Dominant",
+      "B": "Coral reefs",
+      "C": "Precede",
+      "D": "Tide",
+      "E": "Promising",
+      "F": "Germ"
+    },
+    "correct": "E"
+  },
+  {
+    "id": 47,
+    "question": "\"Insight\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "sezgi",
+      "B": "rastgele",
+      "C": "mikrop",
+      "D": "mercan resifleri",
+      "E": "işlenmemiş",
+      "F": "belirsiz"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "\"Tide\" kelimesinin Türkçe karşılığı nedir?",
+    "options": {
+      "A": "yanlışlıkla",
+      "B": "mikrop",
+      "C": "belirsiz",
+      "D": "yeni",
+      "E": "sezgi",
+      "F": "gelgit"
+    },
+    "correct": "F"
+  },
+  {
+    "id": 49,
+    "question": "\"tutulma (ay, güneş)\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Expose to",
+      "B": "Inadvertent",
+      "C": "Novel",
+      "D": "Eclipse",
+      "E": "Insight",
+      "F": "Dominant"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 50,
+    "question": "\"sezgi\" ifadesi aşağıdakilerden hangisiyle ifade edilir?",
+    "options": {
+      "A": "Dominant",
+      "B": "Exclude",
+      "C": "Notation",
+      "D": "Promising",
+      "E": "Germ",
+      "F": "Insight"
+    },
+    "correct": "F"
+  }
+]
